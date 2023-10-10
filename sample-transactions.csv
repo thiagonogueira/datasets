@@ -1,5 +1,5 @@
 "payment_id","account_id","date","type","operation","amount","balance","k_symbol"
-"1","2378",20230101,"CREDIT","full payment",700,700,""
+"1","2378",20230101,"CREDIT","partial payment",900,700,""
 "2","576",20230101,"CREDIT","full payment",900,900,""
 "3","704",20230101,"CREDIT","full payment",1000,1000,""
 "4","3818",20230101,"CREDIT","full payment",600,600,""
