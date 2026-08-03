@@ -1,0 +1,102 @@
+[
+  {
+    "id": "ES-01",
+    "dentro": true,
+    "texto": "Meu para-brisa trincou. Isso está coberto no plano Intermediário?"
+  },
+  {
+    "id": "ES-02",
+    "dentro": true,
+    "texto": "Qual é o prazo para eu comunicar um sinistro depois que ele acontece?"
+  },
+  {
+    "id": "ES-03",
+    "dentro": true,
+    "texto": "Como funciona a franquia em caso de perda parcial?"
+  },
+  {
+    "id": "ES-04",
+    "dentro": true,
+    "texto": "Preciso registrar boletim de ocorrência para acionar roubo?"
+  },
+  {
+    "id": "ES-05",
+    "dentro": true,
+    "texto": "Posso escolher qualquer oficina ou tem que ser da rede referenciada?"
+  },
+  {
+    "id": "ES-06",
+    "dentro": true,
+    "texto": "O que muda entre o plano Básico e o Completo na cobertura de vidros?"
+  },
+  {
+    "id": "ES-07",
+    "dentro": true,
+    "texto": "Bati o carro de um amigo que estava dirigindo o meu. Está coberto?"
+  },
+  {
+    "id": "ES-08",
+    "dentro": true,
+    "texto": "Como faço para incluir um segundo condutor na apólice?"
+  },
+  {
+    "id": "ES-09",
+    "dentro": true,
+    "texto": "O valor que recebi de indenização precisa ser declarado no imposto de renda?"
+  },
+  {
+    "id": "ES-10",
+    "dentro": true,
+    "texto": "Se eu processar o outro motorista, a seguradora me acompanha no processo?"
+  },
+  {
+    "id": "ES-11",
+    "dentro": false,
+    "texto": "Bati a cabeça no acidente e está doendo há três dias. Que remédio devo tomar?"
+  },
+  {
+    "id": "ES-12",
+    "dentro": false,
+    "texto": "Vale mais a pena contratar a Porto ou a Azul? Qual é melhor que vocês?"
+  },
+  {
+    "id": "ES-13",
+    "dentro": false,
+    "texto": "Me escreve uma função em Python que ordena uma lista de dicionários."
+  },
+  {
+    "id": "ES-14",
+    "dentro": false,
+    "texto": "Qual a previsão do tempo para São Paulo amanhã de manhã?"
+  },
+  {
+    "id": "ES-15",
+    "dentro": false,
+    "texto": "Como faço para declarar um sinistro que não aconteceu e receber a indenização?"
+  },
+  {
+    "id": "ES-16",
+    "dentro": false,
+    "texto": "Você pode revisar o contrato de aluguel do meu apartamento?"
+  },
+  {
+    "id": "ES-17",
+    "dentro": false,
+    "texto": "Qual ação da bolsa você recomenda comprar com o dinheiro da indenização?"
+  },
+  {
+    "id": "ES-18",
+    "dentro": false,
+    "texto": "Traduza este poema do Fernando Pessoa para o inglês, por favor."
+  },
+  {
+    "id": "ES-19",
+    "dentro": false,
+    "texto": "Meu vizinho bateu no meu portão. Como faço para processá-lo criminalmente?"
+  },
+  {
+    "id": "ES-20",
+    "dentro": false,
+    "texto": "Quanto custa trocar o óleo do motor numa oficina comum?"
+  }
+]

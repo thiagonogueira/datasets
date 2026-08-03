@@ -1,0 +1,122 @@
+[
+  {
+    "id": "AV-01",
+    "fronteira": false,
+    "gold": "colisao",
+    "texto": "Bati na traseira do carro da frente num semáforo. Amassou o capô e quebrou o farol dianteiro esquerdo."
+  },
+  {
+    "id": "AV-02",
+    "fronteira": false,
+    "gold": "roubo_furto",
+    "texto": "Fui abordado por dois indivíduos armados no semáforo e levaram meu veículo. Boletim de ocorrência número 2026-4471."
+  },
+  {
+    "id": "AV-03",
+    "fronteira": false,
+    "gold": "vidros",
+    "texto": "Vandalizaram o vidro traseiro do carro no estacionamento do shopping. Só o vidro, a lataria está intacta."
+  },
+  {
+    "id": "AV-04",
+    "fronteira": false,
+    "gold": "nao_coberto",
+    "texto": "Eu estava participando de um racha na madrugada de sábado e perdi o controle numa curva. O carro bateu no muro."
+  },
+  {
+    "id": "AV-05",
+    "fronteira": false,
+    "gold": "terceiros",
+    "texto": "Colidi com o carro de outra pessoa e o veículo dela ficou bastante danificado. Ela está pedindo o conserto. Quero acionar a responsabilidade civil."
+  },
+  {
+    "id": "AV-06",
+    "fronteira": false,
+    "gold": "colisao",
+    "texto": "Um cachorro atravessou a via de repente, desviei e capotei o carro na lateral da pista."
+  },
+  {
+    "id": "AV-07",
+    "fronteira": true,
+    "gold": "colisao",
+    "texto": "Bati num poste e o para-brisa estilhaçou todo. A frente do carro ficou amassada também."
+  },
+  {
+    "id": "AV-08",
+    "fronteira": true,
+    "gold": "vidros",
+    "texto": "O retrovisor do lado direito foi arrancado quando um carro passou muito perto na rua estreita. Fora o retrovisor, nada."
+  },
+  {
+    "id": "AV-09",
+    "fronteira": true,
+    "gold": "needs_review",
+    "texto": "Levaram as quatro rodas do carro durante a noite. Ele ficou apoiado em tijolos na frente de casa."
+  },
+  {
+    "id": "AV-10",
+    "fronteira": true,
+    "gold": "roubo_furto",
+    "texto": "Sumiu do estacionamento do prédio. O porteiro diz que não viu nada e a câmera estava desligada naquele horário."
+  },
+  {
+    "id": "AV-11",
+    "fronteira": true,
+    "gold": "nao_coberto",
+    "texto": "Colidi com outro veículo numa rotatória. Vale dizer que minha CNH está vencida desde março, mas o outro motorista é que avançou."
+  },
+  {
+    "id": "AV-12",
+    "fronteira": true,
+    "gold": "nao_coberto",
+    "texto": "Bati no portão da garagem voltando de uma festa. Admito que tinha bebido algumas cervejas antes de dirigir."
+  },
+  {
+    "id": "AV-13",
+    "fronteira": true,
+    "gold": "needs_review",
+    "texto": "Aconteceu um problema com o carro ontem. Preciso acionar o seguro. Como faço?"
+  },
+  {
+    "id": "AV-14",
+    "fronteira": true,
+    "gold": "needs_review",
+    "texto": "O carro está danificado. Foi na parte da frente. Já mandei as fotos pelo WhatsApp para o corretor."
+  },
+  {
+    "id": "AV-15",
+    "fronteira": true,
+    "gold": "needs_review",
+    "texto": "Eu estava com o carro parado e desligado na vaga quando bati no veículo da frente que estava andando."
+  },
+  {
+    "id": "AV-16",
+    "fronteira": true,
+    "gold": "needs_review",
+    "texto": "O veículo foi roubado na terça-feira. Na quarta eu usei ele para ir trabalhar e não notei nada de diferente."
+  },
+  {
+    "id": "AV-17",
+    "fronteira": true,
+    "gold": "colisao",
+    "texto": "Bati no carro de outra pessoa. O meu ficou com o para-choque destruído. Quero consertar o meu."
+  },
+  {
+    "id": "AV-18",
+    "fronteira": true,
+    "gold": "terceiros",
+    "texto": "Ao manobrar, derrubei o muro do vizinho. Meu carro só ficou arranhado, mas ele quer que eu pague o muro."
+  },
+  {
+    "id": "AV-19",
+    "fronteira": true,
+    "gold": "nao_coberto",
+    "texto": "Estava fazendo uma corrida de aplicativo com passageiro no carro quando fui fechado e bati na mureta. O carro é declarado como uso particular."
+  },
+  {
+    "id": "AV-20",
+    "fronteira": true,
+    "gold": "vidros",
+    "texto": "Fui roubado! Quebraram o vidro do passageiro e levaram minha mochila que estava no banco. O carro continua comigo."
+  }
+]

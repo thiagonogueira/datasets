@@ -1,0 +1,194 @@
+[
+  {
+    "id": "AT-01",
+    "fronteira": false,
+    "gold": "duvida_contrato",
+    "texto": "Qual o valor da minha franquia hoje?"
+  },
+  {
+    "id": "AT-02",
+    "fronteira": false,
+    "gold": "aviso_sinistro",
+    "texto": "Acabei de bater o carro na Marginal, ninguém se feriu. O que eu faço agora?"
+  },
+  {
+    "id": "AT-03",
+    "fronteira": false,
+    "gold": "reclamacao",
+    "texto": "Péssimo atendimento. Fui maltratado pelo atendente e quero registrar isso."
+  },
+  {
+    "id": "AT-04",
+    "fronteira": false,
+    "gold": "alteracao_cadastral",
+    "texto": "Quero incluir minha filha como condutora, ela tirou a habilitação semana passada."
+  },
+  {
+    "id": "AT-05",
+    "fronteira": false,
+    "gold": "cancelamento",
+    "texto": "Vendi o carro. Quero cancelar o seguro e pedir a devolução proporcional."
+  },
+  {
+    "id": "AT-06",
+    "fronteira": false,
+    "gold": "fora_de_escopo",
+    "texto": "Vocês fazem seguro de celular também? Meu iPhone caiu na piscina."
+  },
+  {
+    "id": "AT-07",
+    "fronteira": true,
+    "gold": "aviso_sinistro",
+    "texto": "Não sei se isso é sinistro. Encostei num carro no estacionamento e ficou uma marquinha. Vale a pena acionar ou saio no prejuízo?"
+  },
+  {
+    "id": "AT-08",
+    "fronteira": true,
+    "gold": "reclamacao",
+    "texto": "Queria entender por que a minha renovação subiu 40% se eu nunca acionei o seguro em cinco anos. Isso me parece um absurdo."
+  },
+  {
+    "id": "AT-09",
+    "fronteira": true,
+    "gold": "duvida_contrato",
+    "texto": "Se eu emprestar o carro para meu sobrinho de 19 anos no fim de semana, continua tudo certo com a cobertura?"
+  },
+  {
+    "id": "AT-10",
+    "fronteira": true,
+    "gold": "cancelamento",
+    "texto": "Estou pensando seriamente em ir para outra seguradora. Como é o processo para encerrar antes do vencimento?"
+  },
+  {
+    "id": "AT-11",
+    "fronteira": true,
+    "gold": "needs_review",
+    "texto": "Preciso resolver aquilo que conversamos por telefone na semana passada. Já me passaram três protocolos diferentes."
+  },
+  {
+    "id": "AT-12",
+    "fronteira": true,
+    "gold": "needs_review",
+    "texto": "Bom dia. Como faço?"
+  },
+  {
+    "id": "AT-13",
+    "fronteira": true,
+    "gold": "alteracao_cadastral",
+    "texto": "Me casei e mudei de sobrenome. Isso muda alguma coisa na apólice ou posso deixar como está?"
+  },
+  {
+    "id": "AT-14",
+    "fronteira": true,
+    "gold": "fora_de_escopo",
+    "texto": "O guincho de vocês pode me levar até a casa da minha mãe em Curitiba? São só 400 km, aproveitaria a viagem."
+  },
+  {
+    "id": "AT-15",
+    "fronteira": true,
+    "gold": "aviso_sinistro",
+    "texto": "Meu carro amanheceu com o vidro quebrado e o som levado. Não sei se foi no meu prédio ou na rua, eu tinha estacionado nos dois lugares ontem."
+  },
+  {
+    "id": "AT-16",
+    "fronteira": true,
+    "gold": "reclamacao",
+    "texto": "A oficina credenciada por vocês devolveu meu carro com um risco novo na porta. Quem paga isso agora?"
+  },
+  {
+    "id": "AT-17",
+    "fronteira": true,
+    "gold": "duvida_contrato",
+    "texto": "Meu carro fica na rua durante a semana e na garagem no fim de semana. Eu declarei garagem. Isso é problema?"
+  },
+  {
+    "id": "AT-18",
+    "fronteira": true,
+    "gold": "needs_review",
+    "texto": "Isso está errado, por favor corrijam com urgência antes de sexta."
+  },
+  {
+    "id": "AT-19",
+    "fronteira": true,
+    "gold": "cancelamento",
+    "texto": "Não quero mais o seguro do Gol, mas quero manter o da Saveiro. Consegue separar isso?"
+  },
+  {
+    "id": "AT-20",
+    "fronteira": true,
+    "gold": "fora_de_escopo",
+    "texto": "Vocês têm indicação de um bom advogado trabalhista? Perdi meu emprego e não vou conseguir pagar."
+  },
+  {
+    "id": "AT-21",
+    "fronteira": true,
+    "gold": "cancelamento",
+    "texto": "Estou profundamente insatisfeito com a demora de vocês, foi a pior experiência que já tive com uma seguradora. Quero encerrar a apólice hoje mesmo."
+  },
+  {
+    "id": "AT-22",
+    "fronteira": true,
+    "gold": "aviso_sinistro",
+    "texto": "Bati o carro na segunda e até agora ninguém me retornou. Isso é um descaso completo, já liguei quatro vezes."
+  },
+  {
+    "id": "AT-23",
+    "fronteira": true,
+    "gold": "aviso_sinistro",
+    "texto": "Preciso trocar o veículo da apólice. O anterior foi roubado no mês passado e não recuperaram."
+  },
+  {
+    "id": "AT-24",
+    "fronteira": true,
+    "gold": "duvida_contrato",
+    "texto": "Se eu cancelar agora no meio da vigência, eu perco o bônus por não ter acionado o seguro nesses anos todos?"
+  },
+  {
+    "id": "AT-25",
+    "fronteira": true,
+    "gold": "cancelamento",
+    "texto": "Quanto eu recebo de volta se sair agora, faltando cinco meses?"
+  },
+  {
+    "id": "AT-26",
+    "fronteira": true,
+    "gold": "alteracao_cadastral",
+    "texto": "Meu filho vai passar a usar o carro para ir à faculdade. Preciso saber se isso muda alguma coisa e como faço para registrar ele."
+  },
+  {
+    "id": "AT-27",
+    "fronteira": true,
+    "gold": "duvida_contrato",
+    "texto": "Um amigo bateu o carro dele e a seguradora não pagou nada. Comigo aconteceria o mesmo se o condutor não fosse eu?"
+  },
+  {
+    "id": "AT-28",
+    "fronteira": true,
+    "gold": "reclamacao",
+    "texto": "A vistoria foi marcada três vezes e em nenhuma delas apareceu alguém. Estou perdendo dia de trabalho por causa disso."
+  },
+  {
+    "id": "AT-29",
+    "fronteira": true,
+    "gold": "fora_de_escopo",
+    "texto": "Vocês fazem seguro para drone? Uso o meu para trabalho e queria proteger contra queda."
+  },
+  {
+    "id": "AT-30",
+    "fronteira": true,
+    "gold": "needs_review",
+    "texto": "Sobre o que falamos ontem, pode dar andamento? Obrigado."
+  },
+  {
+    "id": "AT-31",
+    "fronteira": true,
+    "gold": "alteracao_cadastral",
+    "texto": "Boa tarde, tudo bem? Espero que sim. Estou escrevendo porque me mudei de cidade em janeiro, aproveitei para trocar de emprego também, e agora o carro dorme em garagem fechada e não mais na rua. Queria atualizar isso aí no cadastro de vocês."
+  },
+  {
+    "id": "AT-32",
+    "fronteira": true,
+    "gold": "aviso_sinistro",
+    "texto": "Não sei bem como funciona isso, nunca precisei usar. Ontem à noite, quando eu voltava do mercado, um carro encostou no meu na saída do estacionamento. Ficou uma amassadinha na porta traseira. O outro motorista deixou o telefone dele comigo."
+  }
+]

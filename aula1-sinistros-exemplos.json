@@ -1,0 +1,20 @@
+[
+  {
+    "id": "FS-01",
+    "texto": "Estava saindo da garagem e raspei a lateral do carro no portão. Amassou a porta do motorista e riscou a pintura.",
+    "gold": "colisao",
+    "porque": "impacto com objeto fixo, dano estrutural"
+  },
+  {
+    "id": "FS-02",
+    "texto": "Uma pedra saltou de um caminhão na estrada e trincou o para-brisa. O resto do carro não teve nada.",
+    "gold": "vidros",
+    "porque": "dano exclusivo de vidro, sem impacto estrutural"
+  },
+  {
+    "id": "FS-03",
+    "texto": "Deixei o carro na rua ontem à noite e hoje ele não estava mais lá. Não sei mais nada, vou registrar o boletim ainda.",
+    "gold": "roubo_furto",
+    "porque": "subtração do veículo inteiro; falta de detalhe não impede a categoria"
+  }
+]

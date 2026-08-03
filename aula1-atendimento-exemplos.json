@@ -1,0 +1,20 @@
+[
+  {
+    "id": "AT-FS-01",
+    "texto": "Boa tarde, queria saber até que dia consigo pagar a parcela deste mês sem perder a cobertura.",
+    "gold": "duvida_contrato",
+    "porque": "pergunta sobre condição contratual, sem pedido de ação"
+  },
+  {
+    "id": "AT-FS-02",
+    "texto": "Já é a terceira vez que ligo e ninguém resolve. Estou há 20 dias com o carro parado na oficina esperando autorização de vocês.",
+    "gold": "reclamacao",
+    "porque": "insatisfação com o serviço, reincidência explícita"
+  },
+  {
+    "id": "AT-FS-03",
+    "texto": "Preciso trocar o endereço onde o carro dorme, mudei de bairro no mês passado.",
+    "gold": "alteracao_cadastral",
+    "porque": "pedido de mudança em dado da apólice"
+  }
+]
