@@ -1,0 +1,122 @@
+[
+ {
+  "id": "R01",
+  "evento": "E1",
+  "texto": "Encostei no para-choque de um Corolla prata na Marginal Tietê, por volta das 18h, com o trânsito parado. Ficou um arranhão no para-choque dele."
+ },
+ {
+  "id": "R02",
+  "evento": "E1",
+  "texto": "Bati de leve na traseira de um Corolla prata na Marginal, no fim da tarde, em congestionamento. O dano foi um risco no para-choque."
+ },
+ {
+  "id": "R03",
+  "evento": "E2",
+  "texto": "Deixei o carro estacionado na rua em frente de casa, na Vila Mariana, e de manhã ele não estava mais lá. Levaram durante a noite."
+ },
+ {
+  "id": "R04",
+  "evento": "E2",
+  "texto": "Furto do veículo durante a madrugada, estacionado em via pública na Vila Mariana, em frente à residência do segurado. Percebido pela manhã."
+ },
+ {
+  "id": "R05",
+  "evento": "E3",
+  "texto": "Um caminhão soltou pedra na Castello Branco e estourou meu para-brisa, na altura de Barueri. Trincou tudo do lado do motorista."
+ },
+ {
+  "id": "R06",
+  "evento": "E3",
+  "texto": "Para-brisa trincado por pedra arremessada de caminhão na rodovia Castello Branco, próximo a Barueri, no lado do condutor."
+ },
+ {
+  "id": "R07",
+  "evento": "E4",
+  "texto": "Bati no poste na saída da garagem do prédio, na Rua Vergueiro. Amassou o capô e quebrou o farol esquerdo."
+ },
+ {
+  "id": "R08",
+  "evento": "E4",
+  "texto": "Choque contra poste de iluminação ao sair da garagem do edifício na Rua Vergueiro, com dano no capô e no farol do lado esquerdo."
+ },
+ {
+  "id": "R09",
+  "evento": "E5",
+  "texto": "Fui fechado por uma moto na Avenida Faria Lima, subi na calçada e derrubei o muro de uma casa. O muro caiu quase todo."
+ },
+ {
+  "id": "R10",
+  "evento": "E5",
+  "texto": "Depois de manobra brusca de um motociclista na Faria Lima, perdi o controle, subi na calçada e destruí o muro de uma residência."
+ },
+ {
+  "id": "R11",
+  "evento": "E6",
+  "texto": "Levaram as quatro rodas do carro durante a madrugada, no estacionamento do condomínio. Deixaram o carro apoiado em tijolos."
+ },
+ {
+  "id": "R12",
+  "evento": "E6",
+  "texto": "Furto das quatro rodas e pneus na garagem do condomínio, durante a noite. O veículo ficou sobre blocos de concreto."
+ },
+ {
+  "id": "R13",
+  "evento": "E7",
+  "texto": "O carro pegou fogo sozinho no estacionamento do shopping em Osasco, com ninguém por perto. Queimou o compartimento do motor."
+ },
+ {
+  "id": "R14",
+  "evento": "E7",
+  "texto": "Incêndio no cofre do motor com o veículo estacionado e desligado no shopping de Osasco, sem causa aparente."
+ },
+ {
+  "id": "R15",
+  "evento": null,
+  "texto": "Quebrei o retrovisor do lado direito ao passar raspando num carro estacionado."
+ },
+ {
+  "id": "R16",
+  "evento": null,
+  "texto": "Granizo amassou o teto e o capô inteiro durante a tempestade em Campinas."
+ },
+ {
+  "id": "R17",
+  "evento": null,
+  "texto": "Arrombaram a porta do passageiro e levaram a bolsa que estava no banco."
+ },
+ {
+  "id": "R18",
+  "evento": null,
+  "texto": "Capotei numa curva com pista molhada na descida da serra de Santos."
+ },
+ {
+  "id": "R19",
+  "evento": null,
+  "texto": "O motor superaqueceu na estrada e o carro parou de funcionar perto de Jundiaí."
+ },
+ {
+  "id": "R20",
+  "evento": null,
+  "texto": "Colidi com o guard rail ao desviar de uma capivara na pista, na Dutra."
+ },
+ {
+  "id": "R21",
+  "evento": null,
+  "texto": "Alagou a garagem do prédio e a água subiu até o painel do carro."
+ },
+ {
+  "id": "R22",
+  "evento": null,
+  "texto": "Atropelei um cachorro na avenida e amassei o para-lama dianteiro."
+ },
+ {
+  "id": "R23",
+  "evento": null,
+  "texto": "Fui atingido por outro veículo que avançou o sinal vermelho no cruzamento."
+ },
+ {
+  "id": "R24",
+  "evento": null,
+  "texto": "Riscaram a lateral do carro no estacionamento do supermercado."
+ }
+]

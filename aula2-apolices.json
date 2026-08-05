@@ -1,0 +1,362 @@
+[
+ {
+  "id": "BAS-1.1",
+  "plano": "Basico",
+  "clausula": "1.1",
+  "secao": "Objeto",
+  "titulo": "Objeto do seguro",
+  "texto": "Este contrato garante ao segurado a cobertura dos prejuízos resultantes dos riscos expressamente previstos nas condições contratadas, relativos ao veículo identificado na apólice, dentro do território nacional e durante a vigência."
+ },
+ {
+  "id": "BAS-2.1",
+  "plano": "Basico",
+  "clausula": "2.1",
+  "secao": "Coberturas",
+  "titulo": "Colisão, abalroamento e capotagem",
+  "texto": "Estão cobertos os danos ao veículo segurado decorrentes de colisão, abalroamento, capotagem, tombamento e queda em precipício, ainda que resultantes de imperícia do condutor. A participação obrigatória do segurado nesta cobertura é de R$ 3.200 por evento."
+ },
+ {
+  "id": "BAS-2.2",
+  "plano": "Basico",
+  "clausula": "2.2",
+  "secao": "Coberturas",
+  "titulo": "Incêndio, explosão e queda de raio",
+  "texto": "Estão cobertos os danos causados por incêndio, explosão ou queda de raio, ainda que originados fora do veículo. Não há participação obrigatória do segurado nesta cobertura."
+ },
+ {
+  "id": "BAS-2.3",
+  "plano": "Basico",
+  "clausula": "2.3",
+  "secao": "Coberturas",
+  "titulo": "Roubo e furto do veículo",
+  "texto": "Está coberta a subtração total do veículo mediante roubo ou furto, bem como os danos decorrentes de tentativa desses eventos. A indenização observa o valor de mercado referenciado na data do sinistro."
+ },
+ {
+  "id": "BAS-2.4",
+  "plano": "Basico",
+  "clausula": "2.4",
+  "secao": "Coberturas",
+  "titulo": "Quebra de vidros e acessórios",
+  "texto": "Esta cobertura garante o reparo ou a substituição de para-brisa, vidros laterais e vidro traseiro danificados por qualquer causa externa. O limite de indenização é de R$ 1.500 por vigência, com participação obrigatória de R$ 350 por peça substituída, e não inclui faróis nem lanternas."
+ },
+ {
+  "id": "BAS-2.5",
+  "plano": "Basico",
+  "clausula": "2.5",
+  "secao": "Coberturas",
+  "titulo": "Responsabilidade civil facultativa",
+  "texto": "Estão cobertos os valores pelos quais o segurado venha a ser responsabilizado por danos causados a terceiros, até R$ 50.000 para danos materiais e R$ 50.000 para danos corporais."
+ },
+ {
+  "id": "BAS-2.6",
+  "plano": "Basico",
+  "clausula": "2.6",
+  "secao": "Coberturas",
+  "titulo": "Acidentes pessoais de passageiros",
+  "texto": "Garante indenização em caso de morte ou invalidez permanente de ocupantes do veículo segurado, no limite de R$ 5.000 por passageiro."
+ },
+ {
+  "id": "BAS-3.1",
+  "plano": "Basico",
+  "clausula": "3.1",
+  "secao": "Assistência",
+  "titulo": "Reboque e remoção",
+  "texto": "Em caso de pane ou sinistro que impeça a locomoção do veículo, a assistência realiza o reboque até oficina da rede referenciada, com limite de 100 km por acionamento e dois eventos por vigência."
+ },
+ {
+  "id": "BAS-3.2",
+  "plano": "Basico",
+  "clausula": "3.2",
+  "secao": "Assistência",
+  "titulo": "Veículo reserva",
+  "texto": "Após sinistro indenizável que resulte em imobilização do veículo em oficina da rede referenciada, o segurado tem sem direito a carro reserva."
+ },
+ {
+  "id": "BAS-4.1",
+  "plano": "Basico",
+  "clausula": "4.1",
+  "secao": "Exclusões",
+  "titulo": "Riscos excluídos",
+  "texto": "Não estão cobertos danos ocorridos quando o veículo for conduzido por pessoa sob efeito de álcool ou substância entorpecente, utilizado em competição, empregado em transporte remunerado de passageiros sem previsão contratual, ou conduzido por pessoa não habilitada."
+ },
+ {
+  "id": "BAS-4.2",
+  "plano": "Basico",
+  "clausula": "4.2",
+  "secao": "Exclusões",
+  "titulo": "Desgaste e defeito próprio",
+  "texto": "Não estão cobertos os prejuízos decorrentes de desgaste natural, defeito de fabricação, falha mecânica ou elétrica não decorrente de risco coberto, nem os danos causados por transporte de carga em desacordo com o manual do fabricante."
+ },
+ {
+  "id": "BAS-5.1",
+  "plano": "Basico",
+  "clausula": "5.1",
+  "secao": "Sinistro",
+  "titulo": "Aviso de sinistro e prazo",
+  "texto": "O segurado deve comunicar o sinistro à seguradora tão logo dele tome conhecimento, e em qualquer hipótese em até 48 horas, sob pena de perda do direito à indenização se a demora agravar as consequências do evento."
+ },
+ {
+  "id": "BAS-5.2",
+  "plano": "Basico",
+  "clausula": "5.2",
+  "secao": "Sinistro",
+  "titulo": "Documentos exigidos para regulação",
+  "texto": "Para a regulação do sinistro o segurado deve apresentar boletim de ocorrência, documento de habilitação do condutor no momento do evento, documento do veículo e, nos casos de roubo ou furto, as chaves reserva e o comprovante de bloqueio do rastreador quando houver."
+ },
+ {
+  "id": "BAS-6.1",
+  "plano": "Basico",
+  "clausula": "6.1",
+  "secao": "Contrato",
+  "titulo": "Vigência e renovação",
+  "texto": "A apólice vigora pelo prazo de doze meses contados do início de vigência indicado no certificado. A renovação não é automática e depende de aceitação da seguradora."
+ },
+ {
+  "id": "BAS-6.2",
+  "plano": "Basico",
+  "clausula": "6.2",
+  "secao": "Contrato",
+  "titulo": "Cancelamento e devolução de prêmio",
+  "texto": "O segurado pode solicitar o cancelamento a qualquer tempo. A devolução de prêmio observa a tabela de prazo curto e desconta o período já decorrido de cobertura."
+ },
+ {
+  "id": "INT-1.1",
+  "plano": "Intermediario",
+  "clausula": "1.1",
+  "secao": "Objeto",
+  "titulo": "Objeto do seguro",
+  "texto": "Este contrato garante ao segurado a cobertura dos prejuízos resultantes dos riscos expressamente previstos nas condições contratadas, relativos ao veículo identificado na apólice, dentro do território nacional e durante a vigência."
+ },
+ {
+  "id": "INT-2.1",
+  "plano": "Intermediario",
+  "clausula": "2.1",
+  "secao": "Coberturas",
+  "titulo": "Colisão, abalroamento e capotagem",
+  "texto": "Estão cobertos os danos ao veículo segurado decorrentes de colisão, abalroamento, capotagem, tombamento e queda em precipício, ainda que resultantes de imperícia do condutor. A participação obrigatória do segurado nesta cobertura é de R$ 2.400 por evento."
+ },
+ {
+  "id": "INT-2.2",
+  "plano": "Intermediario",
+  "clausula": "2.2",
+  "secao": "Coberturas",
+  "titulo": "Incêndio, explosão e queda de raio",
+  "texto": "Estão cobertos os danos causados por incêndio, explosão ou queda de raio, ainda que originados fora do veículo. Não há participação obrigatória do segurado nesta cobertura."
+ },
+ {
+  "id": "INT-2.3",
+  "plano": "Intermediario",
+  "clausula": "2.3",
+  "secao": "Coberturas",
+  "titulo": "Roubo e furto do veículo",
+  "texto": "Está coberta a subtração total do veículo mediante roubo ou furto, bem como os danos decorrentes de tentativa desses eventos. A indenização observa o valor de mercado referenciado na data do sinistro."
+ },
+ {
+  "id": "INT-2.4",
+  "plano": "Intermediario",
+  "clausula": "2.4",
+  "secao": "Coberturas",
+  "titulo": "Quebra de vidros e acessórios",
+  "texto": "Esta cobertura garante o reparo ou a substituição de para-brisa, vidros laterais e vidro traseiro danificados por qualquer causa externa. O limite de indenização é de R$ 3.000 por vigência, com participação obrigatória de R$ 200 por peça substituída, e inclui retrovisores externos."
+ },
+ {
+  "id": "INT-2.5",
+  "plano": "Intermediario",
+  "clausula": "2.5",
+  "secao": "Coberturas",
+  "titulo": "Responsabilidade civil facultativa",
+  "texto": "Estão cobertos os valores pelos quais o segurado venha a ser responsabilizado por danos causados a terceiros, até R$ 100.000 para danos materiais e R$ 100.000 para danos corporais."
+ },
+ {
+  "id": "INT-2.6",
+  "plano": "Intermediario",
+  "clausula": "2.6",
+  "secao": "Coberturas",
+  "titulo": "Acidentes pessoais de passageiros",
+  "texto": "Garante indenização em caso de morte ou invalidez permanente de ocupantes do veículo segurado, no limite de R$ 15.000 por passageiro."
+ },
+ {
+  "id": "INT-3.1",
+  "plano": "Intermediario",
+  "clausula": "3.1",
+  "secao": "Assistência",
+  "titulo": "Reboque e remoção",
+  "texto": "Em caso de pane ou sinistro que impeça a locomoção do veículo, a assistência realiza o reboque até oficina da rede referenciada, com limite de 300 km por acionamento e quatro eventos por vigência."
+ },
+ {
+  "id": "INT-3.2",
+  "plano": "Intermediario",
+  "clausula": "3.2",
+  "secao": "Assistência",
+  "titulo": "Veículo reserva",
+  "texto": "Após sinistro indenizável que resulte em imobilização do veículo em oficina da rede referenciada, o segurado tem carro reserva por até 7 diárias."
+ },
+ {
+  "id": "INT-4.1",
+  "plano": "Intermediario",
+  "clausula": "4.1",
+  "secao": "Exclusões",
+  "titulo": "Riscos excluídos",
+  "texto": "Não estão cobertos danos ocorridos quando o veículo for conduzido por pessoa sob efeito de álcool ou substância entorpecente, utilizado em competição, empregado em transporte remunerado de passageiros sem previsão contratual, ou conduzido por pessoa não habilitada."
+ },
+ {
+  "id": "INT-4.2",
+  "plano": "Intermediario",
+  "clausula": "4.2",
+  "secao": "Exclusões",
+  "titulo": "Desgaste e defeito próprio",
+  "texto": "Não estão cobertos os prejuízos decorrentes de desgaste natural, defeito de fabricação, falha mecânica ou elétrica não decorrente de risco coberto, nem os danos causados por transporte de carga em desacordo com o manual do fabricante."
+ },
+ {
+  "id": "INT-5.1",
+  "plano": "Intermediario",
+  "clausula": "5.1",
+  "secao": "Sinistro",
+  "titulo": "Aviso de sinistro e prazo",
+  "texto": "O segurado deve comunicar o sinistro à seguradora tão logo dele tome conhecimento, e em qualquer hipótese em até 48 horas, sob pena de perda do direito à indenização se a demora agravar as consequências do evento."
+ },
+ {
+  "id": "INT-5.2",
+  "plano": "Intermediario",
+  "clausula": "5.2",
+  "secao": "Sinistro",
+  "titulo": "Documentos exigidos para regulação",
+  "texto": "Para a regulação do sinistro o segurado deve apresentar boletim de ocorrência, documento de habilitação do condutor no momento do evento, documento do veículo e, nos casos de roubo ou furto, as chaves reserva e o comprovante de bloqueio do rastreador quando houver."
+ },
+ {
+  "id": "INT-6.1",
+  "plano": "Intermediario",
+  "clausula": "6.1",
+  "secao": "Contrato",
+  "titulo": "Vigência e renovação",
+  "texto": "A apólice vigora pelo prazo de doze meses contados do início de vigência indicado no certificado. A renovação não é automática e depende de aceitação da seguradora."
+ },
+ {
+  "id": "INT-6.2",
+  "plano": "Intermediario",
+  "clausula": "6.2",
+  "secao": "Contrato",
+  "titulo": "Cancelamento e devolução de prêmio",
+  "texto": "O segurado pode solicitar o cancelamento a qualquer tempo. A devolução de prêmio observa a tabela de prazo curto e desconta o período já decorrido de cobertura."
+ },
+ {
+  "id": "COM-1.1",
+  "plano": "Completo",
+  "clausula": "1.1",
+  "secao": "Objeto",
+  "titulo": "Objeto do seguro",
+  "texto": "Este contrato garante ao segurado a cobertura dos prejuízos resultantes dos riscos expressamente previstos nas condições contratadas, relativos ao veículo identificado na apólice, dentro do território nacional e durante a vigência."
+ },
+ {
+  "id": "COM-2.1",
+  "plano": "Completo",
+  "clausula": "2.1",
+  "secao": "Coberturas",
+  "titulo": "Colisão, abalroamento e capotagem",
+  "texto": "Estão cobertos os danos ao veículo segurado decorrentes de colisão, abalroamento, capotagem, tombamento e queda em precipício, ainda que resultantes de imperícia do condutor. A participação obrigatória do segurado nesta cobertura é de R$ 1.600 por evento."
+ },
+ {
+  "id": "COM-2.2",
+  "plano": "Completo",
+  "clausula": "2.2",
+  "secao": "Coberturas",
+  "titulo": "Incêndio, explosão e queda de raio",
+  "texto": "Estão cobertos os danos causados por incêndio, explosão ou queda de raio, ainda que originados fora do veículo. Não há participação obrigatória do segurado nesta cobertura."
+ },
+ {
+  "id": "COM-2.3",
+  "plano": "Completo",
+  "clausula": "2.3",
+  "secao": "Coberturas",
+  "titulo": "Roubo e furto do veículo",
+  "texto": "Está coberta a subtração total do veículo mediante roubo ou furto, bem como os danos decorrentes de tentativa desses eventos. A indenização observa o valor de mercado referenciado na data do sinistro."
+ },
+ {
+  "id": "COM-2.4",
+  "plano": "Completo",
+  "clausula": "2.4",
+  "secao": "Coberturas",
+  "titulo": "Quebra de vidros e acessórios",
+  "texto": "Esta cobertura garante o reparo ou a substituição de para-brisa, vidros laterais e vidro traseiro danificados por qualquer causa externa. O limite de indenização é de R$ 8.000 por vigência, com participação obrigatória de R$ 100 por peça substituída, e inclui retrovisores, faróis e lanternas."
+ },
+ {
+  "id": "COM-2.5",
+  "plano": "Completo",
+  "clausula": "2.5",
+  "secao": "Coberturas",
+  "titulo": "Responsabilidade civil facultativa",
+  "texto": "Estão cobertos os valores pelos quais o segurado venha a ser responsabilizado por danos causados a terceiros, até R$ 250.000 para danos materiais e R$ 250.000 para danos corporais."
+ },
+ {
+  "id": "COM-2.6",
+  "plano": "Completo",
+  "clausula": "2.6",
+  "secao": "Coberturas",
+  "titulo": "Acidentes pessoais de passageiros",
+  "texto": "Garante indenização em caso de morte ou invalidez permanente de ocupantes do veículo segurado, no limite de R$ 50.000 por passageiro."
+ },
+ {
+  "id": "COM-3.1",
+  "plano": "Completo",
+  "clausula": "3.1",
+  "secao": "Assistência",
+  "titulo": "Reboque e remoção",
+  "texto": "Em caso de pane ou sinistro que impeça a locomoção do veículo, a assistência realiza o reboque até oficina da rede referenciada, com limite de 600 km por acionamento e eventos ilimitados."
+ },
+ {
+  "id": "COM-3.2",
+  "plano": "Completo",
+  "clausula": "3.2",
+  "secao": "Assistência",
+  "titulo": "Veículo reserva",
+  "texto": "Após sinistro indenizável que resulte em imobilização do veículo em oficina da rede referenciada, o segurado tem carro reserva por até 30 diárias."
+ },
+ {
+  "id": "COM-4.1",
+  "plano": "Completo",
+  "clausula": "4.1",
+  "secao": "Exclusões",
+  "titulo": "Riscos excluídos",
+  "texto": "Não estão cobertos danos ocorridos quando o veículo for conduzido por pessoa sob efeito de álcool ou substância entorpecente, utilizado em competição, empregado em transporte remunerado de passageiros sem previsão contratual, ou conduzido por pessoa não habilitada."
+ },
+ {
+  "id": "COM-4.2",
+  "plano": "Completo",
+  "clausula": "4.2",
+  "secao": "Exclusões",
+  "titulo": "Desgaste e defeito próprio",
+  "texto": "Não estão cobertos os prejuízos decorrentes de desgaste natural, defeito de fabricação, falha mecânica ou elétrica não decorrente de risco coberto, nem os danos causados por transporte de carga em desacordo com o manual do fabricante."
+ },
+ {
+  "id": "COM-5.1",
+  "plano": "Completo",
+  "clausula": "5.1",
+  "secao": "Sinistro",
+  "titulo": "Aviso de sinistro e prazo",
+  "texto": "O segurado deve comunicar o sinistro à seguradora tão logo dele tome conhecimento, e em qualquer hipótese em até 48 horas, sob pena de perda do direito à indenização se a demora agravar as consequências do evento."
+ },
+ {
+  "id": "COM-5.2",
+  "plano": "Completo",
+  "clausula": "5.2",
+  "secao": "Sinistro",
+  "titulo": "Documentos exigidos para regulação",
+  "texto": "Para a regulação do sinistro o segurado deve apresentar boletim de ocorrência, documento de habilitação do condutor no momento do evento, documento do veículo e, nos casos de roubo ou furto, as chaves reserva e o comprovante de bloqueio do rastreador quando houver."
+ },
+ {
+  "id": "COM-6.1",
+  "plano": "Completo",
+  "clausula": "6.1",
+  "secao": "Contrato",
+  "titulo": "Vigência e renovação",
+  "texto": "A apólice vigora pelo prazo de doze meses contados do início de vigência indicado no certificado. A renovação não é automática e depende de aceitação da seguradora."
+ },
+ {
+  "id": "COM-6.2",
+  "plano": "Completo",
+  "clausula": "6.2",
+  "secao": "Contrato",
+  "titulo": "Cancelamento e devolução de prêmio",
+  "texto": "O segurado pode solicitar o cancelamento a qualquer tempo. A devolução de prêmio observa a tabela de prazo curto e desconta o período já decorrido de cobertura."
+ }
+]

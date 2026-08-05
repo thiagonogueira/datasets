@@ -1,0 +1,142 @@
+[
+ {
+  "id": "P01",
+  "plano_gold": "Basico",
+  "clausula_gold": "2.4",
+  "tipo": "quase_dupl",
+  "texto": "Uma pedra estourou meu para-brisa na estrada. Quanto eu recebo e quanto pago?"
+ },
+ {
+  "id": "P02",
+  "plano_gold": "Completo",
+  "clausula_gold": "2.4",
+  "tipo": "quase_dupl",
+  "texto": "Trincou o vidro da porta do motorista. Tenho que pagar alguma coisa?"
+ },
+ {
+  "id": "P03",
+  "plano_gold": "Intermediario",
+  "clausula_gold": "2.4",
+  "tipo": "quase_dupl",
+  "texto": "Quebraram o vidro traseiro numa tentativa de furto. Qual o teto dessa cobertura?"
+ },
+ {
+  "id": "P04",
+  "plano_gold": "Basico",
+  "clausula_gold": "2.1",
+  "tipo": "quase_dupl",
+  "texto": "Bati na traseira de outro carro no semáforo. Quanto sai do meu bolso?"
+ },
+ {
+  "id": "P05",
+  "plano_gold": "Completo",
+  "clausula_gold": "2.1",
+  "tipo": "quase_dupl",
+  "texto": "Capotei numa curva na chuva. O seguro cobre, mesmo tendo sido culpa minha?"
+ },
+ {
+  "id": "P06",
+  "plano_gold": "Intermediario",
+  "clausula_gold": "2.5",
+  "tipo": "quase_dupl",
+  "texto": "Amassei o portão de uma casa ao manobrar. Até quanto a apólice paga para o dono?"
+ },
+ {
+  "id": "P07",
+  "plano_gold": "Completo",
+  "clausula_gold": "3.2",
+  "tipo": "quase_dupl",
+  "texto": "Meu carro vai ficar semanas na oficina. Fico a pé nesse período?"
+ },
+ {
+  "id": "P08",
+  "plano_gold": "Basico",
+  "clausula_gold": "3.1",
+  "tipo": "quase_dupl",
+  "texto": "O carro morreu na estrada a 180 quilômetros de casa. O guincho me leva até lá?"
+ },
+ {
+  "id": "P09",
+  "plano_gold": "Basico",
+  "clausula_gold": "2.3",
+  "tipo": "semantica",
+  "texto": "Levaram meu carro durante a noite na frente de casa e ele não apareceu mais."
+ },
+ {
+  "id": "P10",
+  "plano_gold": "Intermediario",
+  "clausula_gold": "2.3",
+  "tipo": "semantica",
+  "texto": "Fui rendido por dois indivíduos armados e eles saíram dirigindo o veículo."
+ },
+ {
+  "id": "P11",
+  "plano_gold": "Completo",
+  "clausula_gold": "5.1",
+  "tipo": "semantica",
+  "texto": "Só me dei conta do estrago dois dias depois. Ainda dá tempo de abrir?"
+ },
+ {
+  "id": "P12",
+  "plano_gold": "Basico",
+  "clausula_gold": "5.2",
+  "tipo": "semantica",
+  "texto": "O que eu preciso levar para a seguradora depois que registrei o caso na delegacia?"
+ },
+ {
+  "id": "P13",
+  "plano_gold": "Intermediario",
+  "clausula_gold": "4.1",
+  "tipo": "semantica",
+  "texto": "Eu tinha tomado umas cervejas antes de dirigir. Isso muda alguma coisa?"
+ },
+ {
+  "id": "P14",
+  "plano_gold": "Completo",
+  "clausula_gold": "4.2",
+  "tipo": "semantica",
+  "texto": "O motor começou a falhar sozinho, sem nenhuma batida. Está incluído?"
+ },
+ {
+  "id": "P15",
+  "plano_gold": "Basico",
+  "clausula_gold": "2.2",
+  "tipo": "semantica",
+  "texto": "O carro pegou fogo no estacionamento do shopping, sem ninguém por perto."
+ },
+ {
+  "id": "P16",
+  "plano_gold": "Intermediario",
+  "clausula_gold": "2.6",
+  "tipo": "semantica",
+  "texto": "Minha filha estava no banco de trás e se machucou no acidente. Tem alguma cobertura para ela?"
+ },
+ {
+  "id": "P17",
+  "plano_gold": "Completo",
+  "clausula_gold": "6.2",
+  "tipo": "semantica",
+  "texto": "Vou vender o carro no meio do ano. Recebo de volta o que paguei a mais?"
+ },
+ {
+  "id": "P18",
+  "plano_gold": "Basico",
+  "clausula_gold": "6.1",
+  "tipo": "semantica",
+  "texto": "Quando esse contrato acaba, ele continua sozinho ou eu preciso fazer alguma coisa?"
+ },
+ {
+  "id": "P19",
+  "plano_gold": "Intermediario",
+  "clausula_gold": "2.1",
+  "tipo": "lexical",
+  "texto": "A cobertura de colisão prevê participação obrigatória de quanto?"
+ },
+ {
+  "id": "P20",
+  "plano_gold": "Completo",
+  "clausula_gold": "2.5",
+  "tipo": "lexical",
+  "texto": "Qual o limite da responsabilidade civil facultativa para danos materiais?"
+ }
+]
