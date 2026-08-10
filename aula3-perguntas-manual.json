@@ -1,0 +1,236 @@
+[
+ {
+  "id": "M01",
+  "texto": "Uma indenizacao apurada em R$ 3.200 precisa da aprovacao de quem?",
+  "valor_esperado": "Analista de Regulacao I",
+  "tipo": "alcada"
+ },
+ {
+  "id": "M02",
+  "texto": "Uma indenizacao apurada em R$ 12.500 precisa da aprovacao de quem?",
+  "valor_esperado": "Analista de Regulacao II",
+  "tipo": "alcada"
+ },
+ {
+  "id": "M03",
+  "texto": "Uma indenizacao apurada em R$ 48.000 precisa da aprovacao de quem?",
+  "valor_esperado": "Coordenador de Sinistros",
+  "tipo": "alcada"
+ },
+ {
+  "id": "M04",
+  "texto": "Uma indenizacao apurada em R$ 85.000 precisa da aprovacao de quem?",
+  "valor_esperado": "Gerente de Sinistros",
+  "tipo": "alcada"
+ },
+ {
+  "id": "M05",
+  "texto": "Uma indenizacao apurada em R$ 220.000 precisa da aprovacao de quem?",
+  "valor_esperado": "Superintendente de Sinistros",
+  "tipo": "alcada"
+ },
+ {
+  "id": "M06",
+  "texto": "Uma indenizacao apurada em R$ 630.000 precisa da aprovacao de quem?",
+  "valor_esperado": "Comite de Sinistros",
+  "tipo": "alcada"
+ },
+ {
+  "id": "M07",
+  "texto": "Qual o prazo para agendar a vistoria em colisao simples sem terceiros?",
+  "valor_esperado": "3 dias uteis",
+  "tipo": "prazo"
+ },
+ {
+  "id": "M08",
+  "texto": "Qual o prazo para agendar a vistoria em colisao com envolvimento de terceiros?",
+  "valor_esperado": "3 dias uteis",
+  "tipo": "prazo"
+ },
+ {
+  "id": "M09",
+  "texto": "Qual o prazo para agendar a vistoria em roubo ou furto total do veiculo?",
+  "valor_esperado": "5 dias uteis",
+  "tipo": "prazo"
+ },
+ {
+  "id": "M10",
+  "texto": "Qual o prazo para agendar a vistoria em furto de acessorios e componentes?",
+  "valor_esperado": "2 dias uteis",
+  "tipo": "prazo"
+ },
+ {
+  "id": "M11",
+  "texto": "Qual o prazo para agendar a vistoria em incendio, explosao e queda de raio?",
+  "valor_esperado": "5 dias uteis",
+  "tipo": "prazo"
+ },
+ {
+  "id": "M12",
+  "texto": "Qual o prazo para agendar a vistoria em alagamento e submersao?",
+  "valor_esperado": "5 dias uteis",
+  "tipo": "prazo"
+ },
+ {
+  "id": "M13",
+  "texto": "Que documento especifico e exigido em danos por granizo?",
+  "valor_esperado": "boletim meteorologico do dia do evento",
+  "tipo": "documento"
+ },
+ {
+  "id": "M14",
+  "texto": "Que documento especifico e exigido em quebra de vidros, farois e lanternas?",
+  "valor_esperado": "foto da peca danificada com o chassi visivel",
+  "tipo": "documento"
+ },
+ {
+  "id": "M15",
+  "texto": "Que documento especifico e exigido em responsabilidade civil por danos a terceiros?",
+  "valor_esperado": "orcamento de tres oficinas do terceiro",
+  "tipo": "documento"
+ },
+ {
+  "id": "M16",
+  "texto": "Que documento especifico e exigido em acidentes pessoais de passageiros?",
+  "valor_esperado": "laudo do instituto medico legal",
+  "tipo": "documento"
+ },
+ {
+  "id": "M17",
+  "texto": "Que documento especifico e exigido em assistencia, reboque e remocao?",
+  "valor_esperado": "comprovante de acionamento da central",
+  "tipo": "documento"
+ },
+ {
+  "id": "M18",
+  "texto": "Que documento especifico e exigido em perda total do veiculo?",
+  "valor_esperado": "certidao negativa de debitos do veiculo",
+  "tipo": "documento"
+ },
+ {
+  "id": "M19",
+  "texto": "Na regulacao de roubo ou furto total do veiculo, qual e o terceiro passo?",
+  "valor_esperado": "solicitar",
+  "tipo": "passo"
+ },
+ {
+  "id": "M20",
+  "texto": "Na regulacao de roubo ou furto total do veiculo, qual e o ultimo passo?",
+  "valor_esperado": "encaminhar",
+  "tipo": "passo"
+ },
+ {
+  "id": "M21",
+  "texto": "Na regulacao de perda total do veiculo, qual e o terceiro passo?",
+  "valor_esperado": "exigir",
+  "tipo": "passo"
+ },
+ {
+  "id": "M22",
+  "texto": "Na regulacao de perda total do veiculo, qual e o ultimo passo?",
+  "valor_esperado": "efetuar",
+  "tipo": "passo"
+ },
+ {
+  "id": "M23",
+  "texto": "Na regulacao de colisao com envolvimento de terceiros, qual e o terceiro passo?",
+  "valor_esperado": "registrar",
+  "tipo": "passo"
+ },
+ {
+  "id": "M24",
+  "texto": "Na regulacao de colisao com envolvimento de terceiros, qual e o ultimo passo?",
+  "valor_esperado": "comunicar",
+  "tipo": "passo"
+ },
+ {
+  "id": "M25",
+  "texto": "Qual o prazo para aviso de sinistro pelo segurado?",
+  "valor_esperado": "48 horas do conhecimento do evento",
+  "tipo": "prazo"
+ },
+ {
+  "id": "M26",
+  "texto": "Qual o prazo para abertura do processo de regulacao?",
+  "valor_esperado": "1 dia util do aviso",
+  "tipo": "prazo"
+ },
+ {
+  "id": "M27",
+  "texto": "Qual o prazo para pagamento da indenizacao apos conclusao?",
+  "valor_esperado": "30 dias corridos",
+  "tipo": "prazo"
+ },
+ {
+  "id": "M28",
+  "texto": "Qual o prazo para solicitacao de documento complementar?",
+  "valor_esperado": "15 dias uteis da abertura",
+  "tipo": "prazo"
+ },
+ {
+  "id": "M29",
+  "texto": "Em perda total, qual o prazo para pagamento da indenizacao apos a conclusao?",
+  "valor_esperado": "30 dias corridos",
+  "tipo": "cruzada"
+ },
+ {
+  "id": "M30",
+  "texto": "Em colisao com terceiros, qual o prazo do segurado para recorrer de uma negativa?",
+  "valor_esperado": "30 dias corridos",
+  "tipo": "cruzada"
+ },
+ {
+  "id": "M31",
+  "texto": "A partir de que percentual do valor de mercado o veiculo e classificado como perda total?",
+  "valor_esperado": "75 por cento",
+  "tipo": "cruzada"
+ },
+ {
+  "id": "M32",
+  "texto": "O que diz a regra interna sobre prazo de resposta ao segurado em canais digitais?",
+  "valor_esperado": "5.1",
+  "tipo": "circular"
+ },
+ {
+  "id": "M33",
+  "texto": "O que diz a regra interna sobre padronizacao do laudo de danos?",
+  "valor_esperado": "5.2",
+  "tipo": "circular"
+ },
+ {
+  "id": "M34",
+  "texto": "O que diz a regra interna sobre uso de imagens na vistoria remota?",
+  "valor_esperado": "5.3",
+  "tipo": "circular"
+ },
+ {
+  "id": "M35",
+  "texto": "O que diz a regra interna sobre comunicacao de negativa?",
+  "valor_esperado": "5.4",
+  "tipo": "circular"
+ },
+ {
+  "id": "M36",
+  "texto": "O que diz a regra interna sobre tratamento de reclamacao em orgao de defesa do consumidor?",
+  "valor_esperado": "5.5",
+  "tipo": "circular"
+ },
+ {
+  "id": "M37",
+  "texto": "Qual o prazo regional de vistoria em SP?",
+  "valor_esperado": "3 dias uteis",
+  "tipo": "regional"
+ },
+ {
+  "id": "M38",
+  "texto": "Qual o prazo regional de vistoria em AM?",
+  "valor_esperado": "8 dias uteis",
+  "tipo": "regional"
+ },
+ {
+  "id": "M39",
+  "texto": "Qual o prazo regional de vistoria em BA?",
+  "valor_esperado": "6 dias uteis",
+  "tipo": "regional"
+ }
+]

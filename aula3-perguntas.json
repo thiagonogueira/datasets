@@ -1,0 +1,389 @@
+[
+ {
+  "id": "Q01",
+  "plano_gold": "Basico",
+  "texto": "Quebrou o vidro do meu carro. Ate quanto o seguro paga por ano?",
+  "valor_esperado": "R$ 1.500",
+  "valores_errados": [
+   "R$ 3.000",
+   "R$ 8.000"
+  ],
+  "onde_mora": "prosa",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q02",
+  "plano_gold": "Basico",
+  "texto": "Vou trocar o para-brisa. Quanto eu tenho que pagar do meu bolso por peca?",
+  "valor_esperado": "R$ 350",
+  "valores_errados": [
+   "R$ 200",
+   "R$ 100"
+  ],
+  "onde_mora": "prosa",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q03",
+  "plano_gold": "Basico",
+  "texto": "Bati o carro. Qual o valor da minha participacao obrigatoria?",
+  "valor_esperado": "R$ 3.200",
+  "valores_errados": [
+   "R$ 2.400",
+   "R$ 1.600"
+  ],
+  "onde_mora": "prosa",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q04",
+  "plano_gold": "Basico",
+  "texto": "Amassei o portao de uma casa. Ate quanto a apolice cobre de danos materiais a terceiros?",
+  "valor_esperado": "R$ 50.000",
+  "valores_errados": [
+   "R$ 100.000",
+   "R$ 250.000"
+  ],
+  "onde_mora": "prosa",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q05",
+  "plano_gold": "Basico",
+  "texto": "Se um passageiro meu falecer no acidente, qual o valor da indenizacao?",
+  "valor_esperado": "R$ 5.000",
+  "valores_errados": [
+   "R$ 15.000",
+   "R$ 50.000"
+  ],
+  "onde_mora": "prosa",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q06",
+  "plano_gold": "Basico",
+  "texto": "Quebrei na estrada. Ate quantos quilometros o guincho me leva?",
+  "valor_esperado": "100 km",
+  "valores_errados": [
+   "300 km",
+   "600 km"
+  ],
+  "onde_mora": "prosa",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q07",
+  "plano_gold": "Basico",
+  "texto": "Acabei de contratar. Tem carencia para usar a cobertura de vidros?",
+  "valor_esperado": "30 dias",
+  "valores_errados": [
+   "15 dias",
+   "sem carencia"
+  ],
+  "onde_mora": "tabela",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q08",
+  "plano_gold": "Basico",
+  "texto": "Qual o valor da diaria do carro reserva?",
+  "valor_esperado": "R$ 80",
+  "valores_errados": [
+   "R$ 120",
+   "R$ 200"
+  ],
+  "onde_mora": "tabela",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q09",
+  "plano_gold": "Basico",
+  "texto": "Qual a franquia da cobertura de responsabilidade civil?",
+  "valor_esperado": "R$ 1.000",
+  "valores_errados": [
+   "R$ 600",
+   "R$ 300"
+  ],
+  "onde_mora": "tabela",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q10",
+  "plano_gold": "Basico",
+  "texto": "Em quantos dias a oficina tem que me devolver o carro?",
+  "valor_esperado": "20 dias uteis",
+  "valores_errados": [
+   "12 dias uteis",
+   "7 dias uteis"
+  ],
+  "onde_mora": "tabela",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q11",
+  "plano_gold": "Intermediario",
+  "texto": "Quebrou o vidro do meu carro. Ate quanto o seguro paga por ano?",
+  "valor_esperado": "R$ 3.000",
+  "valores_errados": [
+   "R$ 1.500",
+   "R$ 8.000"
+  ],
+  "onde_mora": "prosa",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q12",
+  "plano_gold": "Intermediario",
+  "texto": "Vou trocar o para-brisa. Quanto eu tenho que pagar do meu bolso por peca?",
+  "valor_esperado": "R$ 200",
+  "valores_errados": [
+   "R$ 350",
+   "R$ 100"
+  ],
+  "onde_mora": "prosa",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q13",
+  "plano_gold": "Intermediario",
+  "texto": "Bati o carro. Qual o valor da minha participacao obrigatoria?",
+  "valor_esperado": "R$ 2.400",
+  "valores_errados": [
+   "R$ 3.200",
+   "R$ 1.600"
+  ],
+  "onde_mora": "prosa",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q14",
+  "plano_gold": "Intermediario",
+  "texto": "Amassei o portao de uma casa. Ate quanto a apolice cobre de danos materiais a terceiros?",
+  "valor_esperado": "R$ 100.000",
+  "valores_errados": [
+   "R$ 50.000",
+   "R$ 250.000"
+  ],
+  "onde_mora": "prosa",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q15",
+  "plano_gold": "Intermediario",
+  "texto": "Se um passageiro meu falecer no acidente, qual o valor da indenizacao?",
+  "valor_esperado": "R$ 15.000",
+  "valores_errados": [
+   "R$ 5.000",
+   "R$ 50.000"
+  ],
+  "onde_mora": "prosa",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q16",
+  "plano_gold": "Intermediario",
+  "texto": "Quebrei na estrada. Ate quantos quilometros o guincho me leva?",
+  "valor_esperado": "300 km",
+  "valores_errados": [
+   "100 km",
+   "600 km"
+  ],
+  "onde_mora": "prosa",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q17",
+  "plano_gold": "Intermediario",
+  "texto": "Acabei de contratar. Tem carencia para usar a cobertura de vidros?",
+  "valor_esperado": "15 dias",
+  "valores_errados": [
+   "30 dias",
+   "sem carencia"
+  ],
+  "onde_mora": "tabela",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q18",
+  "plano_gold": "Intermediario",
+  "texto": "Qual o valor da diaria do carro reserva?",
+  "valor_esperado": "R$ 120",
+  "valores_errados": [
+   "R$ 80",
+   "R$ 200"
+  ],
+  "onde_mora": "tabela",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q19",
+  "plano_gold": "Intermediario",
+  "texto": "Qual a franquia da cobertura de responsabilidade civil?",
+  "valor_esperado": "R$ 600",
+  "valores_errados": [
+   "R$ 1.000",
+   "R$ 300"
+  ],
+  "onde_mora": "tabela",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q20",
+  "plano_gold": "Intermediario",
+  "texto": "Em quantos dias a oficina tem que me devolver o carro?",
+  "valor_esperado": "12 dias uteis",
+  "valores_errados": [
+   "20 dias uteis",
+   "7 dias uteis"
+  ],
+  "onde_mora": "tabela",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q21",
+  "plano_gold": "Completo",
+  "texto": "Quebrou o vidro do meu carro. Ate quanto o seguro paga por ano?",
+  "valor_esperado": "R$ 8.000",
+  "valores_errados": [
+   "R$ 1.500",
+   "R$ 3.000"
+  ],
+  "onde_mora": "prosa",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q22",
+  "plano_gold": "Completo",
+  "texto": "Vou trocar o para-brisa. Quanto eu tenho que pagar do meu bolso por peca?",
+  "valor_esperado": "R$ 100",
+  "valores_errados": [
+   "R$ 350",
+   "R$ 200"
+  ],
+  "onde_mora": "prosa",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q23",
+  "plano_gold": "Completo",
+  "texto": "Bati o carro. Qual o valor da minha participacao obrigatoria?",
+  "valor_esperado": "R$ 1.600",
+  "valores_errados": [
+   "R$ 3.200",
+   "R$ 2.400"
+  ],
+  "onde_mora": "prosa",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q24",
+  "plano_gold": "Completo",
+  "texto": "Amassei o portao de uma casa. Ate quanto a apolice cobre de danos materiais a terceiros?",
+  "valor_esperado": "R$ 250.000",
+  "valores_errados": [
+   "R$ 50.000",
+   "R$ 100.000"
+  ],
+  "onde_mora": "prosa",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q25",
+  "plano_gold": "Completo",
+  "texto": "Se um passageiro meu falecer no acidente, qual o valor da indenizacao?",
+  "valor_esperado": "R$ 50.000",
+  "valores_errados": [
+   "R$ 5.000",
+   "R$ 15.000"
+  ],
+  "onde_mora": "prosa",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q26",
+  "plano_gold": "Completo",
+  "texto": "Quebrei na estrada. Ate quantos quilometros o guincho me leva?",
+  "valor_esperado": "600 km",
+  "valores_errados": [
+   "100 km",
+   "300 km"
+  ],
+  "onde_mora": "prosa",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q27",
+  "plano_gold": "Completo",
+  "texto": "Acabei de contratar. Tem carencia para usar a cobertura de vidros?",
+  "valor_esperado": "sem carencia",
+  "valores_errados": [
+   "30 dias",
+   "15 dias"
+  ],
+  "onde_mora": "tabela",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q28",
+  "plano_gold": "Completo",
+  "texto": "Qual o valor da diaria do carro reserva?",
+  "valor_esperado": "R$ 200",
+  "valores_errados": [
+   "R$ 80",
+   "R$ 120"
+  ],
+  "onde_mora": "tabela",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q29",
+  "plano_gold": "Completo",
+  "texto": "Qual a franquia da cobertura de responsabilidade civil?",
+  "valor_esperado": "R$ 300",
+  "valores_errados": [
+   "R$ 1.000",
+   "R$ 600"
+  ],
+  "onde_mora": "tabela",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q30",
+  "plano_gold": "Completo",
+  "texto": "Em quantos dias a oficina tem que me devolver o carro?",
+  "valor_esperado": "7 dias uteis",
+  "valores_errados": [
+   "20 dias uteis",
+   "12 dias uteis"
+  ],
+  "onde_mora": "tabela",
+  "sensivel_ao_plano": true
+ },
+ {
+  "id": "Q31",
+  "plano_gold": "Basico",
+  "texto": "Em quanto tempo eu preciso avisar a seguradora depois do sinistro?",
+  "valor_esperado": "48 horas",
+  "valores_errados": [],
+  "onde_mora": "prosa",
+  "sensivel_ao_plano": false
+ },
+ {
+  "id": "Q32",
+  "plano_gold": "Basico",
+  "texto": "Qual o prazo de vigencia da apolice?",
+  "valor_esperado": "doze meses",
+  "valores_errados": [],
+  "onde_mora": "prosa",
+  "sensivel_ao_plano": false
+ },
+ {
+  "id": "Q33",
+  "plano_gold": "Basico",
+  "texto": "Que documentos eu preciso levar para abrir o sinistro?",
+  "valor_esperado": "boletim de ocorrencia",
+  "valores_errados": [],
+  "onde_mora": "prosa",
+  "sensivel_ao_plano": false
+ }
+]

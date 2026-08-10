@@ -1,0 +1,842 @@
+AutoProtege Seguros S.A.  |  Manual de Regulacao de Sinistros
+
+MANUAL DE REGULACAO DE SINISTROS
+
+Ramo automovel  |  vigencia 2026.1
+
+Documento ficticio, criado para uso didatico. Nao reproduz norma, procedimento
+nem pratica de nenhuma seguradora real.
+
+
+SECAO 1 - DISPOSICOES GERAIS E DEFINICOES
+
+Este manual estabelece o procedimento de regulacao de sinistros do ramo
+automovel e vincula todas as areas envolvidas na analise, na apuracao e no
+pagamento de indenizacoes. O descumprimento de prazo previsto neste manual
+deve ser justificado no proprio processo.
+
+1.1  Regulacao: conjunto de atos destinados a apurar a causa, as
+                circunstancias e o valor do prejuizo.
+
+1.2  Aviso de sinistro: comunicacao formal do evento pelo segurado ou por
+                        terceiro autorizado.
+
+1.3  Laudo de danos: documento tecnico que discrimina as pecas atingidas e o
+                     custo de reparo.
+
+1.4  Alcada: nivel hierarquico autorizado a aprovar indenizacao dentro de uma
+             faixa de valor.
+
+1.5  Perda total: situacao em que o custo de reparo supera o percentual
+                  definido no item 4.12.
+
+1.6  Salvado: veiculo ou peca remanescente que passa a pertencer a seguradora
+              apos a indenizacao.
+
+1.7  Participacao obrigatoria: valor de responsabilidade do segurado em cada
+                               evento coberto.
+
+1.8  Terceiro: pessoa que nao figura como segurado e sofre prejuizo decorrente
+               do evento.
+
+1.9  Vistoria previa: inspecao do veiculo antes de qualquer reparo, sob pena
+                      de negativa.
+
+1.10  Rede referenciada: conjunto de oficinas credenciadas com preco e prazo
+                         negociados.
+
+
+
+Documento ficticio, uso didatico  |  MRS-2026.1  |  pagina 1 de 17
+
+AutoProtege Seguros S.A.  |  Manual de Regulacao de Sinistros
+
+SECAO 2 - PRAZOS GERAIS
+
+Os prazos abaixo aplicam-se a todos os procedimentos, salvo quando o
+procedimento especifico estabelecer prazo proprio, hipotese em que prevalece o
+prazo do procedimento.
+
+2.1   Aviso de sinistro pelo segurado                           48 horas do conhecimento do evento
+2.2   Abertura do processo de regulacao                         1 dia util do aviso
+2.3   Pagamento da indenizacao apos conclusao                   30 dias corridos
+2.4   Solicitacao de documento complementar                     15 dias uteis da abertura
+2.5   Resposta do segurado a solicitacao                        10 dias uteis
+2.6   Suspensao da contagem por pendencia documental            ate 45 dias corridos
+2.7   Recurso do segurado contra negativa                       30 dias corridos da comunicacao
+2.8   Analise do recurso pela seguradora                        15 dias uteis
+
+
+SECAO 3 - ALCADAS DE APROVACAO
+
+A aprovacao da indenizacao observa a faixa de valor apurado. O encaminhamento
+para alcada inferior a devida caracteriza falha de processo.
+
+TABELA DE ALCADAS
+
+Faixa de valor apurado                  Aprovador                         Exigencia
+R$ 0 a R$ 5.000                         Analista de Regulacao I           aprovacao direta no sistema
+R$ 5.000 a R$ 20.000                    Analista de Regulacao II          aprovacao direta no sistema
+R$ 20.000 a R$ 60.000                   Coordenador de Sinistros          parecer tecnico anexado
+R$ 60.000 a R$ 150.000                  Gerente de Sinistros              parecer tecnico e vistoria presencial
+R$ 150.000 a R$ 400.000                 Superintendente de Sinistros      parecer tecnico, vistoria e aval juridico
+acima de R$ 400.000                     Comite de Sinistros               reuniao formal registrada em ata
+
+
+SECAO 4 - PROCEDIMENTOS POR NATUREZA DE SINISTRO
+
+
+4.1  Colisao simples sem terceiros
+
+Aplica-se aos eventos classificados como colisao simples sem terceiros. O
+prazo para agendamento da vistoria e de 3 dias uteis contados da abertura do
+processo. Alem da documentacao comum, exige-se registro fotografico dos quatro
+angulos.
+
+Passos:
+
+   4.1.1  Confirmar a vigencia da apolice na data do evento.
+   4.1.2  Registrar o aviso no sistema com o codigo de natureza CS.
+
+Documento ficticio, uso didatico  |  MRS-2026.1  |  pagina 2 de 17
+
+AutoProtege Seguros S.A.  |  Manual de Regulacao de Sinistros
+
+   4.1.3  Agendar vistoria previa no veiculo antes de qualquer reparo.
+   4.1.4  Emitir o laudo de danos com discriminacao de pecas.
+   4.1.5  Calcular a indenizacao liquida deduzida a participacao obrigatoria.
+   4.1.6  Encaminhar para a alcada correspondente ao valor apurado.
+   4.1.7  Autorizar a oficina da rede referenciada.
+   4.1.8  Acompanhar o reparo ate a entrega ao segurado.
+
+Observa-se, no que couber, o disposto no item 2.3 deste manual.
+
+Excecoes e tratamento:
+
+   4.1.E1  Quando o condutor no momento do evento nao constar como condutor
+           principal na apolice, o processo deve ser encaminhado a area
+           tecnica antes de qualquer autorizacao.
+   4.1.E2  Quando o veiculo estiver em nome de pessoa juridica e o condutor
+           for empregado, exige-se parecer do juridico registrado no proprio
+           processo.
+   4.1.E3  Quando houver indicio de agravamento intencional do risco, a alcada
+           sobe um nivel em relacao a faixa de valor apurado.
+   4.1.E4  Quando o evento ocorrer fora do territorio nacional, a contagem do
+           prazo de pagamento fica suspensa ate a conclusao da analise.
+
+Casos comentados:
+
+   4.1.C1  Veiculo reparado antes da vistoria previa.
+        O segurado autorizou o reparo por conta propria antes do agendamento.
+        Sem vistoria previa nao ha como apurar nexo entre o evento avisado e
+        os danos apresentados. O processo segue para analise tecnica e a
+        negativa, se houver, deve citar o item de vistoria previa deste
+        manual.
+
+   4.1.C2  Divergencia entre o boletim e o relato do segurado.
+        O boletim de ocorrencia descreve local e horario diferentes do
+        informado no aviso. O regulador solicita esclarecimento por escrito e
+        suspende a contagem do prazo ate a resposta, observado o limite de
+        suspensao previsto na secao de prazos.
+
+
+4.2  Colisao com envolvimento de terceiros
+
+Aplica-se aos eventos classificados como colisao com envolvimento de
+terceiros. O prazo para agendamento da vistoria e de 3 dias uteis contados da
+abertura do processo. Alem da documentacao comum, exige-se declaracao do
+terceiro envolvido.
+
+Passos:
+
+Documento ficticio, uso didatico  |  MRS-2026.1  |  pagina 3 de 17
+
+AutoProtege Seguros S.A.  |  Manual de Regulacao de Sinistros
+
+
+   4.2.1  Confirmar a vigencia da apolice e a cobertura de responsabilidade
+          civil.
+   4.2.2  Colher a declaracao do terceiro e os dados do veiculo dele.
+   4.2.3  Registrar o aviso no sistema com o codigo de natureza CT.
+   4.2.4  Agendar vistoria nos dois veiculos.
+   4.2.5  Apurar a responsabilidade com base no boletim de ocorrencia.
+   4.2.6  Emitir laudo separado para o veiculo segurado e para o terceiro.
+   4.2.7  Encaminhar a parte de terceiros para a alcada do valor somado.
+   4.2.8  Comunicar o terceiro sobre o resultado da apuracao.
+
+Observa-se, no que couber, o disposto no item 2.7 deste manual.
+
+Excecoes e tratamento:
+
+   4.2.E1  Quando o veiculo estiver em nome de pessoa juridica e o condutor
+           for empregado, exige-se parecer do juridico registrado no proprio
+           processo.
+   4.2.E2  Quando houver indicio de agravamento intencional do risco, a alcada
+           sobe um nivel em relacao a faixa de valor apurado.
+   4.2.E3  Quando o evento ocorrer fora do territorio nacional, a contagem do
+           prazo de pagamento fica suspensa ate a conclusao da analise.
+   4.2.E4  Quando a apolice estiver em periodo de carencia contratual, e
+           obrigatoria vistoria presencial, ainda que o valor dispense.
+
+Casos comentados:
+
+   4.2.C1  Orcamento do terceiro acima do valor de mercado da peca.
+        Os tres orcamentos apresentados superam a tabela de referencia.
+        Aplica-se o valor de mercado apurado pela area tecnica, e a diferenca
+        fica a cargo do terceiro, com comunicacao formal registrada no
+        processo.
+
+   4.2.C2  Segundo sinistro da mesma cobertura na mesma vigencia.
+        O limite anual da cobertura ja foi parcialmente consumido. O saldo
+        remanescente e apurado antes da autorizacao, e o segurado deve ser
+        informado do saldo antes do inicio do reparo.
+
+
+4.3  Roubo ou furto total do veiculo
+
+Aplica-se aos eventos classificados como roubo ou furto total do veiculo. O
+prazo para agendamento da vistoria e de 5 dias uteis contados da abertura do
+processo. Alem da documentacao comum, exige-se comprovante de bloqueio do
+rastreador.
+
+
+Documento ficticio, uso didatico  |  MRS-2026.1  |  pagina 4 de 17
+
+AutoProtege Seguros S.A.  |  Manual de Regulacao de Sinistros
+
+Passos:
+
+   4.3.1  Confirmar a vigencia da apolice na data do evento.
+   4.3.2  Exigir o boletim de ocorrencia registrado em ate 24 horas.
+   4.3.3  Solicitar as duas chaves originais e a chave reserva.
+   4.3.4  Consultar a base nacional de veiculos furtados.
+   4.3.5  Aguardar o prazo de recuperacao de 30 dias corridos.
+   4.3.6  Apurar o valor de mercado referenciado na data do sinistro.
+   4.3.7  Exigir a documentacao de transferencia para a seguradora.
+   4.3.8  Encaminhar para a alcada correspondente ao valor de mercado.
+
+Observa-se, no que couber, o disposto no item 2.3 deste manual.
+
+Excecoes e tratamento:
+
+   4.3.E1  Quando houver indicio de agravamento intencional do risco, a alcada
+           sobe um nivel em relacao a faixa de valor apurado.
+   4.3.E2  Quando o evento ocorrer fora do territorio nacional, a contagem do
+           prazo de pagamento fica suspensa ate a conclusao da analise.
+   4.3.E3  Quando a apolice estiver em periodo de carencia contratual, e
+           obrigatoria vistoria presencial, ainda que o valor dispense.
+   4.3.E4  Quando houver sinistro anterior da mesma natureza nos ultimos doze
+           meses, o regulador deve registrar justificativa detalhada no campo
+           de observacoes.
+
+Casos comentados:
+
+   4.3.C1  Chave reserva nao apresentada em roubo total.
+        A ausencia de uma das chaves nao gera negativa automatica. O regulador
+        registra a justificativa do segurado, consulta o historico de
+        acionamentos e encaminha o caso para a alcada imediatamente superior a
+        do valor apurado.
+
+   4.3.C2  Dano preexistente identificado na vistoria.
+        A vistoria identificou avaria incompativel com a data do evento.
+        Apura-se apenas a parcela relacionada ao sinistro avisado, e o laudo
+        discrimina o que foi excluido e por que.
+
+
+4.4  Furto de acessorios e componentes
+
+Aplica-se aos eventos classificados como furto de acessorios e componentes. O
+prazo para agendamento da vistoria e de 2 dias uteis contados da abertura do
+processo. Alem da documentacao comum, exige-se nota fiscal do acessorio
+subtraido.
+
+
+Documento ficticio, uso didatico  |  MRS-2026.1  |  pagina 5 de 17
+
+AutoProtege Seguros S.A.  |  Manual de Regulacao de Sinistros
+
+Passos:
+
+   4.4.1  Confirmar a cobertura contratada para acessorios.
+   4.4.2  Exigir o boletim de ocorrencia com a descricao dos itens.
+   4.4.3  Agendar vistoria no local onde o veiculo se encontra.
+   4.4.4  Conferir a nota fiscal contra os itens declarados.
+   4.4.5  Apurar o valor de reposicao pelo preco de mercado.
+   4.4.6  Encaminhar para a alcada correspondente.
+
+Observa-se, no que couber, o disposto no item 2.4 deste manual.
+
+Excecoes e tratamento:
+
+   4.4.E1  Quando o evento ocorrer fora do territorio nacional, a contagem do
+           prazo de pagamento fica suspensa ate a conclusao da analise.
+   4.4.E2  Quando a apolice estiver em periodo de carencia contratual, e
+           obrigatoria vistoria presencial, ainda que o valor dispense.
+   4.4.E3  Quando houver sinistro anterior da mesma natureza nos ultimos doze
+           meses, o regulador deve registrar justificativa detalhada no campo
+           de observacoes.
+   4.4.E4  Quando o veiculo possuir alteracao estrutural nao comunicada, o
+           processo deve ser encaminhado a area tecnica antes de qualquer
+           autorizacao.
+
+Casos comentados:
+
+   4.4.C1  Veiculo reparado antes da vistoria previa.
+        O segurado autorizou o reparo por conta propria antes do agendamento.
+        Sem vistoria previa nao ha como apurar nexo entre o evento avisado e
+        os danos apresentados. O processo segue para analise tecnica e a
+        negativa, se houver, deve citar o item de vistoria previa deste
+        manual.
+
+   4.4.C2  Divergencia entre o boletim e o relato do segurado.
+        O boletim de ocorrencia descreve local e horario diferentes do
+        informado no aviso. O regulador solicita esclarecimento por escrito e
+        suspende a contagem do prazo ate a resposta, observado o limite de
+        suspensao previsto na secao de prazos.
+
+
+4.5  Incendio, explosao e queda de raio
+
+Aplica-se aos eventos classificados como incendio, explosao e queda de raio. O
+prazo para agendamento da vistoria e de 5 dias uteis contados da abertura do
+processo. Alem da documentacao comum, exige-se laudo do corpo de bombeiros.
+
+
+Documento ficticio, uso didatico  |  MRS-2026.1  |  pagina 6 de 17
+
+AutoProtege Seguros S.A.  |  Manual de Regulacao de Sinistros
+
+Passos:
+
+   4.5.1  Confirmar a vigencia e a cobertura de incendio.
+   4.5.2  Exigir o laudo do corpo de bombeiros ou da autoridade competente.
+   4.5.3  Agendar vistoria tecnica com perito credenciado.
+   4.5.4  Investigar a origem do fogo antes de qualquer remocao.
+   4.5.5  Classificar entre dano parcial e perda total.
+   4.5.6  Encaminhar para a alcada correspondente ao valor apurado.
+
+Observa-se, no que couber, o disposto no item 4.12 deste manual.
+
+Excecoes e tratamento:
+
+   4.5.E1  Quando a apolice estiver em periodo de carencia contratual, e
+           obrigatoria vistoria presencial, ainda que o valor dispense.
+   4.5.E2  Quando houver sinistro anterior da mesma natureza nos ultimos doze
+           meses, o regulador deve registrar justificativa detalhada no campo
+           de observacoes.
+   4.5.E3  Quando o veiculo possuir alteracao estrutural nao comunicada, o
+           processo deve ser encaminhado a area tecnica antes de qualquer
+           autorizacao.
+   4.5.E4  Quando o aviso for feito por terceiro sem procuracao do segurado,
+           exige-se parecer do juridico registrado no proprio processo.
+
+Casos comentados:
+
+   4.5.C1  Orcamento do terceiro acima do valor de mercado da peca.
+        Os tres orcamentos apresentados superam a tabela de referencia.
+        Aplica-se o valor de mercado apurado pela area tecnica, e a diferenca
+        fica a cargo do terceiro, com comunicacao formal registrada no
+        processo.
+
+   4.5.C2  Segundo sinistro da mesma cobertura na mesma vigencia.
+        O limite anual da cobertura ja foi parcialmente consumido. O saldo
+        remanescente e apurado antes da autorizacao, e o segurado deve ser
+        informado do saldo antes do inicio do reparo.
+
+
+4.6  Alagamento e submersao
+
+Aplica-se aos eventos classificados como alagamento e submersao. O prazo para
+agendamento da vistoria e de 5 dias uteis contados da abertura do processo.
+Alem da documentacao comum, exige-se registro de ocorrencia da defesa civil.
+
+Passos:
+
+
+Documento ficticio, uso didatico  |  MRS-2026.1  |  pagina 7 de 17
+
+AutoProtege Seguros S.A.  |  Manual de Regulacao de Sinistros
+
+   4.6.1  Confirmar a cobertura contratada para eventos da natureza.
+   4.6.2  Exigir o registro da defesa civil ou reportagem datada do evento.
+   4.6.3  Agendar vistoria antes de qualquer tentativa de dar partida.
+   4.6.4  Avaliar a altura da agua contra a linha do painel.
+   4.6.5  Classificar entre dano parcial e perda total.
+   4.6.6  Encaminhar para a alcada correspondente ao valor apurado.
+
+Observa-se, no que couber, o disposto no item 4.12 deste manual.
+
+Excecoes e tratamento:
+
+   4.6.E1  Quando houver sinistro anterior da mesma natureza nos ultimos doze
+           meses, o regulador deve registrar justificativa detalhada no campo
+           de observacoes.
+   4.6.E2  Quando o veiculo possuir alteracao estrutural nao comunicada, o
+           processo deve ser encaminhado a area tecnica antes de qualquer
+           autorizacao.
+   4.6.E3  Quando o aviso for feito por terceiro sem procuracao do segurado,
+           exige-se parecer do juridico registrado no proprio processo.
+   4.6.E4  Quando o condutor no momento do evento nao constar como condutor
+           principal na apolice, a alcada sobe um nivel em relacao a faixa de
+           valor apurado.
+
+Casos comentados:
+
+   4.6.C1  Chave reserva nao apresentada em roubo total.
+        A ausencia de uma das chaves nao gera negativa automatica. O regulador
+        registra a justificativa do segurado, consulta o historico de
+        acionamentos e encaminha o caso para a alcada imediatamente superior a
+        do valor apurado.
+
+   4.6.C2  Dano preexistente identificado na vistoria.
+        A vistoria identificou avaria incompativel com a data do evento.
+        Apura-se apenas a parcela relacionada ao sinistro avisado, e o laudo
+        discrimina o que foi excluido e por que.
+
+
+4.7  Danos por granizo
+
+Aplica-se aos eventos classificados como danos por granizo. O prazo para
+agendamento da vistoria e de 4 dias uteis contados da abertura do processo.
+Alem da documentacao comum, exige-se boletim meteorologico do dia do evento.
+
+Passos:
+
+   4.7.1  Confirmar a cobertura contratada para eventos da natureza.
+
+Documento ficticio, uso didatico  |  MRS-2026.1  |  pagina 8 de 17
+
+AutoProtege Seguros S.A.  |  Manual de Regulacao de Sinistros
+
+   4.7.2  Obter o boletim meteorologico da regiao na data informada.
+   4.7.3  Agendar vistoria com contagem de pontos de amassado.
+   4.7.4  Aplicar a tabela de reparo sem pintura quando cabivel.
+   4.7.5  Encaminhar para a alcada correspondente.
+
+Observa-se, no que couber, o disposto no item 2.4 deste manual.
+
+Excecoes e tratamento:
+
+   4.7.E1  Quando o veiculo possuir alteracao estrutural nao comunicada, o
+           processo deve ser encaminhado a area tecnica antes de qualquer
+           autorizacao.
+   4.7.E2  Quando o aviso for feito por terceiro sem procuracao do segurado,
+           exige-se parecer do juridico registrado no proprio processo.
+   4.7.E3  Quando o condutor no momento do evento nao constar como condutor
+           principal na apolice, a alcada sobe um nivel em relacao a faixa de
+           valor apurado.
+   4.7.E4  Quando o veiculo estiver em nome de pessoa juridica e o condutor
+           for empregado, a contagem do prazo de pagamento fica suspensa ate a
+           conclusao da analise.
+
+Casos comentados:
+
+   4.7.C1  Veiculo reparado antes da vistoria previa.
+        O segurado autorizou o reparo por conta propria antes do agendamento.
+        Sem vistoria previa nao ha como apurar nexo entre o evento avisado e
+        os danos apresentados. O processo segue para analise tecnica e a
+        negativa, se houver, deve citar o item de vistoria previa deste
+        manual.
+
+   4.7.C2  Divergencia entre o boletim e o relato do segurado.
+        O boletim de ocorrencia descreve local e horario diferentes do
+        informado no aviso. O regulador solicita esclarecimento por escrito e
+        suspende a contagem do prazo ate a resposta, observado o limite de
+        suspensao previsto na secao de prazos.
+
+
+4.8  Quebra de vidros, farois e lanternas
+
+Aplica-se aos eventos classificados como quebra de vidros, farois e lanternas.
+O prazo para agendamento da vistoria e de 2 dias uteis contados da abertura do
+processo. Alem da documentacao comum, exige-se foto da peca danificada com o
+chassi visivel.
+
+Passos:
+
+
+Documento ficticio, uso didatico  |  MRS-2026.1  |  pagina 9 de 17
+
+AutoProtege Seguros S.A.  |  Manual de Regulacao de Sinistros
+
+   4.8.1  Confirmar a cobertura de vidros e a carencia contratual.
+   4.8.2  Conferir se a peca danificada esta na lista da cobertura do plano.
+   4.8.3  Autorizar o reparo direto na rede credenciada de vidros.
+   4.8.4  Cobrar a participacao obrigatoria por peca substituida.
+   4.8.5  Registrar a baixa do limite anual da cobertura.
+
+Observa-se, no que couber, o disposto no item 2.2 deste manual.
+
+Excecoes e tratamento:
+
+   4.8.E1  Quando o aviso for feito por terceiro sem procuracao do segurado,
+           exige-se parecer do juridico registrado no proprio processo.
+   4.8.E2  Quando o condutor no momento do evento nao constar como condutor
+           principal na apolice, a alcada sobe um nivel em relacao a faixa de
+           valor apurado.
+   4.8.E3  Quando o veiculo estiver em nome de pessoa juridica e o condutor
+           for empregado, a contagem do prazo de pagamento fica suspensa ate a
+           conclusao da analise.
+   4.8.E4  Quando houver indicio de agravamento intencional do risco, e
+           obrigatoria vistoria presencial, ainda que o valor dispense.
+
+Casos comentados:
+
+   4.8.C1  Orcamento do terceiro acima do valor de mercado da peca.
+        Os tres orcamentos apresentados superam a tabela de referencia.
+        Aplica-se o valor de mercado apurado pela area tecnica, e a diferenca
+        fica a cargo do terceiro, com comunicacao formal registrada no
+        processo.
+
+   4.8.C2  Segundo sinistro da mesma cobertura na mesma vigencia.
+        O limite anual da cobertura ja foi parcialmente consumido. O saldo
+        remanescente e apurado antes da autorizacao, e o segurado deve ser
+        informado do saldo antes do inicio do reparo.
+
+
+4.9  Responsabilidade civil por danos a terceiros
+
+Aplica-se aos eventos classificados como responsabilidade civil por danos a
+terceiros. O prazo para agendamento da vistoria e de 6 dias uteis contados da
+abertura do processo. Alem da documentacao comum, exige-se orcamento de tres
+oficinas do terceiro.
+
+Passos:
+
+   4.9.1  Confirmar a cobertura de responsabilidade civil facultativa.
+   4.9.2  Apurar a responsabilidade do segurado no evento.
+
+Documento ficticio, uso didatico  |  MRS-2026.1  |  pagina 10 de 17
+
+AutoProtege Seguros S.A.  |  Manual de Regulacao de Sinistros
+
+   4.9.3  Solicitar tres orcamentos ao terceiro prejudicado.
+   4.9.4  Aplicar a franquia da cobertura sobre o valor apurado.
+   4.9.5  Encaminhar para a alcada correspondente ao valor a indenizar.
+   4.9.6  Efetuar o pagamento diretamente ao terceiro.
+
+Observa-se, no que couber, o disposto no item 2.3 deste manual.
+
+Excecoes e tratamento:
+
+   4.9.E1  Quando o condutor no momento do evento nao constar como condutor
+           principal na apolice, a alcada sobe um nivel em relacao a faixa de
+           valor apurado.
+   4.9.E2  Quando o veiculo estiver em nome de pessoa juridica e o condutor
+           for empregado, a contagem do prazo de pagamento fica suspensa ate a
+           conclusao da analise.
+   4.9.E3  Quando houver indicio de agravamento intencional do risco, e
+           obrigatoria vistoria presencial, ainda que o valor dispense.
+   4.9.E4  Quando o evento ocorrer fora do territorio nacional, o regulador
+           deve registrar justificativa detalhada no campo de observacoes.
+
+Casos comentados:
+
+   4.9.C1  Chave reserva nao apresentada em roubo total.
+        A ausencia de uma das chaves nao gera negativa automatica. O regulador
+        registra a justificativa do segurado, consulta o historico de
+        acionamentos e encaminha o caso para a alcada imediatamente superior a
+        do valor apurado.
+
+   4.9.C2  Dano preexistente identificado na vistoria.
+        A vistoria identificou avaria incompativel com a data do evento.
+        Apura-se apenas a parcela relacionada ao sinistro avisado, e o laudo
+        discrimina o que foi excluido e por que.
+
+
+4.10  Acidentes pessoais de passageiros
+
+Aplica-se aos eventos classificados como acidentes pessoais de passageiros. O
+prazo para agendamento da vistoria e de 7 dias uteis contados da abertura do
+processo. Alem da documentacao comum, exige-se laudo do instituto medico
+legal.
+
+Passos:
+
+   4.10.1  Confirmar a cobertura de acidentes pessoais de passageiros.
+   4.10.2  Identificar os ocupantes no momento do evento.
+   4.10.3  Exigir laudo medico ou do instituto medico legal.
+
+Documento ficticio, uso didatico  |  MRS-2026.1  |  pagina 11 de 17
+
+AutoProtege Seguros S.A.  |  Manual de Regulacao de Sinistros
+
+   4.10.4  Verificar o limite por passageiro previsto na apolice.
+   4.10.5  Encaminhar para a alcada do valor total das indenizacoes.
+
+Observa-se, no que couber, o disposto no item 2.3 deste manual.
+
+Excecoes e tratamento:
+
+   4.10.E1  Quando o veiculo estiver em nome de pessoa juridica e o condutor
+            for empregado, a contagem do prazo de pagamento fica suspensa ate
+            a conclusao da analise.
+   4.10.E2  Quando houver indicio de agravamento intencional do risco, e
+            obrigatoria vistoria presencial, ainda que o valor dispense.
+   4.10.E3  Quando o evento ocorrer fora do territorio nacional, o regulador
+            deve registrar justificativa detalhada no campo de observacoes.
+   4.10.E4  Quando a apolice estiver em periodo de carencia contratual, o
+            processo deve ser encaminhado a area tecnica antes de qualquer
+            autorizacao.
+
+Casos comentados:
+
+   4.10.C1  Veiculo reparado antes da vistoria previa.
+        O segurado autorizou o reparo por conta propria antes do agendamento.
+        Sem vistoria previa nao ha como apurar nexo entre o evento avisado e
+        os danos apresentados. O processo segue para analise tecnica e a
+        negativa, se houver, deve citar o item de vistoria previa deste
+        manual.
+
+   4.10.C2  Divergencia entre o boletim e o relato do segurado.
+        O boletim de ocorrencia descreve local e horario diferentes do
+        informado no aviso. O regulador solicita esclarecimento por escrito e
+        suspende a contagem do prazo ate a resposta, observado o limite de
+        suspensao previsto na secao de prazos.
+
+
+4.11  Assistencia, reboque e remocao
+
+Aplica-se aos eventos classificados como assistencia, reboque e remocao. O
+prazo para agendamento da vistoria e de 1 dia util contados da abertura do
+processo. Alem da documentacao comum, exige-se comprovante de acionamento da
+central.
+
+Passos:
+
+   4.11.1  Confirmar o saldo de acionamentos no periodo de vigencia.
+   4.11.2  Verificar o limite de quilometragem do plano contratado.
+   4.11.3  Autorizar o reboque ate oficina da rede referenciada.
+
+Documento ficticio, uso didatico  |  MRS-2026.1  |  pagina 12 de 17
+
+AutoProtege Seguros S.A.  |  Manual de Regulacao de Sinistros
+
+   4.11.4  Registrar o consumo do evento no historico do segurado.
+
+Observa-se, no que couber, o disposto no item 2.2 deste manual.
+
+Excecoes e tratamento:
+
+   4.11.E1  Quando houver indicio de agravamento intencional do risco, e
+            obrigatoria vistoria presencial, ainda que o valor dispense.
+   4.11.E2  Quando o evento ocorrer fora do territorio nacional, o regulador
+            deve registrar justificativa detalhada no campo de observacoes.
+   4.11.E3  Quando a apolice estiver em periodo de carencia contratual, o
+            processo deve ser encaminhado a area tecnica antes de qualquer
+            autorizacao.
+   4.11.E4  Quando houver sinistro anterior da mesma natureza nos ultimos doze
+            meses, exige-se parecer do juridico registrado no proprio
+            processo.
+
+Casos comentados:
+
+   4.11.C1  Orcamento do terceiro acima do valor de mercado da peca.
+        Os tres orcamentos apresentados superam a tabela de referencia.
+        Aplica-se o valor de mercado apurado pela area tecnica, e a diferenca
+        fica a cargo do terceiro, com comunicacao formal registrada no
+        processo.
+
+   4.11.C2  Segundo sinistro da mesma cobertura na mesma vigencia.
+        O limite anual da cobertura ja foi parcialmente consumido. O saldo
+        remanescente e apurado antes da autorizacao, e o segurado deve ser
+        informado do saldo antes do inicio do reparo.
+
+
+4.12  Perda total do veiculo
+
+Aplica-se aos eventos classificados como perda total do veiculo. O prazo para
+agendamento da vistoria e de 8 dias uteis contados da abertura do processo.
+Alem da documentacao comum, exige-se certidao negativa de debitos do veiculo.
+
+Passos:
+
+   4.12.1  Classificar como perda total quando o reparo superar 75 por cento
+           do valor de mercado.
+   4.12.2  Apurar o valor de mercado referenciado na data do sinistro.
+   4.12.3  Exigir a certidao negativa de debitos e multas.
+   4.12.4  Exigir a documentacao de transferencia para a seguradora.
+   4.12.5  Providenciar a baixa do registro junto ao orgao de transito.
+   4.12.6  Encaminhar obrigatoriamente para alcada de Gerente ou superior.
+
+Documento ficticio, uso didatico  |  MRS-2026.1  |  pagina 13 de 17
+
+AutoProtege Seguros S.A.  |  Manual de Regulacao de Sinistros
+
+   4.12.7  Efetuar o pagamento observado o prazo do item 2.3.
+
+Observa-se, no que couber, o disposto no item 2.3 deste manual.
+
+Excecoes e tratamento:
+
+   4.12.E1  Quando o evento ocorrer fora do territorio nacional, o regulador
+            deve registrar justificativa detalhada no campo de observacoes.
+   4.12.E2  Quando a apolice estiver em periodo de carencia contratual, o
+            processo deve ser encaminhado a area tecnica antes de qualquer
+            autorizacao.
+   4.12.E3  Quando houver sinistro anterior da mesma natureza nos ultimos doze
+            meses, exige-se parecer do juridico registrado no proprio
+            processo.
+   4.12.E4  Quando o veiculo possuir alteracao estrutural nao comunicada, a
+            alcada sobe um nivel em relacao a faixa de valor apurado.
+
+Casos comentados:
+
+   4.12.C1  Chave reserva nao apresentada em roubo total.
+        A ausencia de uma das chaves nao gera negativa automatica. O regulador
+        registra a justificativa do segurado, consulta o historico de
+        acionamentos e encaminha o caso para a alcada imediatamente superior a
+        do valor apurado.
+
+   4.12.C2  Dano preexistente identificado na vistoria.
+        A vistoria identificou avaria incompativel com a data do evento.
+        Apura-se apenas a parcela relacionada ao sinistro avisado, e o laudo
+        discrimina o que foi excluido e por que.
+
+
+SECAO 5 - CIRCULARES INTERNAS EM VIGOR
+
+As circulares abaixo complementam os procedimentos da secao 4 e prevalecem
+sobre pratica anterior divergente.
+
+
+5.1  Prazo de resposta ao segurado em canais digitais
+
+Toda solicitacao recebida por canal digital deve ter resposta registrada em
+ate um dia util, ainda que a resposta seja apenas o aceite do pedido e o prazo
+estimado de analise. A ausencia de registro impede a contagem correta dos
+prazos deste manual.
+
+5.2  Padronizacao do laudo de danos
+
+
+Documento ficticio, uso didatico  |  MRS-2026.1  |  pagina 14 de 17
+
+AutoProtege Seguros S.A.  |  Manual de Regulacao de Sinistros
+
+O laudo deve discriminar peca, operacao, valor unitario e origem do preco de
+referencia. Laudo sem discriminacao de origem de preco e devolvido a oficina e
+nao interrompe a contagem de prazo.
+
+5.3  Uso de imagens na vistoria remota
+
+A vistoria remota exige registro fotografico dos quatro angulos, do hodometro
+e do chassi. Imagem sem metadado de data e hora nao e aceita como evidencia.
+
+5.4  Comunicacao de negativa
+
+A negativa deve citar o dispositivo contratual e o item deste manual em que se
+baseia, em linguagem acessivel, e informar o prazo de recurso.
+
+5.5  Tratamento de reclamacao em orgao de defesa do consumidor
+
+Reclamacao registrada em orgao de defesa do consumidor tem prioridade de fila
+e resposta em metade do prazo ordinario, sem prejuizo da analise tecnica.
+
+5.6  Reincidencia e indicio de fraude
+
+Tres ou mais sinistros da mesma natureza em doze meses acionam analise pela
+area de prevencao a fraudes antes de qualquer autorizacao de reparo.
+
+5.7  Oficina fora da rede referenciada
+
+A escolha de oficina fora da rede e direito do segurado e implica reembolso
+limitado ao valor que seria praticado na rede, com prazo de pagamento contado
+do laudo final.
+
+5.8  Guarda de documentos do processo
+
+Os documentos do processo de regulacao ficam disponiveis pelo prazo de cinco
+anos contados do encerramento, em formato pesquisavel.
+
+5.9  Atualizacao monetaria de valores
+
+Valores em atraso sao atualizados pelo indice contratual desde a data em que o
+pagamento era devido, e a memoria de calculo integra o processo.
+
+5.10  Regulacao de sinistro com veiculo financiado
+
+Havendo alienacao fiduciaria, a indenizacao de perda total e paga a
+instituicao credora ate o saldo devedor, e o remanescente ao segurado.
+
+5.11  Atendimento a segurado com deficiencia auditiva
+
+Documento ficticio, uso didatico  |  MRS-2026.1  |  pagina 15 de 17
+
+AutoProtege Seguros S.A.  |  Manual de Regulacao de Sinistros
+
+
+O atendimento deve ser oferecido por canal de texto em toda etapa da
+regulacao, e a recusa de canal telefonico nao pode gerar prejuizo de prazo ao
+segurado.
+
+5.12  Registro de contato com terceiros
+
+Todo contato com terceiro prejudicado e registrado com data, canal e resumo, e
+integra o processo para fins de auditoria.
+
+
+SECAO 6 - PARTICULARIDADES REGIONAIS
+
+O prazo de vistoria da secao 4 e ajustado pela praca de atendimento conforme a
+tabela abaixo, prevalecendo o prazo regional quando for maior.
+
+UF    Prazo regional de vistoria        Modalidade de atendimento
+SP    3 dias uteis                      rede propria
+RJ    4 dias uteis                      rede propria
+MG    4 dias uteis                      rede parceira
+RS    5 dias uteis                      rede parceira
+PR    4 dias uteis                      rede propria
+SC    5 dias uteis                      rede parceira
+BA    6 dias uteis                      rede parceira
+PE    6 dias uteis                      rede parceira
+CE    6 dias uteis                      rede parceira
+GO    5 dias uteis                      rede parceira
+DF    3 dias uteis                      rede propria
+AM    8 dias uteis                      atendimento remoto
+PA    8 dias uteis                      atendimento remoto
+MT    6 dias uteis                      rede parceira
+MS    6 dias uteis                      rede parceira
+ES    4 dias uteis                      rede parceira
+
+
+ANEXO A - MATRIZ DE DOCUMENTOS EXIGIDOS
+
+ProcedimentoNatureza                                        Documento exclusivo
+4.1       Colisao simples sem terceiros                   registro fotografico dos quatro angulos
+4.2       Colisao com envolvimento de terceiros           declaracao do terceiro envolvido
+4.3       Roubo ou furto total do veiculo                 comprovante de bloqueio do rastreador
+4.4       Furto de acessorios e componentes               nota fiscal do acessorio subtraido
+4.5       Incendio, explosao e queda de raio              laudo do corpo de bombeiros
+4.6       Alagamento e submersao                          registro de ocorrencia da defesa civil
+4.7       Danos por granizo                               boletim meteorologico do dia do evento
+4.8       Quebra de vidros, farois e lanternas            foto da peca danificada com o chassi visivel
+
+Documento ficticio, uso didatico  |  MRS-2026.1  |  pagina 16 de 17
+
+AutoProtege Seguros S.A.  |  Manual de Regulacao de Sinistros
+
+4.9       Responsabilidade civil por danos a terceiros    orcamento de tres oficinas do terceiro
+4.10      Acidentes pessoais de passageiros               laudo do instituto medico legal
+4.11      Assistencia, reboque e remocao                  comprovante de acionamento da central
+4.12      Perda total do veiculo                          certidao negativa de debitos do veiculo
+
+
+ANEXO B - PRAZOS DE VISTORIA CONSOLIDADOS
+
+ProcedimentoNatureza                                        Prazo de vistoria
+4.1       Colisao simples sem terceiros                   3 dias uteis
+4.2       Colisao com envolvimento de terceiros           3 dias uteis
+4.3       Roubo ou furto total do veiculo                 5 dias uteis
+4.4       Furto de acessorios e componentes               2 dias uteis
+4.5       Incendio, explosao e queda de raio              5 dias uteis
+4.6       Alagamento e submersao                          5 dias uteis
+4.7       Danos por granizo                               4 dias uteis
+4.8       Quebra de vidros, farois e lanternas            2 dias uteis
+4.9       Responsabilidade civil por danos a terceiros    6 dias uteis
+4.10      Acidentes pessoais de passageiros               7 dias uteis
+4.11      Assistencia, reboque e remocao                  1 dia util
+4.12      Perda total do veiculo                          8 dias uteis
+
+
+Documento ficticio, uso didatico  |  MRS-2026.1  |  pagina 17 de 17
