@@ -1,0 +1,243 @@
+{
+ "_nota": "Dados ficticios, uso didatico. Nenhuma pessoa ou empresa real.",
+ "perguntas": [
+  {
+   "id": "G01",
+   "familia": "reincidencia",
+   "pergunta": "Quantos sinistros o segurado Carlos Mendes ja registrou?",
+   "resposta": 5,
+   "forma": "numero"
+  },
+  {
+   "id": "G02",
+   "familia": "reincidencia",
+   "pergunta": "Quais segurados tem tres ou mais sinistros registrados?",
+   "resposta": [
+    "Carlos Mendes",
+    "Gabriel Nunes",
+    "Mariana Silveira",
+    "Rosana Quintela"
+   ],
+   "forma": "lista de nomes"
+  },
+  {
+   "id": "G03",
+   "familia": "reincidencia",
+   "pergunta": "Quantos sinistros acumula o segurado com mais ocorrencias?",
+   "resposta": 6,
+   "forma": "numero"
+  },
+  {
+   "id": "G04",
+   "familia": "reincidencia",
+   "pergunta": "Quantos segurados nunca registraram sinistro?",
+   "resposta": 15,
+   "forma": "numero"
+  },
+  {
+   "id": "G05",
+   "familia": "concentracao",
+   "pergunta": "Qual oficina concentra o maior numero de reparos?",
+   "resposta": "Oficina Silva Martins",
+   "forma": "nome"
+  },
+  {
+   "id": "G06",
+   "familia": "concentracao",
+   "pergunta": "Quantos reparos passaram pela Oficina Silva Martins?",
+   "resposta": 29,
+   "forma": "numero"
+  },
+  {
+   "id": "G07",
+   "familia": "concentracao",
+   "pergunta": "Quais sao as tres oficinas com mais reparos?",
+   "resposta": [
+    "Oficina Silva Martins",
+    "Oficina Pinheiros Motor",
+    "Oficina Serra Azul"
+   ],
+   "forma": "lista ordenada"
+  },
+  {
+   "id": "G08",
+   "familia": "concentracao",
+   "pergunta": "Que fracao dos reparos da comarca de Campinas esta concentrada na Oficina Silva Martins?",
+   "resposta": 0.66,
+   "forma": "numero entre 0 e 1"
+  },
+  {
+   "id": "G09",
+   "familia": "travessia",
+   "pergunta": "Quais segurados tiveram reparo na Oficina Serra Azul?",
+   "resposta": [
+    "Gabriel Nunes",
+    "Isabela Franco",
+    "Juliana Castro",
+    "Lucas Ferreira",
+    "Mariana Silveira",
+    "Mauricio Leal",
+    "Natalia Fontes",
+    "Sandra Vilela",
+    "Ursula Paiva",
+    "Valeria Chaves",
+    "Vinicius Serra"
+   ],
+   "forma": "lista de nomes"
+  },
+  {
+   "id": "G10",
+   "familia": "travessia",
+   "pergunta": "Qual corretor vendeu as apolices com o maior total de sinistros?",
+   "resposta": "Farol Corretagem",
+   "forma": "nome"
+  },
+  {
+   "id": "G11",
+   "familia": "travessia",
+   "pergunta": "Que oficinas atenderam segurados do plano Basico?",
+   "resposta": [
+    "Auto Center Colibri",
+    "Auto Eletrica Ipiranga",
+    "Auto Reparos Continental",
+    "Centro Automotivo Lapa",
+    "Funilaria Estrela do Sul",
+    "Funilaria Monte Claro",
+    "Mecanica Vale Verde",
+    "Oficina Bela Vista",
+    "Oficina Pinheiros Motor",
+    "Oficina Serra Azul",
+    "Oficina Silva Martins"
+   ],
+   "forma": "lista"
+  },
+  {
+   "id": "G12",
+   "familia": "travessia",
+   "pergunta": "Quais segurados da Almeida Correta tem sinistro com perda total?",
+   "resposta": [
+    "Mariana Silveira"
+   ],
+   "forma": "lista de nomes"
+  },
+  {
+   "id": "G13",
+   "familia": "agregacao com filtro",
+   "pergunta": "Quantos sinistros de vidros houve no primeiro semestre de 2026?",
+   "resposta": 13,
+   "forma": "numero"
+  },
+  {
+   "id": "G14",
+   "familia": "agregacao com filtro",
+   "pergunta": "Qual plano concentra mais sinistros de colisao?",
+   "resposta": "Intermediario",
+   "forma": "nome do plano"
+  },
+  {
+   "id": "G15",
+   "familia": "agregacao com filtro",
+   "pergunta": "Quantas perdas totais existem por plano?",
+   "resposta": {
+    "Basico": 9,
+    "Intermediario": 4,
+    "Completo": 1
+   },
+   "forma": "um numero por plano"
+  },
+  {
+   "id": "G16",
+   "familia": "agregacao com filtro",
+   "pergunta": "Qual o valor medio dos reparos na Oficina Silva Martins?",
+   "resposta": 18420.69,
+   "forma": "numero"
+  },
+  {
+   "id": "G17",
+   "familia": "padrao em rede",
+   "pergunta": "Existe um grupo de segurados distintos com reparos na mesma oficina e apolices do mesmo corretor? Qual oficina, qual corretor e quantos segurados?",
+   "resposta": {
+    "oficina": "Oficina Silva Martins",
+    "corretor": "Farol Corretagem",
+    "segurados": 7
+   },
+   "forma": "oficina, corretor e numero"
+  },
+  {
+   "id": "G18",
+   "familia": "padrao em rede",
+   "pergunta": "Qual oficina tem a maior proporcao de perda total sobre o total de reparos?",
+   "resposta": {
+    "oficina": "Funilaria Monte Claro",
+    "proporcao": 0.8
+   },
+   "forma": "nome e numero"
+  },
+  {
+   "id": "G19",
+   "familia": "padrao em rede",
+   "pergunta": "Quantos segurados diferentes a dupla Oficina Silva Martins e Farol Corretagem compartilha?",
+   "resposta": 7,
+   "forma": "numero"
+  },
+  {
+   "id": "G20",
+   "familia": "padrao em rede",
+   "pergunta": "Que segurados registraram dois sinistros com menos de sessenta dias de intervalo?",
+   "resposta": [
+    "Carlos Mendes",
+    "Debora Antunes",
+    "Gabriel Nunes",
+    "Marcia Bittencourt",
+    "Mariana Silveira",
+    "Nelson Barreto",
+    "Patricia Neves",
+    "Renato Vasques",
+    "Rosana Quintela",
+    "Sandra Vilela",
+    "Vanessa Coutinho"
+   ],
+   "forma": "lista de nomes"
+  },
+  {
+   "id": "G21",
+   "familia": "carteira",
+   "pergunta": "Quantas apolices cada corretor vendeu?",
+   "resposta": {
+    "Meridiano Seguros": 8,
+    "Bussola Seguros": 10,
+    "Farol Corretagem": 12,
+    "Girassol Seguros": 9,
+    "Almeida Correta": 14,
+    "Corretora Damasco": 9,
+    "Horizonte Corretora": 8,
+    "Trevo Corretagem": 5
+   },
+   "forma": "um numero por corretor"
+  },
+  {
+   "id": "G22",
+   "familia": "carteira",
+   "pergunta": "Qual plano tem o maior numero de apolices?",
+   "resposta": "Basico",
+   "forma": "nome do plano"
+  },
+  {
+   "id": "G23",
+   "familia": "carteira",
+   "pergunta": "Quantos segurados do plano Completo estao com a Almeida Correta?",
+   "resposta": 2,
+   "forma": "numero"
+  },
+  {
+   "id": "G24",
+   "familia": "carteira",
+   "pergunta": "Qual corretor tem a carteira mais concentrada num unico plano?",
+   "resposta": {
+    "corretor": "Corretora Damasco",
+    "concentracao": 0.67
+   },
+   "forma": "nome e numero"
+  }
+ ]
+}

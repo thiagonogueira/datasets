@@ -1,0 +1,2360 @@
+{
+ "_nota": "Dados ficticios, uso didatico. Nenhuma pessoa ou empresa real.",
+ "segurados": [
+  {
+   "id": "SEG-001",
+   "nome": "Ana Beatriz Rocha",
+   "cidade": "Santo Andre"
+  },
+  {
+   "id": "SEG-002",
+   "nome": "Bruno Cardoso",
+   "cidade": "Santo Andre"
+  },
+  {
+   "id": "SEG-003",
+   "nome": "Camila Duarte",
+   "cidade": "Jundiai"
+  },
+  {
+   "id": "SEG-004",
+   "nome": "Carlos Mendes",
+   "cidade": "Jundiai"
+  },
+  {
+   "id": "SEG-005",
+   "nome": "Cintia Barros",
+   "cidade": "Sao Paulo"
+  },
+  {
+   "id": "SEG-006",
+   "nome": "Daniel Farias",
+   "cidade": "Sorocaba"
+  },
+  {
+   "id": "SEG-007",
+   "nome": "Debora Antunes",
+   "cidade": "Santo Andre"
+  },
+  {
+   "id": "SEG-008",
+   "nome": "Eduardo Pires",
+   "cidade": "Sao Paulo"
+  },
+  {
+   "id": "SEG-009",
+   "nome": "Elaine Sampaio",
+   "cidade": "Santo Andre"
+  },
+  {
+   "id": "SEG-010",
+   "nome": "Fabio Teles",
+   "cidade": "Campinas"
+  },
+  {
+   "id": "SEG-011",
+   "nome": "Fernanda Lopes",
+   "cidade": "Campinas"
+  },
+  {
+   "id": "SEG-012",
+   "nome": "Gabriel Nunes",
+   "cidade": "Campinas"
+  },
+  {
+   "id": "SEG-013",
+   "nome": "Helena Prado",
+   "cidade": "Sao Paulo"
+  },
+  {
+   "id": "SEG-014",
+   "nome": "Igor Bastos",
+   "cidade": "Jundiai"
+  },
+  {
+   "id": "SEG-015",
+   "nome": "Isabela Franco",
+   "cidade": "Sorocaba"
+  },
+  {
+   "id": "SEG-016",
+   "nome": "Joao Pedro Lima",
+   "cidade": "Sorocaba"
+  },
+  {
+   "id": "SEG-017",
+   "nome": "Jose Ricardo Alves",
+   "cidade": "Campinas"
+  },
+  {
+   "id": "SEG-018",
+   "nome": "Juliana Castro",
+   "cidade": "Campinas"
+  },
+  {
+   "id": "SEG-019",
+   "nome": "Larissa Moura",
+   "cidade": "Jundiai"
+  },
+  {
+   "id": "SEG-020",
+   "nome": "Leonardo Reis",
+   "cidade": "Sao Paulo"
+  },
+  {
+   "id": "SEG-021",
+   "nome": "Livia Campos",
+   "cidade": "Jundiai"
+  },
+  {
+   "id": "SEG-022",
+   "nome": "Lucas Ferreira",
+   "cidade": "Sorocaba"
+  },
+  {
+   "id": "SEG-023",
+   "nome": "Luiza Andrade",
+   "cidade": "Campinas"
+  },
+  {
+   "id": "SEG-024",
+   "nome": "Marcelo Torres",
+   "cidade": "Santo Andre"
+  },
+  {
+   "id": "SEG-025",
+   "nome": "Marcia Bittencourt",
+   "cidade": "Jundiai"
+  },
+  {
+   "id": "SEG-026",
+   "nome": "Mariana Silveira",
+   "cidade": "Sao Paulo"
+  },
+  {
+   "id": "SEG-027",
+   "nome": "Mateus Correia",
+   "cidade": "Sorocaba"
+  },
+  {
+   "id": "SEG-028",
+   "nome": "Mauricio Leal",
+   "cidade": "Campinas"
+  },
+  {
+   "id": "SEG-029",
+   "nome": "Michele Dias",
+   "cidade": "Campinas"
+  },
+  {
+   "id": "SEG-030",
+   "nome": "Natalia Fontes",
+   "cidade": "Sorocaba"
+  },
+  {
+   "id": "SEG-031",
+   "nome": "Nelson Barreto",
+   "cidade": "Sorocaba"
+  },
+  {
+   "id": "SEG-032",
+   "nome": "Otavio Ramos",
+   "cidade": "Jundiai"
+  },
+  {
+   "id": "SEG-033",
+   "nome": "Patricia Neves",
+   "cidade": "Jundiai"
+  },
+  {
+   "id": "SEG-034",
+   "nome": "Paulo Henrique Melo",
+   "cidade": "Sorocaba"
+  },
+  {
+   "id": "SEG-035",
+   "nome": "Priscila Tavares",
+   "cidade": "Santo Andre"
+  },
+  {
+   "id": "SEG-036",
+   "nome": "Rafael Cunha",
+   "cidade": "Jundiai"
+  },
+  {
+   "id": "SEG-037",
+   "nome": "Raquel Simoes",
+   "cidade": "Sorocaba"
+  },
+  {
+   "id": "SEG-038",
+   "nome": "Renato Vasques",
+   "cidade": "Sao Paulo"
+  },
+  {
+   "id": "SEG-039",
+   "nome": "Ricardo Assis",
+   "cidade": "Sorocaba"
+  },
+  {
+   "id": "SEG-040",
+   "nome": "Roberta Peixoto",
+   "cidade": "Santo Andre"
+  },
+  {
+   "id": "SEG-041",
+   "nome": "Rodrigo Sales",
+   "cidade": "Jundiai"
+  },
+  {
+   "id": "SEG-042",
+   "nome": "Rogerio Matos",
+   "cidade": "Campinas"
+  },
+  {
+   "id": "SEG-043",
+   "nome": "Rosana Quintela",
+   "cidade": "Santo Andre"
+  },
+  {
+   "id": "SEG-044",
+   "nome": "Samuel Braga",
+   "cidade": "Sao Paulo"
+  },
+  {
+   "id": "SEG-045",
+   "nome": "Sandra Vilela",
+   "cidade": "Sorocaba"
+  },
+  {
+   "id": "SEG-046",
+   "nome": "Sergio Camargo",
+   "cidade": "Jundiai"
+  },
+  {
+   "id": "SEG-047",
+   "nome": "Silvia Rezende",
+   "cidade": "Sorocaba"
+  },
+  {
+   "id": "SEG-048",
+   "nome": "Simone Aguiar",
+   "cidade": "Santo Andre"
+  },
+  {
+   "id": "SEG-049",
+   "nome": "Tatiana Lacerda",
+   "cidade": "Sao Paulo"
+  },
+  {
+   "id": "SEG-050",
+   "nome": "Thales Moreira",
+   "cidade": "Jundiai"
+  },
+  {
+   "id": "SEG-051",
+   "nome": "Thiago Brandao",
+   "cidade": "Jundiai"
+  },
+  {
+   "id": "SEG-052",
+   "nome": "Ursula Paiva",
+   "cidade": "Campinas"
+  },
+  {
+   "id": "SEG-053",
+   "nome": "Valeria Chaves",
+   "cidade": "Campinas"
+  },
+  {
+   "id": "SEG-054",
+   "nome": "Vanessa Coutinho",
+   "cidade": "Sorocaba"
+  },
+  {
+   "id": "SEG-055",
+   "nome": "Vicente Amorim",
+   "cidade": "Sao Paulo"
+  },
+  {
+   "id": "SEG-056",
+   "nome": "Vinicius Serra",
+   "cidade": "Jundiai"
+  },
+  {
+   "id": "SEG-057",
+   "nome": "Vitor Hugo Macedo",
+   "cidade": "Campinas"
+  },
+  {
+   "id": "SEG-058",
+   "nome": "Viviane Telles",
+   "cidade": "Sorocaba"
+  },
+  {
+   "id": "SEG-059",
+   "nome": "Wagner Fonseca",
+   "cidade": "Jundiai"
+  },
+  {
+   "id": "SEG-060",
+   "nome": "Yara Nogueira",
+   "cidade": "Sorocaba"
+  }
+ ],
+ "corretores": [
+  {
+   "id": "COR-01",
+   "nome": "Almeida Correta"
+  },
+  {
+   "id": "COR-02",
+   "nome": "Bussola Seguros"
+  },
+  {
+   "id": "COR-03",
+   "nome": "Corretora Damasco"
+  },
+  {
+   "id": "COR-04",
+   "nome": "Farol Corretagem"
+  },
+  {
+   "id": "COR-05",
+   "nome": "Girassol Seguros"
+  },
+  {
+   "id": "COR-06",
+   "nome": "Horizonte Corretora"
+  },
+  {
+   "id": "COR-07",
+   "nome": "Meridiano Seguros"
+  },
+  {
+   "id": "COR-08",
+   "nome": "Trevo Corretagem"
+  }
+ ],
+ "oficinas": [
+  {
+   "id": "OFI-01",
+   "nome": "Oficina Silva Martins",
+   "comarca": "Campinas"
+  },
+  {
+   "id": "OFI-02",
+   "nome": "Auto Center Colibri",
+   "comarca": "Campinas"
+  },
+  {
+   "id": "OFI-03",
+   "nome": "Funilaria Estrela do Sul",
+   "comarca": "Campinas"
+  },
+  {
+   "id": "OFI-04",
+   "nome": "Mecanica Vale Verde",
+   "comarca": "Sao Paulo"
+  },
+  {
+   "id": "OFI-05",
+   "nome": "Oficina Pinheiros Motor",
+   "comarca": "Sao Paulo"
+  },
+  {
+   "id": "OFI-06",
+   "nome": "Auto Reparos Continental",
+   "comarca": "Sao Paulo"
+  },
+  {
+   "id": "OFI-07",
+   "nome": "Centro Automotivo Lapa",
+   "comarca": "Sao Paulo"
+  },
+  {
+   "id": "OFI-08",
+   "nome": "Oficina Serra Azul",
+   "comarca": "Sorocaba"
+  },
+  {
+   "id": "OFI-09",
+   "nome": "Mecanica Dois Irmaos",
+   "comarca": "Sorocaba"
+  },
+  {
+   "id": "OFI-10",
+   "nome": "Auto Eletrica Ipiranga",
+   "comarca": "Sorocaba"
+  },
+  {
+   "id": "OFI-11",
+   "nome": "Funilaria Monte Claro",
+   "comarca": "Santo Andre"
+  },
+  {
+   "id": "OFI-12",
+   "nome": "Oficina Bela Vista",
+   "comarca": "Santo Andre"
+  }
+ ],
+ "apolices": [
+  {
+   "id": "AP-0001",
+   "id_segurado": "SEG-001",
+   "plano": "Basico",
+   "corretor": "Meridiano Seguros",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0002",
+   "id_segurado": "SEG-002",
+   "plano": "Intermediario",
+   "corretor": "Bussola Seguros",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva"
+   ]
+  },
+  {
+   "id": "AP-0003",
+   "id_segurado": "SEG-003",
+   "plano": "Basico",
+   "corretor": "Farol Corretagem",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0004",
+   "id_segurado": "SEG-004",
+   "plano": "Intermediario",
+   "corretor": "Girassol Seguros",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva"
+   ]
+  },
+  {
+   "id": "AP-0005",
+   "id_segurado": "SEG-005",
+   "plano": "Intermediario",
+   "corretor": "Bussola Seguros",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva"
+   ]
+  },
+  {
+   "id": "AP-0006",
+   "id_segurado": "SEG-006",
+   "plano": "Intermediario",
+   "corretor": "Farol Corretagem",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva"
+   ]
+  },
+  {
+   "id": "AP-0007",
+   "id_segurado": "SEG-007",
+   "plano": "Intermediario",
+   "corretor": "Meridiano Seguros",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva"
+   ]
+  },
+  {
+   "id": "AP-0008",
+   "id_segurado": "SEG-008",
+   "plano": "Completo",
+   "corretor": "Almeida Correta",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva",
+    "alagamento",
+    "acidentes pessoais"
+   ]
+  },
+  {
+   "id": "AP-0009",
+   "id_segurado": "SEG-009",
+   "plano": "Basico",
+   "corretor": "Bussola Seguros",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0010",
+   "id_segurado": "SEG-010",
+   "plano": "Basico",
+   "corretor": "Girassol Seguros",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0011",
+   "id_segurado": "SEG-011",
+   "plano": "Completo",
+   "corretor": "Almeida Correta",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva",
+    "alagamento",
+    "acidentes pessoais"
+   ]
+  },
+  {
+   "id": "AP-0012",
+   "id_segurado": "SEG-012",
+   "plano": "Basico",
+   "corretor": "Farol Corretagem",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0013",
+   "id_segurado": "SEG-013",
+   "plano": "Completo",
+   "corretor": "Corretora Damasco",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva",
+    "alagamento",
+    "acidentes pessoais"
+   ]
+  },
+  {
+   "id": "AP-0014",
+   "id_segurado": "SEG-014",
+   "plano": "Completo",
+   "corretor": "Girassol Seguros",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva",
+    "alagamento",
+    "acidentes pessoais"
+   ]
+  },
+  {
+   "id": "AP-0015",
+   "id_segurado": "SEG-015",
+   "plano": "Completo",
+   "corretor": "Girassol Seguros",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva",
+    "alagamento",
+    "acidentes pessoais"
+   ]
+  },
+  {
+   "id": "AP-0016",
+   "id_segurado": "SEG-016",
+   "plano": "Basico",
+   "corretor": "Bussola Seguros",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0017",
+   "id_segurado": "SEG-017",
+   "plano": "Completo",
+   "corretor": "Girassol Seguros",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva",
+    "alagamento",
+    "acidentes pessoais"
+   ]
+  },
+  {
+   "id": "AP-0018",
+   "id_segurado": "SEG-018",
+   "plano": "Completo",
+   "corretor": "Bussola Seguros",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva",
+    "alagamento",
+    "acidentes pessoais"
+   ]
+  },
+  {
+   "id": "AP-0019",
+   "id_segurado": "SEG-019",
+   "plano": "Completo",
+   "corretor": "Bussola Seguros",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva",
+    "alagamento",
+    "acidentes pessoais"
+   ]
+  },
+  {
+   "id": "AP-0020",
+   "id_segurado": "SEG-020",
+   "plano": "Basico",
+   "corretor": "Almeida Correta",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0021",
+   "id_segurado": "SEG-021",
+   "plano": "Basico",
+   "corretor": "Horizonte Corretora",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0022",
+   "id_segurado": "SEG-022",
+   "plano": "Basico",
+   "corretor": "Horizonte Corretora",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0023",
+   "id_segurado": "SEG-023",
+   "plano": "Basico",
+   "corretor": "Trevo Corretagem",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0024",
+   "id_segurado": "SEG-024",
+   "plano": "Completo",
+   "corretor": "Trevo Corretagem",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva",
+    "alagamento",
+    "acidentes pessoais"
+   ]
+  },
+  {
+   "id": "AP-0025",
+   "id_segurado": "SEG-025",
+   "plano": "Intermediario",
+   "corretor": "Farol Corretagem",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva"
+   ]
+  },
+  {
+   "id": "AP-0026",
+   "id_segurado": "SEG-026",
+   "plano": "Basico",
+   "corretor": "Almeida Correta",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0027",
+   "id_segurado": "SEG-027",
+   "plano": "Basico",
+   "corretor": "Girassol Seguros",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0028",
+   "id_segurado": "SEG-028",
+   "plano": "Intermediario",
+   "corretor": "Almeida Correta",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva"
+   ]
+  },
+  {
+   "id": "AP-0029",
+   "id_segurado": "SEG-029",
+   "plano": "Intermediario",
+   "corretor": "Farol Corretagem",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva"
+   ]
+  },
+  {
+   "id": "AP-0030",
+   "id_segurado": "SEG-030",
+   "plano": "Completo",
+   "corretor": "Horizonte Corretora",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva",
+    "alagamento",
+    "acidentes pessoais"
+   ]
+  },
+  {
+   "id": "AP-0031",
+   "id_segurado": "SEG-031",
+   "plano": "Intermediario",
+   "corretor": "Corretora Damasco",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva"
+   ]
+  },
+  {
+   "id": "AP-0032",
+   "id_segurado": "SEG-032",
+   "plano": "Basico",
+   "corretor": "Meridiano Seguros",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0033",
+   "id_segurado": "SEG-033",
+   "plano": "Basico",
+   "corretor": "Horizonte Corretora",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0034",
+   "id_segurado": "SEG-034",
+   "plano": "Completo",
+   "corretor": "Horizonte Corretora",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva",
+    "alagamento",
+    "acidentes pessoais"
+   ]
+  },
+  {
+   "id": "AP-0035",
+   "id_segurado": "SEG-035",
+   "plano": "Completo",
+   "corretor": "Trevo Corretagem",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva",
+    "alagamento",
+    "acidentes pessoais"
+   ]
+  },
+  {
+   "id": "AP-0036",
+   "id_segurado": "SEG-036",
+   "plano": "Intermediario",
+   "corretor": "Corretora Damasco",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva"
+   ]
+  },
+  {
+   "id": "AP-0037",
+   "id_segurado": "SEG-037",
+   "plano": "Basico",
+   "corretor": "Almeida Correta",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0038",
+   "id_segurado": "SEG-038",
+   "plano": "Basico",
+   "corretor": "Corretora Damasco",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0039",
+   "id_segurado": "SEG-039",
+   "plano": "Intermediario",
+   "corretor": "Trevo Corretagem",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva"
+   ]
+  },
+  {
+   "id": "AP-0040",
+   "id_segurado": "SEG-040",
+   "plano": "Intermediario",
+   "corretor": "Farol Corretagem",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva"
+   ]
+  },
+  {
+   "id": "AP-0041",
+   "id_segurado": "SEG-041",
+   "plano": "Basico",
+   "corretor": "Horizonte Corretora",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0042",
+   "id_segurado": "SEG-042",
+   "plano": "Completo",
+   "corretor": "Meridiano Seguros",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva",
+    "alagamento",
+    "acidentes pessoais"
+   ]
+  },
+  {
+   "id": "AP-0043",
+   "id_segurado": "SEG-043",
+   "plano": "Intermediario",
+   "corretor": "Farol Corretagem",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva"
+   ]
+  },
+  {
+   "id": "AP-0044",
+   "id_segurado": "SEG-044",
+   "plano": "Intermediario",
+   "corretor": "Girassol Seguros",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva"
+   ]
+  },
+  {
+   "id": "AP-0045",
+   "id_segurado": "SEG-045",
+   "plano": "Basico",
+   "corretor": "Almeida Correta",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0046",
+   "id_segurado": "SEG-046",
+   "plano": "Basico",
+   "corretor": "Almeida Correta",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0047",
+   "id_segurado": "SEG-047",
+   "plano": "Intermediario",
+   "corretor": "Horizonte Corretora",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva"
+   ]
+  },
+  {
+   "id": "AP-0048",
+   "id_segurado": "SEG-048",
+   "plano": "Intermediario",
+   "corretor": "Almeida Correta",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva"
+   ]
+  },
+  {
+   "id": "AP-0049",
+   "id_segurado": "SEG-049",
+   "plano": "Intermediario",
+   "corretor": "Corretora Damasco",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva"
+   ]
+  },
+  {
+   "id": "AP-0050",
+   "id_segurado": "SEG-050",
+   "plano": "Basico",
+   "corretor": "Bussola Seguros",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0051",
+   "id_segurado": "SEG-051",
+   "plano": "Basico",
+   "corretor": "Bussola Seguros",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0052",
+   "id_segurado": "SEG-052",
+   "plano": "Basico",
+   "corretor": "Girassol Seguros",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0053",
+   "id_segurado": "SEG-053",
+   "plano": "Basico",
+   "corretor": "Farol Corretagem",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0054",
+   "id_segurado": "SEG-054",
+   "plano": "Completo",
+   "corretor": "Meridiano Seguros",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva",
+    "alagamento",
+    "acidentes pessoais"
+   ]
+  },
+  {
+   "id": "AP-0055",
+   "id_segurado": "SEG-055",
+   "plano": "Intermediario",
+   "corretor": "Corretora Damasco",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva"
+   ]
+  },
+  {
+   "id": "AP-0056",
+   "id_segurado": "SEG-056",
+   "plano": "Intermediario",
+   "corretor": "Corretora Damasco",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva"
+   ]
+  },
+  {
+   "id": "AP-0057",
+   "id_segurado": "SEG-057",
+   "plano": "Basico",
+   "corretor": "Farol Corretagem",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0058",
+   "id_segurado": "SEG-058",
+   "plano": "Intermediario",
+   "corretor": "Farol Corretagem",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva"
+   ]
+  },
+  {
+   "id": "AP-0059",
+   "id_segurado": "SEG-059",
+   "plano": "Completo",
+   "corretor": "Meridiano Seguros",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva",
+    "alagamento",
+    "acidentes pessoais"
+   ]
+  },
+  {
+   "id": "AP-0060",
+   "id_segurado": "SEG-060",
+   "plano": "Completo",
+   "corretor": "Farol Corretagem",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva",
+    "alagamento",
+    "acidentes pessoais"
+   ]
+  },
+  {
+   "id": "AP-0061",
+   "id_segurado": "SEG-046",
+   "plano": "Completo",
+   "corretor": "Trevo Corretagem",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva",
+    "alagamento",
+    "acidentes pessoais"
+   ]
+  },
+  {
+   "id": "AP-0062",
+   "id_segurado": "SEG-050",
+   "plano": "Basico",
+   "corretor": "Horizonte Corretora",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0063",
+   "id_segurado": "SEG-059",
+   "plano": "Intermediario",
+   "corretor": "Meridiano Seguros",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva"
+   ]
+  },
+  {
+   "id": "AP-0064",
+   "id_segurado": "SEG-029",
+   "plano": "Intermediario",
+   "corretor": "Bussola Seguros",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva"
+   ]
+  },
+  {
+   "id": "AP-0065",
+   "id_segurado": "SEG-044",
+   "plano": "Completo",
+   "corretor": "Girassol Seguros",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva",
+    "alagamento",
+    "acidentes pessoais"
+   ]
+  },
+  {
+   "id": "AP-0066",
+   "id_segurado": "SEG-022",
+   "plano": "Basico",
+   "corretor": "Bussola Seguros",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0067",
+   "id_segurado": "SEG-019",
+   "plano": "Intermediario",
+   "corretor": "Almeida Correta",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva"
+   ]
+  },
+  {
+   "id": "AP-0068",
+   "id_segurado": "SEG-025",
+   "plano": "Completo",
+   "corretor": "Corretora Damasco",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva",
+    "alagamento",
+    "acidentes pessoais"
+   ]
+  },
+  {
+   "id": "AP-0069",
+   "id_segurado": "SEG-037",
+   "plano": "Basico",
+   "corretor": "Farol Corretagem",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0070",
+   "id_segurado": "SEG-011",
+   "plano": "Completo",
+   "corretor": "Almeida Correta",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva",
+    "alagamento",
+    "acidentes pessoais"
+   ]
+  },
+  {
+   "id": "AP-0071",
+   "id_segurado": "SEG-047",
+   "plano": "Basico",
+   "corretor": "Almeida Correta",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0072",
+   "id_segurado": "SEG-027",
+   "plano": "Basico",
+   "corretor": "Meridiano Seguros",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0073",
+   "id_segurado": "SEG-058",
+   "plano": "Intermediario",
+   "corretor": "Corretora Damasco",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva"
+   ]
+  },
+  {
+   "id": "AP-0074",
+   "id_segurado": "SEG-038",
+   "plano": "Basico",
+   "corretor": "Almeida Correta",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros"
+   ]
+  },
+  {
+   "id": "AP-0075",
+   "id_segurado": "SEG-032",
+   "plano": "Intermediario",
+   "corretor": "Almeida Correta",
+   "coberturas": [
+    "colisao",
+    "responsabilidade civil",
+    "vidros",
+    "roubo e furto",
+    "veiculo reserva"
+   ]
+  }
+ ],
+ "sinistros": [
+  {
+   "id": "SIN-0001",
+   "id_apolice": "AP-0001",
+   "id_segurado": "SEG-001",
+   "tipo": "colisao",
+   "data": "2026-02-12",
+   "valor": 46100,
+   "perda_total": true,
+   "oficina": "Oficina Pinheiros Motor"
+  },
+  {
+   "id": "SIN-0002",
+   "id_apolice": "AP-0001",
+   "id_segurado": "SEG-001",
+   "tipo": "vidros",
+   "data": "2026-05-13",
+   "valor": 3100,
+   "perda_total": false,
+   "oficina": "Oficina Silva Martins"
+  },
+  {
+   "id": "SIN-0003",
+   "id_apolice": "AP-0002",
+   "id_segurado": "SEG-002",
+   "tipo": "vidros",
+   "data": "2025-08-24",
+   "valor": 1500,
+   "perda_total": false,
+   "oficina": "Centro Automotivo Lapa"
+  },
+  {
+   "id": "SIN-0004",
+   "id_apolice": "AP-0002",
+   "id_segurado": "SEG-002",
+   "tipo": "alagamento",
+   "data": "2026-07-18",
+   "valor": 9100,
+   "perda_total": false,
+   "oficina": "Oficina Pinheiros Motor"
+  },
+  {
+   "id": "SIN-0005",
+   "id_apolice": "AP-0004",
+   "id_segurado": "SEG-004",
+   "tipo": "colisao",
+   "data": "2025-11-24",
+   "valor": 40300,
+   "perda_total": false,
+   "oficina": "Funilaria Estrela do Sul"
+  },
+  {
+   "id": "SIN-0006",
+   "id_apolice": "AP-0004",
+   "id_segurado": "SEG-004",
+   "tipo": "vidros",
+   "data": "2026-04-08",
+   "valor": 1700,
+   "perda_total": false,
+   "oficina": "Funilaria Estrela do Sul"
+  },
+  {
+   "id": "SIN-0007",
+   "id_apolice": "AP-0004",
+   "id_segurado": "SEG-004",
+   "tipo": "colisao",
+   "data": "2026-06-09",
+   "valor": 39800,
+   "perda_total": false,
+   "oficina": "Oficina Bela Vista"
+  },
+  {
+   "id": "SIN-0008",
+   "id_apolice": "AP-0004",
+   "id_segurado": "SEG-004",
+   "tipo": "alagamento",
+   "data": "2026-06-19",
+   "valor": 21100,
+   "perda_total": false,
+   "oficina": "Oficina Silva Martins"
+  },
+  {
+   "id": "SIN-0009",
+   "id_apolice": "AP-0004",
+   "id_segurado": "SEG-004",
+   "tipo": "colisao",
+   "data": "2026-06-23",
+   "valor": 35300,
+   "perda_total": false,
+   "oficina": "Auto Reparos Continental"
+  },
+  {
+   "id": "SIN-0010",
+   "id_apolice": "AP-0005",
+   "id_segurado": "SEG-005",
+   "tipo": "colisao",
+   "data": "2025-08-17",
+   "valor": 13400,
+   "perda_total": false,
+   "oficina": "Oficina Silva Martins"
+  },
+  {
+   "id": "SIN-0011",
+   "id_apolice": "AP-0005",
+   "id_segurado": "SEG-005",
+   "tipo": "colisao",
+   "data": "2026-04-26",
+   "valor": 21000,
+   "perda_total": false,
+   "oficina": "Oficina Pinheiros Motor"
+  },
+  {
+   "id": "SIN-0012",
+   "id_apolice": "AP-0006",
+   "id_segurado": "SEG-006",
+   "tipo": "roubo",
+   "data": "2026-03-08",
+   "valor": 50700,
+   "perda_total": false,
+   "oficina": "Auto Reparos Continental"
+  },
+  {
+   "id": "SIN-0013",
+   "id_apolice": "AP-0006",
+   "id_segurado": "SEG-006",
+   "tipo": "vidros",
+   "data": "2026-06-19",
+   "valor": 1500,
+   "perda_total": false,
+   "oficina": "Oficina Silva Martins"
+  },
+  {
+   "id": "SIN-0014",
+   "id_apolice": "AP-0007",
+   "id_segurado": "SEG-007",
+   "tipo": "furto",
+   "data": "2026-06-05",
+   "valor": 6500,
+   "perda_total": false,
+   "oficina": "Oficina Pinheiros Motor"
+  },
+  {
+   "id": "SIN-0015",
+   "id_apolice": "AP-0007",
+   "id_segurado": "SEG-007",
+   "tipo": "furto",
+   "data": "2026-06-19",
+   "valor": 7900,
+   "perda_total": false,
+   "oficina": "Oficina Pinheiros Motor"
+  },
+  {
+   "id": "SIN-0016",
+   "id_apolice": "AP-0009",
+   "id_segurado": "SEG-009",
+   "tipo": "colisao",
+   "data": "2025-09-09",
+   "valor": 4000,
+   "perda_total": false,
+   "oficina": "Oficina Pinheiros Motor"
+  },
+  {
+   "id": "SIN-0017",
+   "id_apolice": "AP-0009",
+   "id_segurado": "SEG-009",
+   "tipo": "vidros",
+   "data": "2026-04-25",
+   "valor": 1000,
+   "perda_total": false,
+   "oficina": "Auto Center Colibri"
+  },
+  {
+   "id": "SIN-0018",
+   "id_apolice": "AP-0010",
+   "id_segurado": "SEG-010",
+   "tipo": "furto",
+   "data": "2025-09-15",
+   "valor": 5500,
+   "perda_total": false,
+   "oficina": "Auto Center Colibri"
+  },
+  {
+   "id": "SIN-0019",
+   "id_apolice": "AP-0010",
+   "id_segurado": "SEG-010",
+   "tipo": "colisao",
+   "data": "2026-06-13",
+   "valor": 34600,
+   "perda_total": false,
+   "oficina": "Oficina Silva Martins"
+  },
+  {
+   "id": "SIN-0020",
+   "id_apolice": "AP-0012",
+   "id_segurado": "SEG-012",
+   "tipo": "vidros",
+   "data": "2025-12-07",
+   "valor": 3000,
+   "perda_total": false,
+   "oficina": "Centro Automotivo Lapa"
+  },
+  {
+   "id": "SIN-0021",
+   "id_apolice": "AP-0012",
+   "id_segurado": "SEG-012",
+   "tipo": "roubo",
+   "data": "2026-04-24",
+   "valor": 60600,
+   "perda_total": false,
+   "oficina": "Funilaria Estrela do Sul"
+  },
+  {
+   "id": "SIN-0022",
+   "id_apolice": "AP-0012",
+   "id_segurado": "SEG-012",
+   "tipo": "colisao",
+   "data": "2026-05-23",
+   "valor": 50000,
+   "perda_total": true,
+   "oficina": "Oficina Serra Azul"
+  },
+  {
+   "id": "SIN-0023",
+   "id_apolice": "AP-0012",
+   "id_segurado": "SEG-012",
+   "tipo": "furto",
+   "data": "2026-07-17",
+   "valor": 5000,
+   "perda_total": false,
+   "oficina": "Oficina Silva Martins"
+  },
+  {
+   "id": "SIN-0024",
+   "id_apolice": "AP-0015",
+   "id_segurado": "SEG-015",
+   "tipo": "colisao",
+   "data": "2026-01-15",
+   "valor": 38700,
+   "perda_total": false,
+   "oficina": "Oficina Serra Azul"
+  },
+  {
+   "id": "SIN-0025",
+   "id_apolice": "AP-0015",
+   "id_segurado": "SEG-015",
+   "tipo": "colisao",
+   "data": "2026-07-26",
+   "valor": 12800,
+   "perda_total": false,
+   "oficina": "Oficina Silva Martins"
+  },
+  {
+   "id": "SIN-0026",
+   "id_apolice": "AP-0018",
+   "id_segurado": "SEG-018",
+   "tipo": "colisao",
+   "data": "2025-08-11",
+   "valor": 14500,
+   "perda_total": false,
+   "oficina": "Funilaria Estrela do Sul"
+  },
+  {
+   "id": "SIN-0027",
+   "id_apolice": "AP-0018",
+   "id_segurado": "SEG-018",
+   "tipo": "alagamento",
+   "data": "2026-03-12",
+   "valor": 20000,
+   "perda_total": false,
+   "oficina": "Oficina Serra Azul"
+  },
+  {
+   "id": "SIN-0028",
+   "id_apolice": "AP-0067",
+   "id_segurado": "SEG-019",
+   "tipo": "furto",
+   "data": "2025-09-13",
+   "valor": 3500,
+   "perda_total": false,
+   "oficina": "Oficina Silva Martins"
+  },
+  {
+   "id": "SIN-0029",
+   "id_apolice": "AP-0019",
+   "id_segurado": "SEG-019",
+   "tipo": "vidros",
+   "data": "2026-01-08",
+   "valor": 2600,
+   "perda_total": false,
+   "oficina": "Oficina Silva Martins"
+  },
+  {
+   "id": "SIN-0030",
+   "id_apolice": "AP-0020",
+   "id_segurado": "SEG-020",
+   "tipo": "colisao",
+   "data": "2026-02-13",
+   "valor": 19200,
+   "perda_total": false,
+   "oficina": "Oficina Bela Vista"
+  },
+  {
+   "id": "SIN-0031",
+   "id_apolice": "AP-0020",
+   "id_segurado": "SEG-020",
+   "tipo": "furto",
+   "data": "2026-04-30",
+   "valor": 1700,
+   "perda_total": false,
+   "oficina": "Centro Automotivo Lapa"
+  },
+  {
+   "id": "SIN-0032",
+   "id_apolice": "AP-0021",
+   "id_segurado": "SEG-021",
+   "tipo": "colisao",
+   "data": "2026-01-10",
+   "valor": 51100,
+   "perda_total": true,
+   "oficina": "Funilaria Monte Claro"
+  },
+  {
+   "id": "SIN-0033",
+   "id_apolice": "AP-0021",
+   "id_segurado": "SEG-021",
+   "tipo": "vidros",
+   "data": "2026-04-26",
+   "valor": 1800,
+   "perda_total": false,
+   "oficina": "Oficina Silva Martins"
+  },
+  {
+   "id": "SIN-0034",
+   "id_apolice": "AP-0022",
+   "id_segurado": "SEG-022",
+   "tipo": "colisao",
+   "data": "2025-11-03",
+   "valor": 11700,
+   "perda_total": false,
+   "oficina": "Auto Center Colibri"
+  },
+  {
+   "id": "SIN-0035",
+   "id_apolice": "AP-0022",
+   "id_segurado": "SEG-022",
+   "tipo": "colisao",
+   "data": "2026-06-10",
+   "valor": 58000,
+   "perda_total": true,
+   "oficina": "Oficina Serra Azul"
+  },
+  {
+   "id": "SIN-0036",
+   "id_apolice": "AP-0023",
+   "id_segurado": "SEG-023",
+   "tipo": "colisao",
+   "data": "2025-11-15",
+   "valor": 74800,
+   "perda_total": true,
+   "oficina": "Funilaria Monte Claro"
+  },
+  {
+   "id": "SIN-0037",
+   "id_apolice": "AP-0023",
+   "id_segurado": "SEG-023",
+   "tipo": "colisao",
+   "data": "2026-07-07",
+   "valor": 37600,
+   "perda_total": false,
+   "oficina": "Mecanica Vale Verde"
+  },
+  {
+   "id": "SIN-0038",
+   "id_apolice": "AP-0024",
+   "id_segurado": "SEG-024",
+   "tipo": "colisao",
+   "data": "2026-02-19",
+   "valor": 50600,
+   "perda_total": true,
+   "oficina": "Oficina Pinheiros Motor"
+  },
+  {
+   "id": "SIN-0039",
+   "id_apolice": "AP-0024",
+   "id_segurado": "SEG-024",
+   "tipo": "vidros",
+   "data": "2026-05-06",
+   "valor": 800,
+   "perda_total": false,
+   "oficina": "Oficina Silva Martins"
+  },
+  {
+   "id": "SIN-0040",
+   "id_apolice": "AP-0068",
+   "id_segurado": "SEG-025",
+   "tipo": "colisao",
+   "data": "2025-12-28",
+   "valor": 11400,
+   "perda_total": false,
+   "oficina": "Oficina Pinheiros Motor"
+  },
+  {
+   "id": "SIN-0041",
+   "id_apolice": "AP-0025",
+   "id_segurado": "SEG-025",
+   "tipo": "colisao",
+   "data": "2026-01-01",
+   "valor": 30500,
+   "perda_total": false,
+   "oficina": "Mecanica Vale Verde"
+  },
+  {
+   "id": "SIN-0042",
+   "id_apolice": "AP-0026",
+   "id_segurado": "SEG-026",
+   "tipo": "colisao",
+   "data": "2026-03-26",
+   "valor": 78100,
+   "perda_total": true,
+   "oficina": "Oficina Pinheiros Motor"
+  },
+  {
+   "id": "SIN-0043",
+   "id_apolice": "AP-0026",
+   "id_segurado": "SEG-026",
+   "tipo": "furto",
+   "data": "2026-04-13",
+   "valor": 3600,
+   "perda_total": false,
+   "oficina": "Oficina Silva Martins"
+  },
+  {
+   "id": "SIN-0044",
+   "id_apolice": "AP-0026",
+   "id_segurado": "SEG-026",
+   "tipo": "colisao",
+   "data": "2026-05-29",
+   "valor": 16900,
+   "perda_total": false,
+   "oficina": "Oficina Serra Azul"
+  },
+  {
+   "id": "SIN-0045",
+   "id_apolice": "AP-0027",
+   "id_segurado": "SEG-027",
+   "tipo": "vidros",
+   "data": "2025-11-19",
+   "valor": 1300,
+   "perda_total": false,
+   "oficina": "Auto Reparos Continental"
+  },
+  {
+   "id": "SIN-0046",
+   "id_apolice": "AP-0027",
+   "id_segurado": "SEG-027",
+   "tipo": "vidros",
+   "data": "2026-02-21",
+   "valor": 1200,
+   "perda_total": false,
+   "oficina": "Oficina Pinheiros Motor"
+  },
+  {
+   "id": "SIN-0047",
+   "id_apolice": "AP-0028",
+   "id_segurado": "SEG-028",
+   "tipo": "furto",
+   "data": "2025-08-03",
+   "valor": 8500,
+   "perda_total": false,
+   "oficina": "Auto Eletrica Ipiranga"
+  },
+  {
+   "id": "SIN-0048",
+   "id_apolice": "AP-0028",
+   "id_segurado": "SEG-028",
+   "tipo": "colisao",
+   "data": "2026-03-01",
+   "valor": 35800,
+   "perda_total": false,
+   "oficina": "Oficina Serra Azul"
+  },
+  {
+   "id": "SIN-0049",
+   "id_apolice": "AP-0029",
+   "id_segurado": "SEG-029",
+   "tipo": "alagamento",
+   "data": "2025-10-25",
+   "valor": 18200,
+   "perda_total": false,
+   "oficina": "Oficina Pinheiros Motor"
+  },
+  {
+   "id": "SIN-0050",
+   "id_apolice": "AP-0064",
+   "id_segurado": "SEG-029",
+   "tipo": "colisao",
+   "data": "2026-07-21",
+   "valor": 23200,
+   "perda_total": false,
+   "oficina": "Auto Reparos Continental"
+  },
+  {
+   "id": "SIN-0051",
+   "id_apolice": "AP-0030",
+   "id_segurado": "SEG-030",
+   "tipo": "alagamento",
+   "data": "2025-09-20",
+   "valor": 28300,
+   "perda_total": false,
+   "oficina": "Funilaria Estrela do Sul"
+  },
+  {
+   "id": "SIN-0052",
+   "id_apolice": "AP-0030",
+   "id_segurado": "SEG-030",
+   "tipo": "roubo",
+   "data": "2026-03-31",
+   "valor": 36000,
+   "perda_total": false,
+   "oficina": "Oficina Serra Azul"
+  },
+  {
+   "id": "SIN-0053",
+   "id_apolice": "AP-0031",
+   "id_segurado": "SEG-031",
+   "tipo": "colisao",
+   "data": "2026-01-01",
+   "valor": 87400,
+   "perda_total": true,
+   "oficina": "Funilaria Monte Claro"
+  },
+  {
+   "id": "SIN-0054",
+   "id_apolice": "AP-0031",
+   "id_segurado": "SEG-031",
+   "tipo": "colisao",
+   "data": "2026-01-18",
+   "valor": 62900,
+   "perda_total": true,
+   "oficina": "Oficina Pinheiros Motor"
+  },
+  {
+   "id": "SIN-0055",
+   "id_apolice": "AP-0033",
+   "id_segurado": "SEG-033",
+   "tipo": "furto",
+   "data": "2026-03-16",
+   "valor": 6800,
+   "perda_total": false,
+   "oficina": "Auto Center Colibri"
+  },
+  {
+   "id": "SIN-0056",
+   "id_apolice": "AP-0033",
+   "id_segurado": "SEG-033",
+   "tipo": "colisao",
+   "data": "2026-04-21",
+   "valor": 77600,
+   "perda_total": true,
+   "oficina": "Funilaria Monte Claro"
+  },
+  {
+   "id": "SIN-0057",
+   "id_apolice": "AP-0034",
+   "id_segurado": "SEG-034",
+   "tipo": "vidros",
+   "data": "2025-08-23",
+   "valor": 1600,
+   "perda_total": false,
+   "oficina": "Funilaria Monte Claro"
+  },
+  {
+   "id": "SIN-0058",
+   "id_apolice": "AP-0034",
+   "id_segurado": "SEG-034",
+   "tipo": "colisao",
+   "data": "2026-01-31",
+   "valor": 22800,
+   "perda_total": false,
+   "oficina": "Auto Reparos Continental"
+  },
+  {
+   "id": "SIN-0059",
+   "id_apolice": "AP-0035",
+   "id_segurado": "SEG-035",
+   "tipo": "vidros",
+   "data": "2026-01-27",
+   "valor": 2700,
+   "perda_total": false,
+   "oficina": "Mecanica Vale Verde"
+  },
+  {
+   "id": "SIN-0060",
+   "id_apolice": "AP-0035",
+   "id_segurado": "SEG-035",
+   "tipo": "furto",
+   "data": "2026-05-15",
+   "valor": 6500,
+   "perda_total": false,
+   "oficina": "Oficina Silva Martins"
+  },
+  {
+   "id": "SIN-0061",
+   "id_apolice": "AP-0036",
+   "id_segurado": "SEG-036",
+   "tipo": "colisao",
+   "data": "2025-09-15",
+   "valor": 22100,
+   "perda_total": false,
+   "oficina": "Auto Center Colibri"
+  },
+  {
+   "id": "SIN-0062",
+   "id_apolice": "AP-0036",
+   "id_segurado": "SEG-036",
+   "tipo": "colisao",
+   "data": "2026-01-13",
+   "valor": 10600,
+   "perda_total": false,
+   "oficina": "Mecanica Dois Irmaos"
+  },
+  {
+   "id": "SIN-0063",
+   "id_apolice": "AP-0069",
+   "id_segurado": "SEG-037",
+   "tipo": "vidros",
+   "data": "2026-03-05",
+   "valor": 1500,
+   "perda_total": false,
+   "oficina": "Oficina Silva Martins"
+  },
+  {
+   "id": "SIN-0064",
+   "id_apolice": "AP-0037",
+   "id_segurado": "SEG-037",
+   "tipo": "vidros",
+   "data": "2026-06-11",
+   "valor": 2900,
+   "perda_total": false,
+   "oficina": "Oficina Pinheiros Motor"
+  },
+  {
+   "id": "SIN-0065",
+   "id_apolice": "AP-0038",
+   "id_segurado": "SEG-038",
+   "tipo": "furto",
+   "data": "2025-11-21",
+   "valor": 3100,
+   "perda_total": false,
+   "oficina": "Oficina Silva Martins"
+  },
+  {
+   "id": "SIN-0066",
+   "id_apolice": "AP-0074",
+   "id_segurado": "SEG-038",
+   "tipo": "colisao",
+   "data": "2025-12-03",
+   "valor": 16100,
+   "perda_total": false,
+   "oficina": "Auto Eletrica Ipiranga"
+  },
+  {
+   "id": "SIN-0067",
+   "id_apolice": "AP-0039",
+   "id_segurado": "SEG-039",
+   "tipo": "colisao",
+   "data": "2026-02-03",
+   "valor": 35900,
+   "perda_total": false,
+   "oficina": "Oficina Silva Martins"
+  },
+  {
+   "id": "SIN-0068",
+   "id_apolice": "AP-0039",
+   "id_segurado": "SEG-039",
+   "tipo": "roubo",
+   "data": "2026-07-15",
+   "valor": 35600,
+   "perda_total": false,
+   "oficina": "Auto Center Colibri"
+  },
+  {
+   "id": "SIN-0069",
+   "id_apolice": "AP-0040",
+   "id_segurado": "SEG-040",
+   "tipo": "colisao",
+   "data": "2026-01-28",
+   "valor": 17200,
+   "perda_total": false,
+   "oficina": "Oficina Silva Martins"
+  },
+  {
+   "id": "SIN-0070",
+   "id_apolice": "AP-0040",
+   "id_segurado": "SEG-040",
+   "tipo": "colisao",
+   "data": "2026-04-28",
+   "valor": 17700,
+   "perda_total": false,
+   "oficina": "Funilaria Estrela do Sul"
+  },
+  {
+   "id": "SIN-0071",
+   "id_apolice": "AP-0041",
+   "id_segurado": "SEG-041",
+   "tipo": "vidros",
+   "data": "2025-11-09",
+   "valor": 2200,
+   "perda_total": false,
+   "oficina": "Oficina Silva Martins"
+  },
+  {
+   "id": "SIN-0072",
+   "id_apolice": "AP-0041",
+   "id_segurado": "SEG-041",
+   "tipo": "colisao",
+   "data": "2026-05-29",
+   "valor": 7700,
+   "perda_total": false,
+   "oficina": "Centro Automotivo Lapa"
+  },
+  {
+   "id": "SIN-0073",
+   "id_apolice": "AP-0042",
+   "id_segurado": "SEG-042",
+   "tipo": "alagamento",
+   "data": "2025-10-03",
+   "valor": 26400,
+   "perda_total": false,
+   "oficina": "Auto Center Colibri"
+  },
+  {
+   "id": "SIN-0074",
+   "id_apolice": "AP-0042",
+   "id_segurado": "SEG-042",
+   "tipo": "colisao",
+   "data": "2025-12-30",
+   "valor": 11000,
+   "perda_total": false,
+   "oficina": "Oficina Silva Martins"
+  },
+  {
+   "id": "SIN-0075",
+   "id_apolice": "AP-0043",
+   "id_segurado": "SEG-043",
+   "tipo": "furto",
+   "data": "2025-08-17",
+   "valor": 6600,
+   "perda_total": false,
+   "oficina": "Oficina Silva Martins"
+  },
+  {
+   "id": "SIN-0076",
+   "id_apolice": "AP-0043",
+   "id_segurado": "SEG-043",
+   "tipo": "vidros",
+   "data": "2025-10-07",
+   "valor": 900,
+   "perda_total": false,
+   "oficina": "Mecanica Dois Irmaos"
+  },
+  {
+   "id": "SIN-0077",
+   "id_apolice": "AP-0043",
+   "id_segurado": "SEG-043",
+   "tipo": "roubo",
+   "data": "2025-10-25",
+   "valor": 68200,
+   "perda_total": false,
+   "oficina": "Oficina Silva Martins"
+  },
+  {
+   "id": "SIN-0078",
+   "id_apolice": "AP-0043",
+   "id_segurado": "SEG-043",
+   "tipo": "alagamento",
+   "data": "2025-11-17",
+   "valor": 26200,
+   "perda_total": false,
+   "oficina": "Funilaria Estrela do Sul"
+  },
+  {
+   "id": "SIN-0079",
+   "id_apolice": "AP-0043",
+   "id_segurado": "SEG-043",
+   "tipo": "vidros",
+   "data": "2026-05-28",
+   "valor": 1400,
+   "perda_total": false,
+   "oficina": "Oficina Silva Martins"
+  },
+  {
+   "id": "SIN-0080",
+   "id_apolice": "AP-0043",
+   "id_segurado": "SEG-043",
+   "tipo": "colisao",
+   "data": "2026-07-17",
+   "valor": 12700,
+   "perda_total": false,
+   "oficina": "Auto Center Colibri"
+  },
+  {
+   "id": "SIN-0081",
+   "id_apolice": "AP-0045",
+   "id_segurado": "SEG-045",
+   "tipo": "colisao",
+   "data": "2025-10-09",
+   "valor": 17400,
+   "perda_total": false,
+   "oficina": "Oficina Serra Azul"
+  },
+  {
+   "id": "SIN-0082",
+   "id_apolice": "AP-0045",
+   "id_segurado": "SEG-045",
+   "tipo": "alagamento",
+   "data": "2025-10-09",
+   "valor": 34700,
+   "perda_total": false,
+   "oficina": "Mecanica Vale Verde"
+  },
+  {
+   "id": "SIN-0083",
+   "id_apolice": "AP-0061",
+   "id_segurado": "SEG-046",
+   "tipo": "colisao",
+   "data": "2025-09-13",
+   "valor": 28400,
+   "perda_total": false,
+   "oficina": "Mecanica Vale Verde"
+  },
+  {
+   "id": "SIN-0084",
+   "id_apolice": "AP-0061",
+   "id_segurado": "SEG-046",
+   "tipo": "colisao",
+   "data": "2026-02-14",
+   "valor": 31300,
+   "perda_total": false,
+   "oficina": "Oficina Pinheiros Motor"
+  },
+  {
+   "id": "SIN-0085",
+   "id_apolice": "AP-0049",
+   "id_segurado": "SEG-049",
+   "tipo": "furto",
+   "data": "2025-09-22",
+   "valor": 8400,
+   "perda_total": false,
+   "oficina": "Mecanica Vale Verde"
+  },
+  {
+   "id": "SIN-0086",
+   "id_apolice": "AP-0049",
+   "id_segurado": "SEG-049",
+   "tipo": "vidros",
+   "data": "2026-06-09",
+   "valor": 1600,
+   "perda_total": false,
+   "oficina": "Oficina Pinheiros Motor"
+  },
+  {
+   "id": "SIN-0087",
+   "id_apolice": "AP-0052",
+   "id_segurado": "SEG-052",
+   "tipo": "colisao",
+   "data": "2025-08-21",
+   "valor": 56300,
+   "perda_total": true,
+   "oficina": "Oficina Serra Azul"
+  },
+  {
+   "id": "SIN-0088",
+   "id_apolice": "AP-0052",
+   "id_segurado": "SEG-052",
+   "tipo": "furto",
+   "data": "2026-01-10",
+   "valor": 1500,
+   "perda_total": false,
+   "oficina": "Oficina Silva Martins"
+  },
+  {
+   "id": "SIN-0089",
+   "id_apolice": "AP-0053",
+   "id_segurado": "SEG-053",
+   "tipo": "roubo",
+   "data": "2025-08-02",
+   "valor": 31400,
+   "perda_total": false,
+   "oficina": "Oficina Silva Martins"
+  },
+  {
+   "id": "SIN-0090",
+   "id_apolice": "AP-0053",
+   "id_segurado": "SEG-053",
+   "tipo": "colisao",
+   "data": "2026-06-25",
+   "valor": 54500,
+   "perda_total": true,
+   "oficina": "Oficina Serra Azul"
+  },
+  {
+   "id": "SIN-0091",
+   "id_apolice": "AP-0054",
+   "id_segurado": "SEG-054",
+   "tipo": "alagamento",
+   "data": "2026-05-25",
+   "valor": 25300,
+   "perda_total": false,
+   "oficina": "Oficina Silva Martins"
+  },
+  {
+   "id": "SIN-0092",
+   "id_apolice": "AP-0054",
+   "id_segurado": "SEG-054",
+   "tipo": "roubo",
+   "data": "2026-06-30",
+   "valor": 64800,
+   "perda_total": false,
+   "oficina": "Oficina Silva Martins"
+  },
+  {
+   "id": "SIN-0093",
+   "id_apolice": "AP-0055",
+   "id_segurado": "SEG-055",
+   "tipo": "vidros",
+   "data": "2025-11-19",
+   "valor": 2000,
+   "perda_total": false,
+   "oficina": "Centro Automotivo Lapa"
+  },
+  {
+   "id": "SIN-0094",
+   "id_apolice": "AP-0055",
+   "id_segurado": "SEG-055",
+   "tipo": "colisao",
+   "data": "2026-03-16",
+   "valor": 49300,
+   "perda_total": true,
+   "oficina": "Oficina Silva Martins"
+  },
+  {
+   "id": "SIN-0095",
+   "id_apolice": "AP-0056",
+   "id_segurado": "SEG-056",
+   "tipo": "colisao",
+   "data": "2025-08-18",
+   "valor": 23100,
+   "perda_total": false,
+   "oficina": "Oficina Serra Azul"
+  },
+  {
+   "id": "SIN-0096",
+   "id_apolice": "AP-0056",
+   "id_segurado": "SEG-056",
+   "tipo": "colisao",
+   "data": "2026-05-30",
+   "valor": 88300,
+   "perda_total": true,
+   "oficina": "Oficina Silva Martins"
+  },
+  {
+   "id": "SIN-0097",
+   "id_apolice": "AP-0073",
+   "id_segurado": "SEG-058",
+   "tipo": "vidros",
+   "data": "2025-11-08",
+   "valor": 1800,
+   "perda_total": false,
+   "oficina": "Auto Reparos Continental"
+  },
+  {
+   "id": "SIN-0098",
+   "id_apolice": "AP-0058",
+   "id_segurado": "SEG-058",
+   "tipo": "alagamento",
+   "data": "2026-04-20",
+   "valor": 19000,
+   "perda_total": false,
+   "oficina": "Mecanica Dois Irmaos"
+  },
+  {
+   "id": "SIN-0099",
+   "id_apolice": "AP-0060",
+   "id_segurado": "SEG-060",
+   "tipo": "colisao",
+   "data": "2025-08-22",
+   "valor": 16200,
+   "perda_total": false,
+   "oficina": "Oficina Silva Martins"
+  },
+  {
+   "id": "SIN-0100",
+   "id_apolice": "AP-0060",
+   "id_segurado": "SEG-060",
+   "tipo": "vidros",
+   "data": "2025-10-22",
+   "valor": 1300,
+   "perda_total": false,
+   "oficina": "Auto Eletrica Ipiranga"
+  }
+ ]
+}

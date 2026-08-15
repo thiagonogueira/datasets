@@ -1,0 +1,108 @@
+{
+ "_nota": "Dados ficticios, uso didatico. Nenhuma pessoa ou empresa real.",
+ "conceitos": {
+  "Segurado": {
+   "sinonimos": [
+    "cliente",
+    "titular da apolice"
+   ],
+   "atributos": [
+    "nome",
+    "cidade"
+   ]
+  },
+  "Apolice": {
+   "sinonimos": [
+    "contrato"
+   ],
+   "atributos": [
+    "plano"
+   ],
+   "valores_de_plano": [
+    "Basico",
+    "Intermediario",
+    "Completo"
+   ]
+  },
+  "Cobertura": {
+   "sinonimos": [
+    "garantia"
+   ],
+   "atributos": []
+  },
+  "Franquia": {
+   "sinonimos": [
+    "participacao obrigatoria"
+   ],
+   "atributos": []
+  },
+  "Sinistro": {
+   "sinonimos": [
+    "ocorrencia",
+    "evento"
+   ],
+   "atributos": [
+    "tipo",
+    "data",
+    "valor",
+    "perda_total"
+   ]
+  },
+  "AvisoDeSinistro": {
+   "sinonimos": [
+    "comunicado",
+    "notificacao"
+   ],
+   "atributos": [
+    "texto"
+   ]
+  },
+  "Oficina": {
+   "sinonimos": [
+    "prestador",
+    "credenciada"
+   ],
+   "atributos": [
+    "comarca"
+   ]
+  },
+  "Corretor": {
+   "sinonimos": [],
+   "atributos": [
+    "nome"
+   ]
+  }
+ },
+ "relacoes": [
+  {
+   "de": "Segurado",
+   "nome": "POSSUI",
+   "para": "Apolice"
+  },
+  {
+   "de": "Apolice",
+   "nome": "INCLUI",
+   "para": "Cobertura"
+  },
+  {
+   "de": "Apolice",
+   "nome": "VENDIDA_POR",
+   "para": "Corretor"
+  },
+  {
+   "de": "Sinistro",
+   "nome": "REFERE_SE_A",
+   "para": "Apolice"
+  },
+  {
+   "de": "Sinistro",
+   "nome": "REPARADO_EM",
+   "para": "Oficina"
+  }
+ ],
+ "onde_o_dado_mora": {
+  "texto de clausula, limite, exclusao": "apolices, no banco vetorial das Aulas 2 a 4",
+  "procedimento, prazo, alcada": "manual de regulacao, no mesmo banco",
+  "contagem, ranking, relacao entre entidades": "grafo"
+ }
+}
