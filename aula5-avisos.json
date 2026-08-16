@@ -3,403 +3,403 @@
  "avisos": [
   {
    "id_sinistro": "SIN-0001",
-   "texto": "Aviso de sinistro SIN-0001. Venho comunicar que no dia 12/02/2026 tive um acidente de transito. Sou o segurado Ana Beatriz Rocha, apolice AP-0001. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 46.100. A oficina indicou perda total do veiculo."
+   "texto": "Aviso de sinistro SIN-0001. Venho comunicar que no dia 12/02/2026 tive um acidente de transito. Sou o segurado Ana Beatriz Rocha, apolice AP-0001 do plano Basico, contratada pela Meridiano Seguros. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 46.100. A oficina indicou perda total do veiculo."
   },
   {
    "id_sinistro": "SIN-0002",
-   "texto": "Aviso de sinistro SIN-0002. Escrevo para avisar que no dia 13/05/2026 tive o vidro lateral quebrado. Sou o segurado Ana Beatriz Rocha, apolice AP-0001. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 3.100."
+   "texto": "Aviso de sinistro SIN-0002. Escrevo para avisar que no dia 13/05/2026 tive o vidro lateral quebrado. Sou o segurado Ana Beatriz Rocha, apolice AP-0001 do plano Basico, contratada pela Meridiano Seguros. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 3.100."
   },
   {
    "id_sinistro": "SIN-0003",
-   "texto": "Aviso de sinistro SIN-0003. Registro por meio deste aviso que no dia 24/08/2025 o para-brisa do veiculo foi danificado. Sou o segurado Bruno Cardoso, apolice AP-0002. O veiculo foi encaminhado para a Centro Automotivo Lapa. com orcamento estimado em R$ 1.500."
+   "texto": "Aviso de sinistro SIN-0003. Registro por meio deste aviso que no dia 24/08/2025 o para-brisa do veiculo foi danificado. Sou o segurado Bruno Cardoso, apolice AP-0002 do plano Intermediario, contratada pela Bussola Seguros. O veiculo foi encaminhado para a Centro Automotivo Lapa. com orcamento estimado em R$ 1.500."
   },
   {
    "id_sinistro": "SIN-0004",
-   "texto": "Aviso de sinistro SIN-0004. Informo que no dia 18/07/2026 o veiculo foi atingido por alagamento. Sou o segurado Bruno Cardoso, apolice AP-0002. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 9.100."
+   "texto": "Aviso de sinistro SIN-0004. Informo que no dia 18/07/2026 o veiculo foi atingido por alagamento. Sou o segurado Bruno Cardoso, apolice AP-0002 do plano Intermediario, contratada pela Bussola Seguros. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 9.100."
   },
   {
    "id_sinistro": "SIN-0005",
-   "texto": "Aviso de sinistro SIN-0005. Escrevo para avisar que no dia 24/11/2025 me envolvi em uma colisao. Sou o segurado Carlos Mendes, apolice AP-0004. O veiculo foi encaminhado para a Funilaria Estrela do Sul. com orcamento estimado em R$ 40.300."
+   "texto": "Aviso de sinistro SIN-0005. Escrevo para avisar que no dia 24/11/2025 me envolvi em uma colisao. Sou o segurado Carlos Mendes, apolice AP-0004 do plano Intermediario, contratada pela Girassol Seguros. O veiculo foi encaminhado para a Funilaria Estrela do Sul. com orcamento estimado em R$ 40.300."
   },
   {
    "id_sinistro": "SIN-0006",
-   "texto": "Aviso de sinistro SIN-0006. Registro por meio deste aviso que no dia 08/04/2026 o vidro traseiro trincou apos impacto de pedra. Sou o segurado Carlos Mendes, apolice AP-0004. O veiculo foi encaminhado para a Funilaria Estrela do Sul. com orcamento estimado em R$ 1.700."
+   "texto": "Aviso de sinistro SIN-0006. Registro por meio deste aviso que no dia 08/04/2026 o vidro traseiro trincou apos impacto de pedra. Sou o segurado Carlos Mendes, apolice AP-0004 do plano Intermediario, contratada pela Girassol Seguros. O veiculo foi encaminhado para a Funilaria Estrela do Sul. com orcamento estimado em R$ 1.700."
   },
   {
    "id_sinistro": "SIN-0007",
-   "texto": "Aviso de sinistro SIN-0007. Venho comunicar que no dia 09/06/2026 me envolvi em uma colisao. Sou o segurado Carlos Mendes, apolice AP-0004. O veiculo foi encaminhado para a Oficina Bela Vista. com orcamento estimado em R$ 39.800."
+   "texto": "Aviso de sinistro SIN-0007. Venho comunicar que no dia 09/06/2026 me envolvi em uma colisao. Sou o segurado Carlos Mendes, apolice AP-0004 do plano Intermediario, contratada pela Girassol Seguros. O veiculo foi encaminhado para a Oficina Bela Vista. com orcamento estimado em R$ 39.800."
   },
   {
    "id_sinistro": "SIN-0008",
-   "texto": "Aviso de sinistro SIN-0008. Venho comunicar que no dia 19/06/2026 a via alagou e o motor foi comprometido. Sou o segurado Carlos Mendes, apolice AP-0004. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 21.100."
+   "texto": "Aviso de sinistro SIN-0008. Venho comunicar que no dia 19/06/2026 a via alagou e o motor foi comprometido. Sou o segurado Carlos Mendes, apolice AP-0004 do plano Intermediario, contratada pela Girassol Seguros. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 21.100."
   },
   {
    "id_sinistro": "SIN-0009",
-   "texto": "Aviso de sinistro SIN-0009. Escrevo para avisar que no dia 23/06/2026 sofri uma batida. Sou o segurado Carlos Mendes, apolice AP-0004. O veiculo foi encaminhado para a Auto Reparos Continental. com orcamento estimado em R$ 35.300."
+   "texto": "Aviso de sinistro SIN-0009. Escrevo para avisar que no dia 23/06/2026 sofri uma batida. Sou o segurado Carlos Mendes, apolice AP-0004 do plano Intermediario, contratada pela Girassol Seguros. O veiculo foi encaminhado para a Auto Reparos Continental. com orcamento estimado em R$ 35.300."
   },
   {
    "id_sinistro": "SIN-0010",
-   "texto": "Aviso de sinistro SIN-0010. Informo que no dia 17/08/2025 sofri uma batida. Sou o segurado Cintia Barros, apolice AP-0005. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 13.400."
+   "texto": "Aviso de sinistro SIN-0010. Informo que no dia 17/08/2025 sofri uma batida. Sou o segurado Cintia Barros, apolice AP-0005 do plano Intermediario, contratada pela Bussola Seguros. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 13.400."
   },
   {
    "id_sinistro": "SIN-0011",
-   "texto": "Aviso de sinistro SIN-0011. Registro por meio deste aviso que no dia 26/04/2026 tive um acidente de transito. Sou o segurado Cintia Barros, apolice AP-0005. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 21.000."
+   "texto": "Aviso de sinistro SIN-0011. Registro por meio deste aviso que no dia 26/04/2026 tive um acidente de transito. Sou o segurado Cintia Barros, apolice AP-0005 do plano Intermediario, contratada pela Bussola Seguros. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 21.000."
   },
   {
    "id_sinistro": "SIN-0012",
-   "texto": "Aviso de sinistro SIN-0012. Registro por meio deste aviso que no dia 08/03/2026 fui vitima de roubo do automovel. Sou o segurado Daniel Farias, apolice AP-0006. O prejuizo estimado e de R$ 50.700."
+   "texto": "Aviso de sinistro SIN-0012. Registro por meio deste aviso que no dia 08/03/2026 fui vitima de roubo do automovel. Sou o segurado Daniel Farias, apolice AP-0006 do plano Intermediario, contratada pela Farol Corretagem. O prejuizo estimado e de R$ 50.700."
   },
   {
    "id_sinistro": "SIN-0013",
-   "texto": "Aviso de sinistro SIN-0013. Registro por meio deste aviso que no dia 19/06/2026 o para-brisa do veiculo foi danificado. Sou o segurado Daniel Farias, apolice AP-0006. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 1.500."
+   "texto": "Aviso de sinistro SIN-0013. Registro por meio deste aviso que no dia 19/06/2026 o para-brisa do veiculo foi danificado. Sou o segurado Daniel Farias, apolice AP-0006 do plano Intermediario, contratada pela Farol Corretagem. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 1.500."
   },
   {
    "id_sinistro": "SIN-0014",
-   "texto": "Aviso de sinistro SIN-0014. Informo que no dia 05/06/2026 constatei o furto de itens e danos ao veiculo. Sou o segurado Debora Antunes, apolice AP-0007. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 6.500."
+   "texto": "Aviso de sinistro SIN-0014. Informo que no dia 05/06/2026 constatei o furto de itens e danos ao veiculo. Sou o segurado Debora Antunes, apolice AP-0007 do plano Intermediario, contratada pela Meridiano Seguros. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 6.500."
   },
   {
    "id_sinistro": "SIN-0015",
-   "texto": "Aviso de sinistro SIN-0015. Venho comunicar que no dia 19/06/2026 o veiculo foi furtado enquanto estava estacionado. Sou o segurado Debora Antunes, apolice AP-0007. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 7.900."
+   "texto": "Aviso de sinistro SIN-0015. Venho comunicar que no dia 19/06/2026 o veiculo foi furtado enquanto estava estacionado. Sou o segurado Debora Antunes, apolice AP-0007 do plano Intermediario, contratada pela Meridiano Seguros. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 7.900."
   },
   {
    "id_sinistro": "SIN-0016",
-   "texto": "Aviso de sinistro SIN-0016. Comunico a seguradora que no dia 09/09/2025 sofri uma batida. Sou o segurado Elaine Sampaio, apolice AP-0009. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 4.000."
+   "texto": "Aviso de sinistro SIN-0016. Comunico a seguradora que no dia 09/09/2025 sofri uma batida. Sou o segurado Elaine Sampaio, apolice AP-0009 do plano Basico, contratada pela Bussola Seguros. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 4.000."
   },
   {
    "id_sinistro": "SIN-0017",
-   "texto": "Aviso de sinistro SIN-0017. Informo que no dia 25/04/2026 tive o vidro lateral quebrado. Sou o segurado Elaine Sampaio, apolice AP-0009. O veiculo foi encaminhado para a Auto Center Colibri. com orcamento estimado em R$ 1.000."
+   "texto": "Aviso de sinistro SIN-0017. Informo que no dia 25/04/2026 tive o vidro lateral quebrado. Sou o segurado Elaine Sampaio, apolice AP-0009 do plano Basico, contratada pela Bussola Seguros. O veiculo foi encaminhado para a Auto Center Colibri. com orcamento estimado em R$ 1.000."
   },
   {
    "id_sinistro": "SIN-0018",
-   "texto": "Aviso de sinistro SIN-0018. Comunico a seguradora que no dia 15/09/2025 o veiculo foi furtado enquanto estava estacionado. Sou o segurado Fabio Teles, apolice AP-0010. O veiculo foi encaminhado para a Auto Center Colibri. com orcamento estimado em R$ 5.500."
+   "texto": "Aviso de sinistro SIN-0018. Comunico a seguradora que no dia 15/09/2025 o veiculo foi furtado enquanto estava estacionado. Sou o segurado Fabio Teles, apolice AP-0010 do plano Basico, contratada pela Girassol Seguros. O veiculo foi encaminhado para a Auto Center Colibri. com orcamento estimado em R$ 5.500."
   },
   {
    "id_sinistro": "SIN-0019",
-   "texto": "Aviso de sinistro SIN-0019. Venho comunicar que no dia 13/06/2026 sofri uma batida. Sou o segurado Fabio Teles, apolice AP-0010. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 34.600."
+   "texto": "Aviso de sinistro SIN-0019. Venho comunicar que no dia 13/06/2026 sofri uma batida. Sou o segurado Fabio Teles, apolice AP-0010 do plano Basico, contratada pela Girassol Seguros. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 34.600."
   },
   {
    "id_sinistro": "SIN-0020",
-   "texto": "Aviso de sinistro SIN-0020. Escrevo para avisar que no dia 07/12/2025 tive o vidro lateral quebrado. Sou o segurado Gabriel Nunes, apolice AP-0012. O veiculo foi encaminhado para a Centro Automotivo Lapa. com orcamento estimado em R$ 3.000."
+   "texto": "Aviso de sinistro SIN-0020. Escrevo para avisar que no dia 07/12/2025 tive o vidro lateral quebrado. Sou o segurado Gabriel Nunes, apolice AP-0012 do plano Basico, contratada pela Farol Corretagem. O veiculo foi encaminhado para a Centro Automotivo Lapa. com orcamento estimado em R$ 3.000."
   },
   {
    "id_sinistro": "SIN-0021",
-   "texto": "Aviso de sinistro SIN-0021. Escrevo para avisar que no dia 24/04/2026 o veiculo foi roubado mediante ameaca. Sou o segurado Gabriel Nunes, apolice AP-0012. O prejuizo estimado e de R$ 60.600."
+   "texto": "Aviso de sinistro SIN-0021. Escrevo para avisar que no dia 24/04/2026 o veiculo foi roubado mediante ameaca. Sou o segurado Gabriel Nunes, apolice AP-0012 do plano Basico, contratada pela Farol Corretagem. O prejuizo estimado e de R$ 60.600."
   },
   {
    "id_sinistro": "SIN-0022",
-   "texto": "Aviso de sinistro SIN-0022. Escrevo para avisar que no dia 23/05/2026 tive um acidente de transito. Sou o segurado Gabriel Nunes, apolice AP-0012. O veiculo foi encaminhado para a Oficina Serra Azul. com orcamento estimado em R$ 50.000. A oficina indicou perda total do veiculo."
+   "texto": "Aviso de sinistro SIN-0022. Escrevo para avisar que no dia 23/05/2026 tive um acidente de transito. Sou o segurado Gabriel Nunes, apolice AP-0012 do plano Basico, contratada pela Farol Corretagem. O veiculo foi encaminhado para a Oficina Serra Azul. com orcamento estimado em R$ 50.000. A oficina indicou perda total do veiculo."
   },
   {
    "id_sinistro": "SIN-0023",
-   "texto": "Aviso de sinistro SIN-0023. Comunico a seguradora que no dia 17/07/2026 constatei o furto de itens e danos ao veiculo. Sou o segurado Gabriel Nunes, apolice AP-0012. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 5.000."
+   "texto": "Aviso de sinistro SIN-0023. Comunico a seguradora que no dia 17/07/2026 constatei o furto de itens e danos ao veiculo. Sou o segurado Gabriel Nunes, apolice AP-0012 do plano Basico, contratada pela Farol Corretagem. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 5.000."
   },
   {
    "id_sinistro": "SIN-0024",
-   "texto": "Aviso de sinistro SIN-0024. Informo que no dia 15/01/2026 me envolvi em uma colisao. Sou o segurado Isabela Franco, apolice AP-0015. O veiculo foi encaminhado para a Oficina Serra Azul. com orcamento estimado em R$ 38.700."
+   "texto": "Aviso de sinistro SIN-0024. Informo que no dia 15/01/2026 me envolvi em uma colisao. Sou o segurado Isabela Franco, apolice AP-0015 do plano Completo, contratada pela Girassol Seguros. O veiculo foi encaminhado para a Oficina Serra Azul. com orcamento estimado em R$ 38.700."
   },
   {
    "id_sinistro": "SIN-0025",
-   "texto": "Aviso de sinistro SIN-0025. Comunico a seguradora que no dia 26/07/2026 tive um acidente de transito. Sou o segurado Isabela Franco, apolice AP-0015. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 12.800."
+   "texto": "Aviso de sinistro SIN-0025. Comunico a seguradora que no dia 26/07/2026 tive um acidente de transito. Sou o segurado Isabela Franco, apolice AP-0015 do plano Completo, contratada pela Girassol Seguros. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 12.800."
   },
   {
    "id_sinistro": "SIN-0026",
-   "texto": "Aviso de sinistro SIN-0026. Venho comunicar que no dia 11/08/2025 tive um acidente de transito. Sou o segurado Juliana Castro, apolice AP-0018. O veiculo foi encaminhado para a Funilaria Estrela do Sul. com orcamento estimado em R$ 14.500."
+   "texto": "Aviso de sinistro SIN-0026. Venho comunicar que no dia 11/08/2025 tive um acidente de transito. Sou o segurado Juliana Castro, apolice AP-0018 do plano Completo, contratada pela Bussola Seguros. O veiculo foi encaminhado para a Funilaria Estrela do Sul. com orcamento estimado em R$ 14.500."
   },
   {
    "id_sinistro": "SIN-0027",
-   "texto": "Aviso de sinistro SIN-0027. Comunico a seguradora que no dia 12/03/2026 a via alagou e o motor foi comprometido. Sou o segurado Juliana Castro, apolice AP-0018. O veiculo foi encaminhado para a Oficina Serra Azul. com orcamento estimado em R$ 20.000."
+   "texto": "Aviso de sinistro SIN-0027. Comunico a seguradora que no dia 12/03/2026 a via alagou e o motor foi comprometido. Sou o segurado Juliana Castro, apolice AP-0018 do plano Completo, contratada pela Bussola Seguros. O veiculo foi encaminhado para a Oficina Serra Azul. com orcamento estimado em R$ 20.000."
   },
   {
    "id_sinistro": "SIN-0028",
-   "texto": "Aviso de sinistro SIN-0028. Venho comunicar que no dia 13/09/2025 constatei o furto de itens e danos ao veiculo. Sou o segurado Larissa Moura, apolice AP-0067. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 3.500."
+   "texto": "Aviso de sinistro SIN-0028. Venho comunicar que no dia 13/09/2025 constatei o furto de itens e danos ao veiculo. Sou o segurado Larissa Moura, apolice AP-0067 do plano Intermediario, contratada pela Almeida Correta. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 3.500."
   },
   {
    "id_sinistro": "SIN-0029",
-   "texto": "Aviso de sinistro SIN-0029. Escrevo para avisar que no dia 08/01/2026 o para-brisa do veiculo foi danificado. Sou o segurado Larissa Moura, apolice AP-0019. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 2.600."
+   "texto": "Aviso de sinistro SIN-0029. Escrevo para avisar que no dia 08/01/2026 o para-brisa do veiculo foi danificado. Sou o segurado Larissa Moura, apolice AP-0019 do plano Completo, contratada pela Bussola Seguros. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 2.600."
   },
   {
    "id_sinistro": "SIN-0030",
-   "texto": "Aviso de sinistro SIN-0030. Escrevo para avisar que no dia 13/02/2026 sofri uma batida. Sou o segurado Leonardo Reis, apolice AP-0020. O veiculo foi encaminhado para a Oficina Bela Vista. com orcamento estimado em R$ 19.200."
+   "texto": "Aviso de sinistro SIN-0030. Escrevo para avisar que no dia 13/02/2026 sofri uma batida. Sou o segurado Leonardo Reis, apolice AP-0020 do plano Basico, contratada pela Almeida Correta. O veiculo foi encaminhado para a Oficina Bela Vista. com orcamento estimado em R$ 19.200."
   },
   {
    "id_sinistro": "SIN-0031",
-   "texto": "Aviso de sinistro SIN-0031. Venho comunicar que no dia 30/04/2026 o veiculo foi furtado enquanto estava estacionado. Sou o segurado Leonardo Reis, apolice AP-0020. O veiculo foi encaminhado para a Centro Automotivo Lapa. com orcamento estimado em R$ 1.700."
+   "texto": "Aviso de sinistro SIN-0031. Venho comunicar que no dia 30/04/2026 o veiculo foi furtado enquanto estava estacionado. Sou o segurado Leonardo Reis, apolice AP-0020 do plano Basico, contratada pela Almeida Correta. O veiculo foi encaminhado para a Centro Automotivo Lapa. com orcamento estimado em R$ 1.700."
   },
   {
    "id_sinistro": "SIN-0032",
-   "texto": "Aviso de sinistro SIN-0032. Venho comunicar que no dia 10/01/2026 me envolvi em uma colisao. Sou o segurado Livia Campos, apolice AP-0021. O veiculo foi encaminhado para a Funilaria Monte Claro. com orcamento estimado em R$ 51.100. A oficina indicou perda total do veiculo."
+   "texto": "Aviso de sinistro SIN-0032. Venho comunicar que no dia 10/01/2026 me envolvi em uma colisao. Sou o segurado Livia Campos, apolice AP-0021 do plano Basico, contratada pela Horizonte Corretora. O veiculo foi encaminhado para a Funilaria Monte Claro. com orcamento estimado em R$ 51.100. A oficina indicou perda total do veiculo."
   },
   {
    "id_sinistro": "SIN-0033",
-   "texto": "Aviso de sinistro SIN-0033. Registro por meio deste aviso que no dia 26/04/2026 o para-brisa do veiculo foi danificado. Sou o segurado Livia Campos, apolice AP-0021. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 1.800."
+   "texto": "Aviso de sinistro SIN-0033. Registro por meio deste aviso que no dia 26/04/2026 o para-brisa do veiculo foi danificado. Sou o segurado Livia Campos, apolice AP-0021 do plano Basico, contratada pela Horizonte Corretora. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 1.800."
   },
   {
    "id_sinistro": "SIN-0034",
-   "texto": "Aviso de sinistro SIN-0034. Registro por meio deste aviso que no dia 03/11/2025 me envolvi em uma colisao. Sou o segurado Lucas Ferreira, apolice AP-0022. O veiculo foi encaminhado para a Auto Center Colibri. com orcamento estimado em R$ 11.700."
+   "texto": "Aviso de sinistro SIN-0034. Registro por meio deste aviso que no dia 03/11/2025 me envolvi em uma colisao. Sou o segurado Lucas Ferreira, apolice AP-0022 do plano Basico, contratada pela Horizonte Corretora. O veiculo foi encaminhado para a Auto Center Colibri. com orcamento estimado em R$ 11.700."
   },
   {
    "id_sinistro": "SIN-0035",
-   "texto": "Aviso de sinistro SIN-0035. Registro por meio deste aviso que no dia 10/06/2026 tive um acidente de transito. Sou o segurado Lucas Ferreira, apolice AP-0022. O veiculo foi encaminhado para a Oficina Serra Azul. com orcamento estimado em R$ 58.000. A oficina indicou perda total do veiculo."
+   "texto": "Aviso de sinistro SIN-0035. Registro por meio deste aviso que no dia 10/06/2026 tive um acidente de transito. Sou o segurado Lucas Ferreira, apolice AP-0022 do plano Basico, contratada pela Horizonte Corretora. O veiculo foi encaminhado para a Oficina Serra Azul. com orcamento estimado em R$ 58.000. A oficina indicou perda total do veiculo."
   },
   {
    "id_sinistro": "SIN-0036",
-   "texto": "Aviso de sinistro SIN-0036. Registro por meio deste aviso que no dia 15/11/2025 tive um acidente de transito. Sou o segurado Luiza Andrade, apolice AP-0023. O veiculo foi encaminhado para a Funilaria Monte Claro. com orcamento estimado em R$ 74.800. A oficina indicou perda total do veiculo."
+   "texto": "Aviso de sinistro SIN-0036. Registro por meio deste aviso que no dia 15/11/2025 tive um acidente de transito. Sou o segurado Luiza Andrade, apolice AP-0023 do plano Basico, contratada pela Trevo Corretagem. O veiculo foi encaminhado para a Funilaria Monte Claro. com orcamento estimado em R$ 74.800. A oficina indicou perda total do veiculo."
   },
   {
    "id_sinistro": "SIN-0037",
-   "texto": "Aviso de sinistro SIN-0037. Venho comunicar que no dia 07/07/2026 tive um acidente de transito. Sou o segurado Luiza Andrade, apolice AP-0023. O veiculo foi encaminhado para a Mecanica Vale Verde. com orcamento estimado em R$ 37.600."
+   "texto": "Aviso de sinistro SIN-0037. Venho comunicar que no dia 07/07/2026 tive um acidente de transito. Sou o segurado Luiza Andrade, apolice AP-0023 do plano Basico, contratada pela Trevo Corretagem. O veiculo foi encaminhado para a Mecanica Vale Verde. com orcamento estimado em R$ 37.600."
   },
   {
    "id_sinistro": "SIN-0038",
-   "texto": "Aviso de sinistro SIN-0038. Comunico a seguradora que no dia 19/02/2026 me envolvi em uma colisao. Sou o segurado Marcelo Torres, apolice AP-0024. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 50.600. A oficina indicou perda total do veiculo."
+   "texto": "Aviso de sinistro SIN-0038. Comunico a seguradora que no dia 19/02/2026 me envolvi em uma colisao. Sou o segurado Marcelo Torres, apolice AP-0024 do plano Completo, contratada pela Trevo Corretagem. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 50.600. A oficina indicou perda total do veiculo."
   },
   {
    "id_sinistro": "SIN-0039",
-   "texto": "Aviso de sinistro SIN-0039. Comunico a seguradora que no dia 06/05/2026 o para-brisa do veiculo foi danificado. Sou o segurado Marcelo Torres, apolice AP-0024. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 800."
+   "texto": "Aviso de sinistro SIN-0039. Comunico a seguradora que no dia 06/05/2026 o para-brisa do veiculo foi danificado. Sou o segurado Marcelo Torres, apolice AP-0024 do plano Completo, contratada pela Trevo Corretagem. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 800."
   },
   {
    "id_sinistro": "SIN-0040",
-   "texto": "Aviso de sinistro SIN-0040. Registro por meio deste aviso que no dia 28/12/2025 tive um acidente de transito. Sou o segurado Marcia Bittencourt, apolice AP-0068. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 11.400."
+   "texto": "Aviso de sinistro SIN-0040. Registro por meio deste aviso que no dia 28/12/2025 tive um acidente de transito. Sou o segurado Marcia Bittencourt, apolice AP-0068 do plano Completo, contratada pela Corretora Damasco. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 11.400."
   },
   {
    "id_sinistro": "SIN-0041",
-   "texto": "Aviso de sinistro SIN-0041. Informo que no dia 01/01/2026 me envolvi em uma colisao. Sou o segurado Marcia Bittencourt, apolice AP-0025. O veiculo foi encaminhado para a Mecanica Vale Verde. com orcamento estimado em R$ 30.500."
+   "texto": "Aviso de sinistro SIN-0041. Informo que no dia 01/01/2026 me envolvi em uma colisao. Sou o segurado Marcia Bittencourt, apolice AP-0025 do plano Intermediario, contratada pela Farol Corretagem. O veiculo foi encaminhado para a Mecanica Vale Verde. com orcamento estimado em R$ 30.500."
   },
   {
    "id_sinistro": "SIN-0042",
-   "texto": "Aviso de sinistro SIN-0042. Registro por meio deste aviso que no dia 26/03/2026 sofri uma batida. Sou o segurado Mariana Silveira, apolice AP-0026. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 78.100. A oficina indicou perda total do veiculo."
+   "texto": "Aviso de sinistro SIN-0042. Registro por meio deste aviso que no dia 26/03/2026 sofri uma batida. Sou o segurado Mariana Silveira, apolice AP-0026 do plano Basico, contratada pela Almeida Correta. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 78.100. A oficina indicou perda total do veiculo."
   },
   {
    "id_sinistro": "SIN-0043",
-   "texto": "Aviso de sinistro SIN-0043. Venho comunicar que no dia 13/04/2026 constatei o furto de itens e danos ao veiculo. Sou o segurado Mariana Silveira, apolice AP-0026. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 3.600."
+   "texto": "Aviso de sinistro SIN-0043. Venho comunicar que no dia 13/04/2026 constatei o furto de itens e danos ao veiculo. Sou o segurado Mariana Silveira, apolice AP-0026 do plano Basico, contratada pela Almeida Correta. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 3.600."
   },
   {
    "id_sinistro": "SIN-0044",
-   "texto": "Aviso de sinistro SIN-0044. Escrevo para avisar que no dia 29/05/2026 sofri uma batida. Sou o segurado Mariana Silveira, apolice AP-0026. O veiculo foi encaminhado para a Oficina Serra Azul. com orcamento estimado em R$ 16.900."
+   "texto": "Aviso de sinistro SIN-0044. Escrevo para avisar que no dia 29/05/2026 sofri uma batida. Sou o segurado Mariana Silveira, apolice AP-0026 do plano Basico, contratada pela Almeida Correta. O veiculo foi encaminhado para a Oficina Serra Azul. com orcamento estimado em R$ 16.900."
   },
   {
    "id_sinistro": "SIN-0045",
-   "texto": "Aviso de sinistro SIN-0045. Venho comunicar que no dia 19/11/2025 o vidro traseiro trincou apos impacto de pedra. Sou o segurado Mateus Correia, apolice AP-0027. O veiculo foi encaminhado para a Auto Reparos Continental. com orcamento estimado em R$ 1.300."
+   "texto": "Aviso de sinistro SIN-0045. Venho comunicar que no dia 19/11/2025 o vidro traseiro trincou apos impacto de pedra. Sou o segurado Mateus Correia, apolice AP-0027 do plano Basico, contratada pela Girassol Seguros. O veiculo foi encaminhado para a Auto Reparos Continental. com orcamento estimado em R$ 1.300."
   },
   {
    "id_sinistro": "SIN-0046",
-   "texto": "Aviso de sinistro SIN-0046. Informo que no dia 21/02/2026 o vidro traseiro trincou apos impacto de pedra. Sou o segurado Mateus Correia, apolice AP-0027. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 1.200."
+   "texto": "Aviso de sinistro SIN-0046. Informo que no dia 21/02/2026 o vidro traseiro trincou apos impacto de pedra. Sou o segurado Mateus Correia, apolice AP-0027 do plano Basico, contratada pela Girassol Seguros. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 1.200."
   },
   {
    "id_sinistro": "SIN-0047",
-   "texto": "Aviso de sinistro SIN-0047. Escrevo para avisar que no dia 03/08/2025 constatei o furto de itens e danos ao veiculo. Sou o segurado Mauricio Leal, apolice AP-0028. O veiculo foi encaminhado para a Auto Eletrica Ipiranga. com orcamento estimado em R$ 8.500."
+   "texto": "Aviso de sinistro SIN-0047. Escrevo para avisar que no dia 03/08/2025 constatei o furto de itens e danos ao veiculo. Sou o segurado Mauricio Leal, apolice AP-0028 do plano Intermediario, contratada pela Almeida Correta. O veiculo foi encaminhado para a Auto Eletrica Ipiranga. com orcamento estimado em R$ 8.500."
   },
   {
    "id_sinistro": "SIN-0048",
-   "texto": "Aviso de sinistro SIN-0048. Venho comunicar que no dia 01/03/2026 tive um acidente de transito. Sou o segurado Mauricio Leal, apolice AP-0028. O veiculo foi encaminhado para a Oficina Serra Azul. com orcamento estimado em R$ 35.800."
+   "texto": "Aviso de sinistro SIN-0048. Venho comunicar que no dia 01/03/2026 tive um acidente de transito. Sou o segurado Mauricio Leal, apolice AP-0028 do plano Intermediario, contratada pela Almeida Correta. O veiculo foi encaminhado para a Oficina Serra Azul. com orcamento estimado em R$ 35.800."
   },
   {
    "id_sinistro": "SIN-0049",
-   "texto": "Aviso de sinistro SIN-0049. Comunico a seguradora que no dia 25/10/2025 a via alagou e o motor foi comprometido. Sou o segurado Michele Dias, apolice AP-0029. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 18.200."
+   "texto": "Aviso de sinistro SIN-0049. Comunico a seguradora que no dia 25/10/2025 a via alagou e o motor foi comprometido. Sou o segurado Michele Dias, apolice AP-0029 do plano Intermediario, contratada pela Farol Corretagem. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 18.200."
   },
   {
    "id_sinistro": "SIN-0050",
-   "texto": "Aviso de sinistro SIN-0050. Venho comunicar que no dia 21/07/2026 tive um acidente de transito. Sou o segurado Michele Dias, apolice AP-0064. O veiculo foi encaminhado para a Auto Reparos Continental. com orcamento estimado em R$ 23.200."
+   "texto": "Aviso de sinistro SIN-0050. Venho comunicar que no dia 21/07/2026 tive um acidente de transito. Sou o segurado Michele Dias, apolice AP-0064 do plano Intermediario, contratada pela Bussola Seguros. O veiculo foi encaminhado para a Auto Reparos Continental. com orcamento estimado em R$ 23.200."
   },
   {
    "id_sinistro": "SIN-0051",
-   "texto": "Aviso de sinistro SIN-0051. Escrevo para avisar que no dia 20/09/2025 o veiculo foi atingido por alagamento. Sou o segurado Natalia Fontes, apolice AP-0030. O veiculo foi encaminhado para a Funilaria Estrela do Sul. com orcamento estimado em R$ 28.300."
+   "texto": "Aviso de sinistro SIN-0051. Escrevo para avisar que no dia 20/09/2025 o veiculo foi atingido por alagamento. Sou o segurado Natalia Fontes, apolice AP-0030 do plano Completo, contratada pela Horizonte Corretora. O veiculo foi encaminhado para a Funilaria Estrela do Sul. com orcamento estimado em R$ 28.300."
   },
   {
    "id_sinistro": "SIN-0052",
-   "texto": "Aviso de sinistro SIN-0052. Escrevo para avisar que no dia 31/03/2026 fui vitima de roubo do automovel. Sou o segurado Natalia Fontes, apolice AP-0030. O prejuizo estimado e de R$ 36.000."
+   "texto": "Aviso de sinistro SIN-0052. Escrevo para avisar que no dia 31/03/2026 fui vitima de roubo do automovel. Sou o segurado Natalia Fontes, apolice AP-0030 do plano Completo, contratada pela Horizonte Corretora. O prejuizo estimado e de R$ 36.000."
   },
   {
    "id_sinistro": "SIN-0053",
-   "texto": "Aviso de sinistro SIN-0053. Comunico a seguradora que no dia 01/01/2026 sofri uma batida. Sou o segurado Nelson Barreto, apolice AP-0031. O veiculo foi encaminhado para a Funilaria Monte Claro. com orcamento estimado em R$ 87.400. A oficina indicou perda total do veiculo."
+   "texto": "Aviso de sinistro SIN-0053. Comunico a seguradora que no dia 01/01/2026 sofri uma batida. Sou o segurado Nelson Barreto, apolice AP-0031 do plano Intermediario, contratada pela Corretora Damasco. O veiculo foi encaminhado para a Funilaria Monte Claro. com orcamento estimado em R$ 87.400. A oficina indicou perda total do veiculo."
   },
   {
    "id_sinistro": "SIN-0054",
-   "texto": "Aviso de sinistro SIN-0054. Escrevo para avisar que no dia 18/01/2026 sofri uma batida. Sou o segurado Nelson Barreto, apolice AP-0031. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 62.900. A oficina indicou perda total do veiculo."
+   "texto": "Aviso de sinistro SIN-0054. Escrevo para avisar que no dia 18/01/2026 sofri uma batida. Sou o segurado Nelson Barreto, apolice AP-0031 do plano Intermediario, contratada pela Corretora Damasco. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 62.900. A oficina indicou perda total do veiculo."
   },
   {
    "id_sinistro": "SIN-0055",
-   "texto": "Aviso de sinistro SIN-0055. Comunico a seguradora que no dia 16/03/2026 constatei o furto de itens e danos ao veiculo. Sou o segurado Patricia Neves, apolice AP-0033. O veiculo foi encaminhado para a Auto Center Colibri. com orcamento estimado em R$ 6.800."
+   "texto": "Aviso de sinistro SIN-0055. Comunico a seguradora que no dia 16/03/2026 constatei o furto de itens e danos ao veiculo. Sou o segurado Patricia Neves, apolice AP-0033 do plano Basico, contratada pela Horizonte Corretora. O veiculo foi encaminhado para a Auto Center Colibri. com orcamento estimado em R$ 6.800."
   },
   {
    "id_sinistro": "SIN-0056",
-   "texto": "Aviso de sinistro SIN-0056. Comunico a seguradora que no dia 21/04/2026 me envolvi em uma colisao. Sou o segurado Patricia Neves, apolice AP-0033. O veiculo foi encaminhado para a Funilaria Monte Claro. com orcamento estimado em R$ 77.600. A oficina indicou perda total do veiculo."
+   "texto": "Aviso de sinistro SIN-0056. Comunico a seguradora que no dia 21/04/2026 me envolvi em uma colisao. Sou o segurado Patricia Neves, apolice AP-0033 do plano Basico, contratada pela Horizonte Corretora. O veiculo foi encaminhado para a Funilaria Monte Claro. com orcamento estimado em R$ 77.600. A oficina indicou perda total do veiculo."
   },
   {
    "id_sinistro": "SIN-0057",
-   "texto": "Aviso de sinistro SIN-0057. Comunico a seguradora que no dia 23/08/2025 tive o vidro lateral quebrado. Sou o segurado Paulo Henrique Melo, apolice AP-0034. O veiculo foi encaminhado para a Funilaria Monte Claro. com orcamento estimado em R$ 1.600."
+   "texto": "Aviso de sinistro SIN-0057. Comunico a seguradora que no dia 23/08/2025 tive o vidro lateral quebrado. Sou o segurado Paulo Henrique Melo, apolice AP-0034 do plano Completo, contratada pela Horizonte Corretora. O veiculo foi encaminhado para a Funilaria Monte Claro. com orcamento estimado em R$ 1.600."
   },
   {
    "id_sinistro": "SIN-0058",
-   "texto": "Aviso de sinistro SIN-0058. Escrevo para avisar que no dia 31/01/2026 sofri uma batida. Sou o segurado Paulo Henrique Melo, apolice AP-0034. O veiculo foi encaminhado para a Auto Reparos Continental. com orcamento estimado em R$ 22.800."
+   "texto": "Aviso de sinistro SIN-0058. Escrevo para avisar que no dia 31/01/2026 sofri uma batida. Sou o segurado Paulo Henrique Melo, apolice AP-0034 do plano Completo, contratada pela Horizonte Corretora. O veiculo foi encaminhado para a Auto Reparos Continental. com orcamento estimado em R$ 22.800."
   },
   {
    "id_sinistro": "SIN-0059",
-   "texto": "Aviso de sinistro SIN-0059. Informo que no dia 27/01/2026 tive o vidro lateral quebrado. Sou o segurado Priscila Tavares, apolice AP-0035. O veiculo foi encaminhado para a Mecanica Vale Verde. com orcamento estimado em R$ 2.700."
+   "texto": "Aviso de sinistro SIN-0059. Informo que no dia 27/01/2026 tive o vidro lateral quebrado. Sou o segurado Priscila Tavares, apolice AP-0035 do plano Completo, contratada pela Trevo Corretagem. O veiculo foi encaminhado para a Mecanica Vale Verde. com orcamento estimado em R$ 2.700."
   },
   {
    "id_sinistro": "SIN-0060",
-   "texto": "Aviso de sinistro SIN-0060. Escrevo para avisar que no dia 15/05/2026 o veiculo foi furtado enquanto estava estacionado. Sou o segurado Priscila Tavares, apolice AP-0035. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 6.500."
+   "texto": "Aviso de sinistro SIN-0060. Escrevo para avisar que no dia 15/05/2026 o veiculo foi furtado enquanto estava estacionado. Sou o segurado Priscila Tavares, apolice AP-0035 do plano Completo, contratada pela Trevo Corretagem. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 6.500."
   },
   {
    "id_sinistro": "SIN-0061",
-   "texto": "Aviso de sinistro SIN-0061. Escrevo para avisar que no dia 15/09/2025 sofri uma batida. Sou o segurado Rafael Cunha, apolice AP-0036. O veiculo foi encaminhado para a Auto Center Colibri. com orcamento estimado em R$ 22.100."
+   "texto": "Aviso de sinistro SIN-0061. Escrevo para avisar que no dia 15/09/2025 sofri uma batida. Sou o segurado Rafael Cunha, apolice AP-0036 do plano Intermediario, contratada pela Corretora Damasco. O veiculo foi encaminhado para a Auto Center Colibri. com orcamento estimado em R$ 22.100."
   },
   {
    "id_sinistro": "SIN-0062",
-   "texto": "Aviso de sinistro SIN-0062. Escrevo para avisar que no dia 13/01/2026 sofri uma batida. Sou o segurado Rafael Cunha, apolice AP-0036. O veiculo foi encaminhado para a Mecanica Dois Irmaos. com orcamento estimado em R$ 10.600."
+   "texto": "Aviso de sinistro SIN-0062. Escrevo para avisar que no dia 13/01/2026 sofri uma batida. Sou o segurado Rafael Cunha, apolice AP-0036 do plano Intermediario, contratada pela Corretora Damasco. O veiculo foi encaminhado para a Mecanica Dois Irmaos. com orcamento estimado em R$ 10.600."
   },
   {
    "id_sinistro": "SIN-0063",
-   "texto": "Aviso de sinistro SIN-0063. Informo que no dia 05/03/2026 o vidro traseiro trincou apos impacto de pedra. Sou o segurado Raquel Simoes, apolice AP-0069. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 1.500."
+   "texto": "Aviso de sinistro SIN-0063. Informo que no dia 05/03/2026 o vidro traseiro trincou apos impacto de pedra. Sou o segurado Raquel Simoes, apolice AP-0069 do plano Basico, contratada pela Farol Corretagem. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 1.500."
   },
   {
    "id_sinistro": "SIN-0064",
-   "texto": "Aviso de sinistro SIN-0064. Informo que no dia 11/06/2026 o vidro traseiro trincou apos impacto de pedra. Sou o segurado Raquel Simoes, apolice AP-0037. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 2.900."
+   "texto": "Aviso de sinistro SIN-0064. Informo que no dia 11/06/2026 o vidro traseiro trincou apos impacto de pedra. Sou o segurado Raquel Simoes, apolice AP-0037 do plano Basico, contratada pela Almeida Correta. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 2.900."
   },
   {
    "id_sinistro": "SIN-0065",
-   "texto": "Aviso de sinistro SIN-0065. Informo que no dia 21/11/2025 constatei o furto de itens e danos ao veiculo. Sou o segurado Renato Vasques, apolice AP-0038. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 3.100."
+   "texto": "Aviso de sinistro SIN-0065. Informo que no dia 21/11/2025 constatei o furto de itens e danos ao veiculo. Sou o segurado Renato Vasques, apolice AP-0038 do plano Basico, contratada pela Corretora Damasco. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 3.100."
   },
   {
    "id_sinistro": "SIN-0066",
-   "texto": "Aviso de sinistro SIN-0066. Escrevo para avisar que no dia 03/12/2025 sofri uma batida. Sou o segurado Renato Vasques, apolice AP-0074. O veiculo foi encaminhado para a Auto Eletrica Ipiranga. com orcamento estimado em R$ 16.100."
+   "texto": "Aviso de sinistro SIN-0066. Escrevo para avisar que no dia 03/12/2025 sofri uma batida. Sou o segurado Renato Vasques, apolice AP-0074 do plano Basico, contratada pela Almeida Correta. O veiculo foi encaminhado para a Auto Eletrica Ipiranga. com orcamento estimado em R$ 16.100."
   },
   {
    "id_sinistro": "SIN-0067",
-   "texto": "Aviso de sinistro SIN-0067. Informo que no dia 03/02/2026 me envolvi em uma colisao. Sou o segurado Ricardo Assis, apolice AP-0039. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 35.900."
+   "texto": "Aviso de sinistro SIN-0067. Informo que no dia 03/02/2026 me envolvi em uma colisao. Sou o segurado Ricardo Assis, apolice AP-0039 do plano Intermediario, contratada pela Trevo Corretagem. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 35.900."
   },
   {
    "id_sinistro": "SIN-0068",
-   "texto": "Aviso de sinistro SIN-0068. Escrevo para avisar que no dia 15/07/2026 fui vitima de roubo do automovel. Sou o segurado Ricardo Assis, apolice AP-0039. O prejuizo estimado e de R$ 35.600."
+   "texto": "Aviso de sinistro SIN-0068. Escrevo para avisar que no dia 15/07/2026 fui vitima de roubo do automovel. Sou o segurado Ricardo Assis, apolice AP-0039 do plano Intermediario, contratada pela Trevo Corretagem. O prejuizo estimado e de R$ 35.600."
   },
   {
    "id_sinistro": "SIN-0069",
-   "texto": "Aviso de sinistro SIN-0069. Escrevo para avisar que no dia 28/01/2026 me envolvi em uma colisao. Sou o segurado Roberta Peixoto, apolice AP-0040. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 17.200."
+   "texto": "Aviso de sinistro SIN-0069. Escrevo para avisar que no dia 28/01/2026 me envolvi em uma colisao. Sou o segurado Roberta Peixoto, apolice AP-0040 do plano Intermediario, contratada pela Farol Corretagem. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 17.200."
   },
   {
    "id_sinistro": "SIN-0070",
-   "texto": "Aviso de sinistro SIN-0070. Venho comunicar que no dia 28/04/2026 me envolvi em uma colisao. Sou o segurado Roberta Peixoto, apolice AP-0040. O veiculo foi encaminhado para a Funilaria Estrela do Sul. com orcamento estimado em R$ 17.700."
+   "texto": "Aviso de sinistro SIN-0070. Venho comunicar que no dia 28/04/2026 me envolvi em uma colisao. Sou o segurado Roberta Peixoto, apolice AP-0040 do plano Intermediario, contratada pela Farol Corretagem. O veiculo foi encaminhado para a Funilaria Estrela do Sul. com orcamento estimado em R$ 17.700."
   },
   {
    "id_sinistro": "SIN-0071",
-   "texto": "Aviso de sinistro SIN-0071. Comunico a seguradora que no dia 09/11/2025 o para-brisa do veiculo foi danificado. Sou o segurado Rodrigo Sales, apolice AP-0041. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 2.200."
+   "texto": "Aviso de sinistro SIN-0071. Comunico a seguradora que no dia 09/11/2025 o para-brisa do veiculo foi danificado. Sou o segurado Rodrigo Sales, apolice AP-0041 do plano Basico, contratada pela Horizonte Corretora. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 2.200."
   },
   {
    "id_sinistro": "SIN-0072",
-   "texto": "Aviso de sinistro SIN-0072. Comunico a seguradora que no dia 29/05/2026 sofri uma batida. Sou o segurado Rodrigo Sales, apolice AP-0041. O veiculo foi encaminhado para a Centro Automotivo Lapa. com orcamento estimado em R$ 7.700."
+   "texto": "Aviso de sinistro SIN-0072. Comunico a seguradora que no dia 29/05/2026 sofri uma batida. Sou o segurado Rodrigo Sales, apolice AP-0041 do plano Basico, contratada pela Horizonte Corretora. O veiculo foi encaminhado para a Centro Automotivo Lapa. com orcamento estimado em R$ 7.700."
   },
   {
    "id_sinistro": "SIN-0073",
-   "texto": "Aviso de sinistro SIN-0073. Informo que no dia 03/10/2025 o veiculo foi atingido por alagamento. Sou o segurado Rogerio Matos, apolice AP-0042. O veiculo foi encaminhado para a Auto Center Colibri. com orcamento estimado em R$ 26.400."
+   "texto": "Aviso de sinistro SIN-0073. Informo que no dia 03/10/2025 o veiculo foi atingido por alagamento. Sou o segurado Rogerio Matos, apolice AP-0042 do plano Completo, contratada pela Meridiano Seguros. O veiculo foi encaminhado para a Auto Center Colibri. com orcamento estimado em R$ 26.400."
   },
   {
    "id_sinistro": "SIN-0074",
-   "texto": "Aviso de sinistro SIN-0074. Registro por meio deste aviso que no dia 30/12/2025 tive um acidente de transito. Sou o segurado Rogerio Matos, apolice AP-0042. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 11.000."
+   "texto": "Aviso de sinistro SIN-0074. Registro por meio deste aviso que no dia 30/12/2025 tive um acidente de transito. Sou o segurado Rogerio Matos, apolice AP-0042 do plano Completo, contratada pela Meridiano Seguros. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 11.000."
   },
   {
    "id_sinistro": "SIN-0075",
-   "texto": "Aviso de sinistro SIN-0075. Escrevo para avisar que no dia 17/08/2025 o veiculo foi furtado enquanto estava estacionado. Sou o segurado Rosana Quintela, apolice AP-0043. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 6.600."
+   "texto": "Aviso de sinistro SIN-0075. Escrevo para avisar que no dia 17/08/2025 o veiculo foi furtado enquanto estava estacionado. Sou o segurado Rosana Quintela, apolice AP-0043 do plano Intermediario, contratada pela Farol Corretagem. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 6.600."
   },
   {
    "id_sinistro": "SIN-0076",
-   "texto": "Aviso de sinistro SIN-0076. Informo que no dia 07/10/2025 o vidro traseiro trincou apos impacto de pedra. Sou o segurado Rosana Quintela, apolice AP-0043. O veiculo foi encaminhado para a Mecanica Dois Irmaos. com orcamento estimado em R$ 900."
+   "texto": "Aviso de sinistro SIN-0076. Informo que no dia 07/10/2025 o vidro traseiro trincou apos impacto de pedra. Sou o segurado Rosana Quintela, apolice AP-0043 do plano Intermediario, contratada pela Farol Corretagem. O veiculo foi encaminhado para a Mecanica Dois Irmaos. com orcamento estimado em R$ 900."
   },
   {
    "id_sinistro": "SIN-0077",
-   "texto": "Aviso de sinistro SIN-0077. Registro por meio deste aviso que no dia 25/10/2025 o veiculo foi roubado mediante ameaca. Sou o segurado Rosana Quintela, apolice AP-0043. O prejuizo estimado e de R$ 68.200."
+   "texto": "Aviso de sinistro SIN-0077. Registro por meio deste aviso que no dia 25/10/2025 o veiculo foi roubado mediante ameaca. Sou o segurado Rosana Quintela, apolice AP-0043 do plano Intermediario, contratada pela Farol Corretagem. O prejuizo estimado e de R$ 68.200."
   },
   {
    "id_sinistro": "SIN-0078",
-   "texto": "Aviso de sinistro SIN-0078. Venho comunicar que no dia 17/11/2025 a via alagou e o motor foi comprometido. Sou o segurado Rosana Quintela, apolice AP-0043. O veiculo foi encaminhado para a Funilaria Estrela do Sul. com orcamento estimado em R$ 26.200."
+   "texto": "Aviso de sinistro SIN-0078. Venho comunicar que no dia 17/11/2025 a via alagou e o motor foi comprometido. Sou o segurado Rosana Quintela, apolice AP-0043 do plano Intermediario, contratada pela Farol Corretagem. O veiculo foi encaminhado para a Funilaria Estrela do Sul. com orcamento estimado em R$ 26.200."
   },
   {
    "id_sinistro": "SIN-0079",
-   "texto": "Aviso de sinistro SIN-0079. Informo que no dia 28/05/2026 tive o vidro lateral quebrado. Sou o segurado Rosana Quintela, apolice AP-0043. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 1.400."
+   "texto": "Aviso de sinistro SIN-0079. Informo que no dia 28/05/2026 tive o vidro lateral quebrado. Sou o segurado Rosana Quintela, apolice AP-0043 do plano Intermediario, contratada pela Farol Corretagem. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 1.400."
   },
   {
    "id_sinistro": "SIN-0080",
-   "texto": "Aviso de sinistro SIN-0080. Comunico a seguradora que no dia 17/07/2026 sofri uma batida. Sou o segurado Rosana Quintela, apolice AP-0043. O veiculo foi encaminhado para a Auto Center Colibri. com orcamento estimado em R$ 12.700."
+   "texto": "Aviso de sinistro SIN-0080. Comunico a seguradora que no dia 17/07/2026 sofri uma batida. Sou o segurado Rosana Quintela, apolice AP-0043 do plano Intermediario, contratada pela Farol Corretagem. O veiculo foi encaminhado para a Auto Center Colibri. com orcamento estimado em R$ 12.700."
   },
   {
    "id_sinistro": "SIN-0081",
-   "texto": "Aviso de sinistro SIN-0081. Escrevo para avisar que no dia 09/10/2025 sofri uma batida. Sou o segurado Sandra Vilela, apolice AP-0045. O veiculo foi encaminhado para a Oficina Serra Azul. com orcamento estimado em R$ 17.400."
+   "texto": "Aviso de sinistro SIN-0081. Escrevo para avisar que no dia 09/10/2025 sofri uma batida. Sou o segurado Sandra Vilela, apolice AP-0045 do plano Basico, contratada pela Almeida Correta. O veiculo foi encaminhado para a Oficina Serra Azul. com orcamento estimado em R$ 17.400."
   },
   {
    "id_sinistro": "SIN-0082",
-   "texto": "Aviso de sinistro SIN-0082. Registro por meio deste aviso que no dia 09/10/2025 a via alagou e o motor foi comprometido. Sou o segurado Sandra Vilela, apolice AP-0045. O veiculo foi encaminhado para a Mecanica Vale Verde. com orcamento estimado em R$ 34.700."
+   "texto": "Aviso de sinistro SIN-0082. Registro por meio deste aviso que no dia 09/10/2025 a via alagou e o motor foi comprometido. Sou o segurado Sandra Vilela, apolice AP-0045 do plano Basico, contratada pela Almeida Correta. O veiculo foi encaminhado para a Mecanica Vale Verde. com orcamento estimado em R$ 34.700."
   },
   {
    "id_sinistro": "SIN-0083",
-   "texto": "Aviso de sinistro SIN-0083. Informo que no dia 13/09/2025 me envolvi em uma colisao. Sou o segurado Sergio Camargo, apolice AP-0061. O veiculo foi encaminhado para a Mecanica Vale Verde. com orcamento estimado em R$ 28.400."
+   "texto": "Aviso de sinistro SIN-0083. Informo que no dia 13/09/2025 me envolvi em uma colisao. Sou o segurado Sergio Camargo, apolice AP-0061 do plano Completo, contratada pela Trevo Corretagem. O veiculo foi encaminhado para a Mecanica Vale Verde. com orcamento estimado em R$ 28.400."
   },
   {
    "id_sinistro": "SIN-0084",
-   "texto": "Aviso de sinistro SIN-0084. Comunico a seguradora que no dia 14/02/2026 tive um acidente de transito. Sou o segurado Sergio Camargo, apolice AP-0061. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 31.300."
+   "texto": "Aviso de sinistro SIN-0084. Comunico a seguradora que no dia 14/02/2026 tive um acidente de transito. Sou o segurado Sergio Camargo, apolice AP-0061 do plano Completo, contratada pela Trevo Corretagem. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 31.300."
   },
   {
    "id_sinistro": "SIN-0085",
-   "texto": "Aviso de sinistro SIN-0085. Registro por meio deste aviso que no dia 22/09/2025 o veiculo foi furtado enquanto estava estacionado. Sou o segurado Tatiana Lacerda, apolice AP-0049. O veiculo foi encaminhado para a Mecanica Vale Verde. com orcamento estimado em R$ 8.400."
+   "texto": "Aviso de sinistro SIN-0085. Registro por meio deste aviso que no dia 22/09/2025 o veiculo foi furtado enquanto estava estacionado. Sou o segurado Tatiana Lacerda, apolice AP-0049 do plano Intermediario, contratada pela Corretora Damasco. O veiculo foi encaminhado para a Mecanica Vale Verde. com orcamento estimado em R$ 8.400."
   },
   {
    "id_sinistro": "SIN-0086",
-   "texto": "Aviso de sinistro SIN-0086. Venho comunicar que no dia 09/06/2026 tive o vidro lateral quebrado. Sou o segurado Tatiana Lacerda, apolice AP-0049. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 1.600."
+   "texto": "Aviso de sinistro SIN-0086. Venho comunicar que no dia 09/06/2026 tive o vidro lateral quebrado. Sou o segurado Tatiana Lacerda, apolice AP-0049 do plano Intermediario, contratada pela Corretora Damasco. O veiculo foi encaminhado para a Oficina Pinheiros Motor. com orcamento estimado em R$ 1.600."
   },
   {
    "id_sinistro": "SIN-0087",
-   "texto": "Aviso de sinistro SIN-0087. Registro por meio deste aviso que no dia 21/08/2025 sofri uma batida. Sou o segurado Ursula Paiva, apolice AP-0052. O veiculo foi encaminhado para a Oficina Serra Azul. com orcamento estimado em R$ 56.300. A oficina indicou perda total do veiculo."
+   "texto": "Aviso de sinistro SIN-0087. Registro por meio deste aviso que no dia 21/08/2025 sofri uma batida. Sou o segurado Ursula Paiva, apolice AP-0052 do plano Basico, contratada pela Girassol Seguros. O veiculo foi encaminhado para a Oficina Serra Azul. com orcamento estimado em R$ 56.300. A oficina indicou perda total do veiculo."
   },
   {
    "id_sinistro": "SIN-0088",
-   "texto": "Aviso de sinistro SIN-0088. Informo que no dia 10/01/2026 constatei o furto de itens e danos ao veiculo. Sou o segurado Ursula Paiva, apolice AP-0052. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 1.500."
+   "texto": "Aviso de sinistro SIN-0088. Informo que no dia 10/01/2026 constatei o furto de itens e danos ao veiculo. Sou o segurado Ursula Paiva, apolice AP-0052 do plano Basico, contratada pela Girassol Seguros. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 1.500."
   },
   {
    "id_sinistro": "SIN-0089",
-   "texto": "Aviso de sinistro SIN-0089. Venho comunicar que no dia 02/08/2025 fui vitima de roubo do automovel. Sou o segurado Valeria Chaves, apolice AP-0053. O prejuizo estimado e de R$ 31.400."
+   "texto": "Aviso de sinistro SIN-0089. Venho comunicar que no dia 02/08/2025 fui vitima de roubo do automovel. Sou o segurado Valeria Chaves, apolice AP-0053 do plano Basico, contratada pela Farol Corretagem. O prejuizo estimado e de R$ 31.400."
   },
   {
    "id_sinistro": "SIN-0090",
-   "texto": "Aviso de sinistro SIN-0090. Registro por meio deste aviso que no dia 25/06/2026 sofri uma batida. Sou o segurado Valeria Chaves, apolice AP-0053. O veiculo foi encaminhado para a Oficina Serra Azul. com orcamento estimado em R$ 54.500. A oficina indicou perda total do veiculo."
+   "texto": "Aviso de sinistro SIN-0090. Registro por meio deste aviso que no dia 25/06/2026 sofri uma batida. Sou o segurado Valeria Chaves, apolice AP-0053 do plano Basico, contratada pela Farol Corretagem. O veiculo foi encaminhado para a Oficina Serra Azul. com orcamento estimado em R$ 54.500. A oficina indicou perda total do veiculo."
   },
   {
    "id_sinistro": "SIN-0091",
-   "texto": "Aviso de sinistro SIN-0091. Registro por meio deste aviso que no dia 25/05/2026 o veiculo foi atingido por alagamento. Sou o segurado Vanessa Coutinho, apolice AP-0054. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 25.300."
+   "texto": "Aviso de sinistro SIN-0091. Registro por meio deste aviso que no dia 25/05/2026 o veiculo foi atingido por alagamento. Sou o segurado Vanessa Coutinho, apolice AP-0054 do plano Completo, contratada pela Meridiano Seguros. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 25.300."
   },
   {
    "id_sinistro": "SIN-0092",
-   "texto": "Aviso de sinistro SIN-0092. Informo que no dia 30/06/2026 o veiculo foi roubado mediante ameaca. Sou o segurado Vanessa Coutinho, apolice AP-0054. O prejuizo estimado e de R$ 64.800."
+   "texto": "Aviso de sinistro SIN-0092. Informo que no dia 30/06/2026 o veiculo foi roubado mediante ameaca. Sou o segurado Vanessa Coutinho, apolice AP-0054 do plano Completo, contratada pela Meridiano Seguros. O prejuizo estimado e de R$ 64.800."
   },
   {
    "id_sinistro": "SIN-0093",
-   "texto": "Aviso de sinistro SIN-0093. Venho comunicar que no dia 19/11/2025 o para-brisa do veiculo foi danificado. Sou o segurado Vicente Amorim, apolice AP-0055. O veiculo foi encaminhado para a Centro Automotivo Lapa. com orcamento estimado em R$ 2.000."
+   "texto": "Aviso de sinistro SIN-0093. Venho comunicar que no dia 19/11/2025 o para-brisa do veiculo foi danificado. Sou o segurado Vicente Amorim, apolice AP-0055 do plano Intermediario, contratada pela Corretora Damasco. O veiculo foi encaminhado para a Centro Automotivo Lapa. com orcamento estimado em R$ 2.000."
   },
   {
    "id_sinistro": "SIN-0094",
-   "texto": "Aviso de sinistro SIN-0094. Informo que no dia 16/03/2026 me envolvi em uma colisao. Sou o segurado Vicente Amorim, apolice AP-0055. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 49.300. A oficina indicou perda total do veiculo."
+   "texto": "Aviso de sinistro SIN-0094. Informo que no dia 16/03/2026 me envolvi em uma colisao. Sou o segurado Vicente Amorim, apolice AP-0055 do plano Intermediario, contratada pela Corretora Damasco. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 49.300. A oficina indicou perda total do veiculo."
   },
   {
    "id_sinistro": "SIN-0095",
-   "texto": "Aviso de sinistro SIN-0095. Venho comunicar que no dia 18/08/2025 tive um acidente de transito. Sou o segurado Vinicius Serra, apolice AP-0056. O veiculo foi encaminhado para a Oficina Serra Azul. com orcamento estimado em R$ 23.100."
+   "texto": "Aviso de sinistro SIN-0095. Venho comunicar que no dia 18/08/2025 tive um acidente de transito. Sou o segurado Vinicius Serra, apolice AP-0056 do plano Intermediario, contratada pela Corretora Damasco. O veiculo foi encaminhado para a Oficina Serra Azul. com orcamento estimado em R$ 23.100."
   },
   {
    "id_sinistro": "SIN-0096",
-   "texto": "Aviso de sinistro SIN-0096. Escrevo para avisar que no dia 30/05/2026 sofri uma batida. Sou o segurado Vinicius Serra, apolice AP-0056. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 88.300. A oficina indicou perda total do veiculo."
+   "texto": "Aviso de sinistro SIN-0096. Escrevo para avisar que no dia 30/05/2026 sofri uma batida. Sou o segurado Vinicius Serra, apolice AP-0056 do plano Intermediario, contratada pela Corretora Damasco. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 88.300. A oficina indicou perda total do veiculo."
   },
   {
    "id_sinistro": "SIN-0097",
-   "texto": "Aviso de sinistro SIN-0097. Escrevo para avisar que no dia 08/11/2025 tive o vidro lateral quebrado. Sou o segurado Viviane Telles, apolice AP-0073. O veiculo foi encaminhado para a Auto Reparos Continental. com orcamento estimado em R$ 1.800."
+   "texto": "Aviso de sinistro SIN-0097. Escrevo para avisar que no dia 08/11/2025 tive o vidro lateral quebrado. Sou o segurado Viviane Telles, apolice AP-0073 do plano Intermediario, contratada pela Corretora Damasco. O veiculo foi encaminhado para a Auto Reparos Continental. com orcamento estimado em R$ 1.800."
   },
   {
    "id_sinistro": "SIN-0098",
-   "texto": "Aviso de sinistro SIN-0098. Comunico a seguradora que no dia 20/04/2026 a via alagou e o motor foi comprometido. Sou o segurado Viviane Telles, apolice AP-0058. O veiculo foi encaminhado para a Mecanica Dois Irmaos. com orcamento estimado em R$ 19.000."
+   "texto": "Aviso de sinistro SIN-0098. Comunico a seguradora que no dia 20/04/2026 a via alagou e o motor foi comprometido. Sou o segurado Viviane Telles, apolice AP-0058 do plano Intermediario, contratada pela Farol Corretagem. O veiculo foi encaminhado para a Mecanica Dois Irmaos. com orcamento estimado em R$ 19.000."
   },
   {
    "id_sinistro": "SIN-0099",
-   "texto": "Aviso de sinistro SIN-0099. Escrevo para avisar que no dia 22/08/2025 sofri uma batida. Sou o segurado Yara Nogueira, apolice AP-0060. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 16.200."
+   "texto": "Aviso de sinistro SIN-0099. Escrevo para avisar que no dia 22/08/2025 sofri uma batida. Sou o segurado Yara Nogueira, apolice AP-0060 do plano Completo, contratada pela Farol Corretagem. O veiculo foi encaminhado para a Oficina Silva Martins. com orcamento estimado em R$ 16.200."
   },
   {
    "id_sinistro": "SIN-0100",
-   "texto": "Aviso de sinistro SIN-0100. Comunico a seguradora que no dia 22/10/2025 o vidro traseiro trincou apos impacto de pedra. Sou o segurado Yara Nogueira, apolice AP-0060. O veiculo foi encaminhado para a Auto Eletrica Ipiranga. com orcamento estimado em R$ 1.300."
+   "texto": "Aviso de sinistro SIN-0100. Comunico a seguradora que no dia 22/10/2025 o vidro traseiro trincou apos impacto de pedra. Sou o segurado Yara Nogueira, apolice AP-0060 do plano Completo, contratada pela Farol Corretagem. O veiculo foi encaminhado para a Auto Eletrica Ipiranga. com orcamento estimado em R$ 1.300."
   }
  ]
 }

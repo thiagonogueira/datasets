@@ -1,0 +1,305 @@
+{
+ "_nota": "Dados ficticios, uso didatico. Nenhuma pessoa ou empresa real.",
+ "resumos": [
+  {
+   "id_apolice": "AP-0001",
+   "texto": "Resumo da apolice AP-0001. Titular: Ana Beatriz Rocha. Plano Basico, contratada pela Meridiano Seguros. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0002",
+   "texto": "Resumo da apolice AP-0002. Titular: Bruno Cardoso. Plano Intermediario, contratada pela Bussola Seguros. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva."
+  },
+  {
+   "id_apolice": "AP-0003",
+   "texto": "Resumo da apolice AP-0003. Titular: Camila Duarte. Plano Basico, contratada pela Farol Corretagem. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0004",
+   "texto": "Resumo da apolice AP-0004. Titular: Carlos Mendes. Plano Intermediario, contratada pela Girassol Seguros. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva."
+  },
+  {
+   "id_apolice": "AP-0005",
+   "texto": "Resumo da apolice AP-0005. Titular: Cintia Barros. Plano Intermediario, contratada pela Bussola Seguros. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva."
+  },
+  {
+   "id_apolice": "AP-0006",
+   "texto": "Resumo da apolice AP-0006. Titular: Daniel Farias. Plano Intermediario, contratada pela Farol Corretagem. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva."
+  },
+  {
+   "id_apolice": "AP-0007",
+   "texto": "Resumo da apolice AP-0007. Titular: Debora Antunes. Plano Intermediario, contratada pela Meridiano Seguros. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva."
+  },
+  {
+   "id_apolice": "AP-0008",
+   "texto": "Resumo da apolice AP-0008. Titular: Eduardo Pires. Plano Completo, contratada pela Almeida Correta. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva, alagamento, acidentes pessoais."
+  },
+  {
+   "id_apolice": "AP-0009",
+   "texto": "Resumo da apolice AP-0009. Titular: Elaine Sampaio. Plano Basico, contratada pela Bussola Seguros. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0010",
+   "texto": "Resumo da apolice AP-0010. Titular: Fabio Teles. Plano Basico, contratada pela Girassol Seguros. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0011",
+   "texto": "Resumo da apolice AP-0011. Titular: Fernanda Lopes. Plano Completo, contratada pela Almeida Correta. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva, alagamento, acidentes pessoais."
+  },
+  {
+   "id_apolice": "AP-0012",
+   "texto": "Resumo da apolice AP-0012. Titular: Gabriel Nunes. Plano Basico, contratada pela Farol Corretagem. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0013",
+   "texto": "Resumo da apolice AP-0013. Titular: Helena Prado. Plano Completo, contratada pela Corretora Damasco. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva, alagamento, acidentes pessoais."
+  },
+  {
+   "id_apolice": "AP-0014",
+   "texto": "Resumo da apolice AP-0014. Titular: Igor Bastos. Plano Completo, contratada pela Girassol Seguros. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva, alagamento, acidentes pessoais."
+  },
+  {
+   "id_apolice": "AP-0015",
+   "texto": "Resumo da apolice AP-0015. Titular: Isabela Franco. Plano Completo, contratada pela Girassol Seguros. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva, alagamento, acidentes pessoais."
+  },
+  {
+   "id_apolice": "AP-0016",
+   "texto": "Resumo da apolice AP-0016. Titular: Joao Pedro Lima. Plano Basico, contratada pela Bussola Seguros. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0017",
+   "texto": "Resumo da apolice AP-0017. Titular: Jose Ricardo Alves. Plano Completo, contratada pela Girassol Seguros. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva, alagamento, acidentes pessoais."
+  },
+  {
+   "id_apolice": "AP-0018",
+   "texto": "Resumo da apolice AP-0018. Titular: Juliana Castro. Plano Completo, contratada pela Bussola Seguros. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva, alagamento, acidentes pessoais."
+  },
+  {
+   "id_apolice": "AP-0019",
+   "texto": "Resumo da apolice AP-0019. Titular: Larissa Moura. Plano Completo, contratada pela Bussola Seguros. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva, alagamento, acidentes pessoais."
+  },
+  {
+   "id_apolice": "AP-0020",
+   "texto": "Resumo da apolice AP-0020. Titular: Leonardo Reis. Plano Basico, contratada pela Almeida Correta. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0021",
+   "texto": "Resumo da apolice AP-0021. Titular: Livia Campos. Plano Basico, contratada pela Horizonte Corretora. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0022",
+   "texto": "Resumo da apolice AP-0022. Titular: Lucas Ferreira. Plano Basico, contratada pela Horizonte Corretora. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0023",
+   "texto": "Resumo da apolice AP-0023. Titular: Luiza Andrade. Plano Basico, contratada pela Trevo Corretagem. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0024",
+   "texto": "Resumo da apolice AP-0024. Titular: Marcelo Torres. Plano Completo, contratada pela Trevo Corretagem. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva, alagamento, acidentes pessoais."
+  },
+  {
+   "id_apolice": "AP-0025",
+   "texto": "Resumo da apolice AP-0025. Titular: Marcia Bittencourt. Plano Intermediario, contratada pela Farol Corretagem. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva."
+  },
+  {
+   "id_apolice": "AP-0026",
+   "texto": "Resumo da apolice AP-0026. Titular: Mariana Silveira. Plano Basico, contratada pela Almeida Correta. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0027",
+   "texto": "Resumo da apolice AP-0027. Titular: Mateus Correia. Plano Basico, contratada pela Girassol Seguros. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0028",
+   "texto": "Resumo da apolice AP-0028. Titular: Mauricio Leal. Plano Intermediario, contratada pela Almeida Correta. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva."
+  },
+  {
+   "id_apolice": "AP-0029",
+   "texto": "Resumo da apolice AP-0029. Titular: Michele Dias. Plano Intermediario, contratada pela Farol Corretagem. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva."
+  },
+  {
+   "id_apolice": "AP-0030",
+   "texto": "Resumo da apolice AP-0030. Titular: Natalia Fontes. Plano Completo, contratada pela Horizonte Corretora. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva, alagamento, acidentes pessoais."
+  },
+  {
+   "id_apolice": "AP-0031",
+   "texto": "Resumo da apolice AP-0031. Titular: Nelson Barreto. Plano Intermediario, contratada pela Corretora Damasco. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva."
+  },
+  {
+   "id_apolice": "AP-0032",
+   "texto": "Resumo da apolice AP-0032. Titular: Otavio Ramos. Plano Basico, contratada pela Meridiano Seguros. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0033",
+   "texto": "Resumo da apolice AP-0033. Titular: Patricia Neves. Plano Basico, contratada pela Horizonte Corretora. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0034",
+   "texto": "Resumo da apolice AP-0034. Titular: Paulo Henrique Melo. Plano Completo, contratada pela Horizonte Corretora. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva, alagamento, acidentes pessoais."
+  },
+  {
+   "id_apolice": "AP-0035",
+   "texto": "Resumo da apolice AP-0035. Titular: Priscila Tavares. Plano Completo, contratada pela Trevo Corretagem. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva, alagamento, acidentes pessoais."
+  },
+  {
+   "id_apolice": "AP-0036",
+   "texto": "Resumo da apolice AP-0036. Titular: Rafael Cunha. Plano Intermediario, contratada pela Corretora Damasco. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva."
+  },
+  {
+   "id_apolice": "AP-0037",
+   "texto": "Resumo da apolice AP-0037. Titular: Raquel Simoes. Plano Basico, contratada pela Almeida Correta. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0038",
+   "texto": "Resumo da apolice AP-0038. Titular: Renato Vasques. Plano Basico, contratada pela Corretora Damasco. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0039",
+   "texto": "Resumo da apolice AP-0039. Titular: Ricardo Assis. Plano Intermediario, contratada pela Trevo Corretagem. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva."
+  },
+  {
+   "id_apolice": "AP-0040",
+   "texto": "Resumo da apolice AP-0040. Titular: Roberta Peixoto. Plano Intermediario, contratada pela Farol Corretagem. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva."
+  },
+  {
+   "id_apolice": "AP-0041",
+   "texto": "Resumo da apolice AP-0041. Titular: Rodrigo Sales. Plano Basico, contratada pela Horizonte Corretora. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0042",
+   "texto": "Resumo da apolice AP-0042. Titular: Rogerio Matos. Plano Completo, contratada pela Meridiano Seguros. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva, alagamento, acidentes pessoais."
+  },
+  {
+   "id_apolice": "AP-0043",
+   "texto": "Resumo da apolice AP-0043. Titular: Rosana Quintela. Plano Intermediario, contratada pela Farol Corretagem. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva."
+  },
+  {
+   "id_apolice": "AP-0044",
+   "texto": "Resumo da apolice AP-0044. Titular: Samuel Braga. Plano Intermediario, contratada pela Girassol Seguros. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva."
+  },
+  {
+   "id_apolice": "AP-0045",
+   "texto": "Resumo da apolice AP-0045. Titular: Sandra Vilela. Plano Basico, contratada pela Almeida Correta. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0046",
+   "texto": "Resumo da apolice AP-0046. Titular: Sergio Camargo. Plano Basico, contratada pela Almeida Correta. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0047",
+   "texto": "Resumo da apolice AP-0047. Titular: Silvia Rezende. Plano Intermediario, contratada pela Horizonte Corretora. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva."
+  },
+  {
+   "id_apolice": "AP-0048",
+   "texto": "Resumo da apolice AP-0048. Titular: Simone Aguiar. Plano Intermediario, contratada pela Almeida Correta. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva."
+  },
+  {
+   "id_apolice": "AP-0049",
+   "texto": "Resumo da apolice AP-0049. Titular: Tatiana Lacerda. Plano Intermediario, contratada pela Corretora Damasco. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva."
+  },
+  {
+   "id_apolice": "AP-0050",
+   "texto": "Resumo da apolice AP-0050. Titular: Thales Moreira. Plano Basico, contratada pela Bussola Seguros. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0051",
+   "texto": "Resumo da apolice AP-0051. Titular: Thiago Brandao. Plano Basico, contratada pela Bussola Seguros. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0052",
+   "texto": "Resumo da apolice AP-0052. Titular: Ursula Paiva. Plano Basico, contratada pela Girassol Seguros. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0053",
+   "texto": "Resumo da apolice AP-0053. Titular: Valeria Chaves. Plano Basico, contratada pela Farol Corretagem. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0054",
+   "texto": "Resumo da apolice AP-0054. Titular: Vanessa Coutinho. Plano Completo, contratada pela Meridiano Seguros. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva, alagamento, acidentes pessoais."
+  },
+  {
+   "id_apolice": "AP-0055",
+   "texto": "Resumo da apolice AP-0055. Titular: Vicente Amorim. Plano Intermediario, contratada pela Corretora Damasco. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva."
+  },
+  {
+   "id_apolice": "AP-0056",
+   "texto": "Resumo da apolice AP-0056. Titular: Vinicius Serra. Plano Intermediario, contratada pela Corretora Damasco. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva."
+  },
+  {
+   "id_apolice": "AP-0057",
+   "texto": "Resumo da apolice AP-0057. Titular: Vitor Hugo Macedo. Plano Basico, contratada pela Farol Corretagem. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0058",
+   "texto": "Resumo da apolice AP-0058. Titular: Viviane Telles. Plano Intermediario, contratada pela Farol Corretagem. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva."
+  },
+  {
+   "id_apolice": "AP-0059",
+   "texto": "Resumo da apolice AP-0059. Titular: Wagner Fonseca. Plano Completo, contratada pela Meridiano Seguros. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva, alagamento, acidentes pessoais."
+  },
+  {
+   "id_apolice": "AP-0060",
+   "texto": "Resumo da apolice AP-0060. Titular: Yara Nogueira. Plano Completo, contratada pela Farol Corretagem. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva, alagamento, acidentes pessoais."
+  },
+  {
+   "id_apolice": "AP-0061",
+   "texto": "Resumo da apolice AP-0061. Titular: Sergio Camargo. Plano Completo, contratada pela Trevo Corretagem. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva, alagamento, acidentes pessoais."
+  },
+  {
+   "id_apolice": "AP-0062",
+   "texto": "Resumo da apolice AP-0062. Titular: Thales Moreira. Plano Basico, contratada pela Horizonte Corretora. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0063",
+   "texto": "Resumo da apolice AP-0063. Titular: Wagner Fonseca. Plano Intermediario, contratada pela Meridiano Seguros. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva."
+  },
+  {
+   "id_apolice": "AP-0064",
+   "texto": "Resumo da apolice AP-0064. Titular: Michele Dias. Plano Intermediario, contratada pela Bussola Seguros. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva."
+  },
+  {
+   "id_apolice": "AP-0065",
+   "texto": "Resumo da apolice AP-0065. Titular: Samuel Braga. Plano Completo, contratada pela Girassol Seguros. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva, alagamento, acidentes pessoais."
+  },
+  {
+   "id_apolice": "AP-0066",
+   "texto": "Resumo da apolice AP-0066. Titular: Lucas Ferreira. Plano Basico, contratada pela Bussola Seguros. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0067",
+   "texto": "Resumo da apolice AP-0067. Titular: Larissa Moura. Plano Intermediario, contratada pela Almeida Correta. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva."
+  },
+  {
+   "id_apolice": "AP-0068",
+   "texto": "Resumo da apolice AP-0068. Titular: Marcia Bittencourt. Plano Completo, contratada pela Corretora Damasco. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva, alagamento, acidentes pessoais."
+  },
+  {
+   "id_apolice": "AP-0069",
+   "texto": "Resumo da apolice AP-0069. Titular: Raquel Simoes. Plano Basico, contratada pela Farol Corretagem. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0070",
+   "texto": "Resumo da apolice AP-0070. Titular: Fernanda Lopes. Plano Completo, contratada pela Almeida Correta. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva, alagamento, acidentes pessoais."
+  },
+  {
+   "id_apolice": "AP-0071",
+   "texto": "Resumo da apolice AP-0071. Titular: Silvia Rezende. Plano Basico, contratada pela Almeida Correta. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0072",
+   "texto": "Resumo da apolice AP-0072. Titular: Mateus Correia. Plano Basico, contratada pela Meridiano Seguros. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0073",
+   "texto": "Resumo da apolice AP-0073. Titular: Viviane Telles. Plano Intermediario, contratada pela Corretora Damasco. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva."
+  },
+  {
+   "id_apolice": "AP-0074",
+   "texto": "Resumo da apolice AP-0074. Titular: Renato Vasques. Plano Basico, contratada pela Almeida Correta. Coberturas: colisao, responsabilidade civil, vidros."
+  },
+  {
+   "id_apolice": "AP-0075",
+   "texto": "Resumo da apolice AP-0075. Titular: Otavio Ramos. Plano Intermediario, contratada pela Almeida Correta. Coberturas: colisao, responsabilidade civil, vidros, roubo e furto, veiculo reserva."
+  }
+ ]
+}
