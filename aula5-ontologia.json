@@ -9,7 +9,8 @@
    "atributos": [
     "nome",
     "cidade"
-   ]
+   ],
+   "identificacao": "pelo nome completo"
   },
   "Apolice": {
    "sinonimos": [
@@ -22,13 +23,15 @@
     "Basico",
     "Intermediario",
     "Completo"
-   ]
+   ],
+   "identificacao": "pelo codigo, no formato AP-0000"
   },
   "Cobertura": {
    "sinonimos": [
     "garantia"
    ],
-   "atributos": []
+   "atributos": [],
+   "identificacao": "pelo nome, em minusculas"
   },
   "Franquia": {
    "sinonimos": [
@@ -46,7 +49,9 @@
     "data",
     "valor",
     "perda_total"
-   ]
+   ],
+   "identificacao": "pelo codigo, no formato SIN-0000",
+   "nota": "reparo e o sinistro visto pela oficina que o atende; perda total e o atributo perda_total"
   },
   "AvisoDeSinistro": {
    "sinonimos": [
@@ -64,13 +69,17 @@
    ],
    "atributos": [
     "comarca"
-   ]
+   ],
+   "identificacao": "pelo nome completo registrado, que inclui o tipo, como 'Oficina Silva Martins' ou 'Funilaria Monte Claro'"
   },
   "Corretor": {
-   "sinonimos": [],
+   "sinonimos": [
+    "corretora"
+   ],
    "atributos": [
     "nome"
-   ]
+   ],
+   "identificacao": "pelo nome completo registrado, como 'Farol Corretagem'"
   }
  },
  "relacoes": [
