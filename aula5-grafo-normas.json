@@ -1,0 +1,607 @@
+{
+ "data_referencia": "2026-10-01",
+ "nos": [
+  {
+   "tipo": "Circular",
+   "id": "MRS-2026.1",
+   "data": "2026-01-01",
+   "assunto": "Manual de Regulacao de Sinistros, versao 2026.1, norma de origem"
+  },
+  {
+   "tipo": "Procedimento",
+   "id": "4.1",
+   "nome": "Colisao simples sem terceiros",
+   "prazo_vistoria_manual": "3 dias uteis"
+  },
+  {
+   "tipo": "Procedimento",
+   "id": "4.2",
+   "nome": "Colisao com envolvimento de terceiros",
+   "prazo_vistoria_manual": "3 dias uteis"
+  },
+  {
+   "tipo": "Procedimento",
+   "id": "4.3",
+   "nome": "Roubo ou furto total do veiculo",
+   "prazo_vistoria_manual": "5 dias uteis"
+  },
+  {
+   "tipo": "Procedimento",
+   "id": "4.4",
+   "nome": "Furto de acessorios e componentes",
+   "prazo_vistoria_manual": "2 dias uteis"
+  },
+  {
+   "tipo": "Procedimento",
+   "id": "4.5",
+   "nome": "Incendio, explosao e queda de raio",
+   "prazo_vistoria_manual": "5 dias uteis"
+  },
+  {
+   "tipo": "Procedimento",
+   "id": "4.6",
+   "nome": "Alagamento e submersao",
+   "prazo_vistoria_manual": "5 dias uteis"
+  },
+  {
+   "tipo": "Procedimento",
+   "id": "4.7",
+   "nome": "Danos por granizo",
+   "prazo_vistoria_manual": "4 dias uteis"
+  },
+  {
+   "tipo": "Procedimento",
+   "id": "4.8",
+   "nome": "Quebra de vidros, farois e lanternas",
+   "prazo_vistoria_manual": "2 dias uteis"
+  },
+  {
+   "tipo": "Procedimento",
+   "id": "4.9",
+   "nome": "Responsabilidade civil por danos a terceiros",
+   "prazo_vistoria_manual": "6 dias uteis"
+  },
+  {
+   "tipo": "Procedimento",
+   "id": "4.10",
+   "nome": "Acidentes pessoais de passageiros",
+   "prazo_vistoria_manual": "7 dias uteis"
+  },
+  {
+   "tipo": "Procedimento",
+   "id": "4.11",
+   "nome": "Assistencia, reboque e remocao",
+   "prazo_vistoria_manual": "1 dia util"
+  },
+  {
+   "tipo": "Procedimento",
+   "id": "4.12",
+   "nome": "Perda total do veiculo",
+   "prazo_vistoria_manual": "8 dias uteis"
+  },
+  {
+   "tipo": "PrazoGeral",
+   "id": "2.1",
+   "item": "Aviso de sinistro pelo segurado",
+   "prazo_manual": "48 horas do conhecimento do evento"
+  },
+  {
+   "tipo": "PrazoGeral",
+   "id": "2.2",
+   "item": "Abertura do processo de regulacao",
+   "prazo_manual": "1 dia util do aviso"
+  },
+  {
+   "tipo": "PrazoGeral",
+   "id": "2.3",
+   "item": "Pagamento da indenizacao apos conclusao",
+   "prazo_manual": "30 dias corridos"
+  },
+  {
+   "tipo": "PrazoGeral",
+   "id": "2.4",
+   "item": "Solicitacao de documento complementar",
+   "prazo_manual": "15 dias uteis da abertura"
+  },
+  {
+   "tipo": "PrazoGeral",
+   "id": "2.5",
+   "item": "Resposta do segurado a solicitacao",
+   "prazo_manual": "10 dias uteis"
+  },
+  {
+   "tipo": "PrazoGeral",
+   "id": "2.6",
+   "item": "Suspensao da contagem por pendencia documental",
+   "prazo_manual": "ate 45 dias corridos"
+  },
+  {
+   "tipo": "PrazoGeral",
+   "id": "2.7",
+   "item": "Recurso do segurado contra negativa",
+   "prazo_manual": "30 dias corridos da comunicacao"
+  },
+  {
+   "tipo": "PrazoGeral",
+   "id": "2.8",
+   "item": "Analise do recurso pela seguradora",
+   "prazo_manual": "15 dias uteis"
+  },
+  {
+   "tipo": "SecaoInterna",
+   "id": "5.1",
+   "titulo": "Prazo de resposta ao segurado em canais digitais"
+  },
+  {
+   "tipo": "SecaoInterna",
+   "id": "5.2",
+   "titulo": "Padronizacao do laudo de danos"
+  },
+  {
+   "tipo": "SecaoInterna",
+   "id": "5.3",
+   "titulo": "Uso de imagens na vistoria remota"
+  },
+  {
+   "tipo": "SecaoInterna",
+   "id": "5.4",
+   "titulo": "Comunicacao de negativa"
+  },
+  {
+   "tipo": "SecaoInterna",
+   "id": "5.5",
+   "titulo": "Tratamento de reclamacao em orgao de defesa do consumidor"
+  },
+  {
+   "tipo": "SecaoInterna",
+   "id": "5.6",
+   "titulo": "Reincidencia e indicio de fraude"
+  },
+  {
+   "tipo": "SecaoInterna",
+   "id": "5.7",
+   "titulo": "Oficina fora da rede referenciada"
+  },
+  {
+   "tipo": "SecaoInterna",
+   "id": "5.8",
+   "titulo": "Guarda de documentos do processo"
+  },
+  {
+   "tipo": "SecaoInterna",
+   "id": "5.9",
+   "titulo": "Atualizacao monetaria de valores"
+  },
+  {
+   "tipo": "SecaoInterna",
+   "id": "5.10",
+   "titulo": "Regulacao de sinistro com veiculo financiado"
+  },
+  {
+   "tipo": "SecaoInterna",
+   "id": "5.11",
+   "titulo": "Atendimento a segurado com deficiencia auditiva"
+  },
+  {
+   "tipo": "SecaoInterna",
+   "id": "5.12",
+   "titulo": "Registro de contato com terceiros"
+  },
+  {
+   "tipo": "Circular",
+   "id": "CIR-001",
+   "data": "2026-02-10",
+   "assunto": "prazo de vistoria em colisao simples sem terceiros"
+  },
+  {
+   "tipo": "Circular",
+   "id": "CIR-002",
+   "data": "2026-02-24",
+   "assunto": "pagamento da indenizacao apos conclusao"
+  },
+  {
+   "tipo": "Circular",
+   "id": "CIR-003",
+   "data": "2026-03-14",
+   "assunto": "prazo de vistoria em roubo ou furto total do veiculo"
+  },
+  {
+   "tipo": "Circular",
+   "id": "CIR-004",
+   "data": "2026-03-20",
+   "assunto": "padronizacao do laudo de danos"
+  },
+  {
+   "tipo": "Circular",
+   "id": "CIR-005",
+   "data": "2026-04-02",
+   "assunto": "prazo de vistoria em quebra de vidros, farois e lanternas"
+  },
+  {
+   "tipo": "Circular",
+   "id": "CIR-006",
+   "data": "2026-04-15",
+   "assunto": "prazo de vistoria em incendio, explosao e queda de raio"
+  },
+  {
+   "tipo": "Circular",
+   "id": "CIR-007",
+   "data": "2026-04-28",
+   "assunto": "revogacao da circular CIR-002"
+  },
+  {
+   "tipo": "Circular",
+   "id": "CIR-008",
+   "data": "2026-05-06",
+   "assunto": "prazo de vistoria em roubo ou furto total do veiculo"
+  },
+  {
+   "tipo": "Circular",
+   "id": "CIR-009",
+   "data": "2026-05-19",
+   "assunto": "resposta do segurado a solicitacao"
+  },
+  {
+   "tipo": "Circular",
+   "id": "CIR-010",
+   "data": "2026-05-27",
+   "assunto": "oficina fora da rede referenciada"
+  },
+  {
+   "tipo": "Circular",
+   "id": "CIR-011",
+   "data": "2026-06-09",
+   "assunto": "prazo de vistoria em perda total do veiculo"
+  },
+  {
+   "tipo": "Circular",
+   "id": "CIR-012",
+   "data": "2026-06-22",
+   "assunto": "faixa de alcada do Coordenador de Sinistros"
+  },
+  {
+   "tipo": "Circular",
+   "id": "CIR-013",
+   "data": "2026-07-01",
+   "assunto": "prazo de vistoria em alagamento e submersao"
+  },
+  {
+   "tipo": "Circular",
+   "id": "CIR-014",
+   "data": "2026-07-10",
+   "assunto": "revogacao da circular CIR-006"
+  },
+  {
+   "tipo": "Circular",
+   "id": "CIR-015",
+   "data": "2026-07-21",
+   "assunto": "prazo de vistoria em colisao simples sem terceiros"
+  },
+  {
+   "tipo": "Circular",
+   "id": "CIR-016",
+   "data": "2026-08-05",
+   "assunto": "aviso de sinistro pelo segurado"
+  },
+  {
+   "tipo": "Circular",
+   "id": "CIR-017",
+   "data": "2026-08-14",
+   "assunto": "prazo de vistoria em perda total do veiculo"
+  },
+  {
+   "tipo": "Circular",
+   "id": "CIR-018",
+   "data": "2026-08-25",
+   "assunto": "tratamento de reclamacao em orgao de defesa do consumidor"
+  },
+  {
+   "tipo": "Circular",
+   "id": "CIR-019",
+   "data": "2026-09-08",
+   "assunto": "prazo de vistoria em responsabilidade civil por danos a terceiros"
+  },
+  {
+   "tipo": "Circular",
+   "id": "CIR-020",
+   "data": "2026-09-17",
+   "assunto": "revogacao da circular CIR-016"
+  }
+ ],
+ "arestas": [
+  {
+   "origem": "4.1",
+   "relacao": "REMETE_A",
+   "destino": "2.3"
+  },
+  {
+   "origem": "MRS-2026.1",
+   "relacao": "ALTERA",
+   "destino": "4.1",
+   "valor_novo": "3 dias uteis"
+  },
+  {
+   "origem": "4.2",
+   "relacao": "REMETE_A",
+   "destino": "2.7"
+  },
+  {
+   "origem": "MRS-2026.1",
+   "relacao": "ALTERA",
+   "destino": "4.2",
+   "valor_novo": "3 dias uteis"
+  },
+  {
+   "origem": "4.3",
+   "relacao": "REMETE_A",
+   "destino": "2.3"
+  },
+  {
+   "origem": "MRS-2026.1",
+   "relacao": "ALTERA",
+   "destino": "4.3",
+   "valor_novo": "5 dias uteis"
+  },
+  {
+   "origem": "4.4",
+   "relacao": "REMETE_A",
+   "destino": "2.4"
+  },
+  {
+   "origem": "MRS-2026.1",
+   "relacao": "ALTERA",
+   "destino": "4.4",
+   "valor_novo": "2 dias uteis"
+  },
+  {
+   "origem": "4.5",
+   "relacao": "REMETE_A",
+   "destino": "4.12"
+  },
+  {
+   "origem": "MRS-2026.1",
+   "relacao": "ALTERA",
+   "destino": "4.5",
+   "valor_novo": "5 dias uteis"
+  },
+  {
+   "origem": "4.6",
+   "relacao": "REMETE_A",
+   "destino": "4.12"
+  },
+  {
+   "origem": "MRS-2026.1",
+   "relacao": "ALTERA",
+   "destino": "4.6",
+   "valor_novo": "5 dias uteis"
+  },
+  {
+   "origem": "4.7",
+   "relacao": "REMETE_A",
+   "destino": "2.4"
+  },
+  {
+   "origem": "MRS-2026.1",
+   "relacao": "ALTERA",
+   "destino": "4.7",
+   "valor_novo": "4 dias uteis"
+  },
+  {
+   "origem": "4.8",
+   "relacao": "REMETE_A",
+   "destino": "2.2"
+  },
+  {
+   "origem": "MRS-2026.1",
+   "relacao": "ALTERA",
+   "destino": "4.8",
+   "valor_novo": "2 dias uteis"
+  },
+  {
+   "origem": "4.9",
+   "relacao": "REMETE_A",
+   "destino": "2.3"
+  },
+  {
+   "origem": "MRS-2026.1",
+   "relacao": "ALTERA",
+   "destino": "4.9",
+   "valor_novo": "6 dias uteis"
+  },
+  {
+   "origem": "4.10",
+   "relacao": "REMETE_A",
+   "destino": "2.3"
+  },
+  {
+   "origem": "MRS-2026.1",
+   "relacao": "ALTERA",
+   "destino": "4.10",
+   "valor_novo": "7 dias uteis"
+  },
+  {
+   "origem": "4.11",
+   "relacao": "REMETE_A",
+   "destino": "2.2"
+  },
+  {
+   "origem": "MRS-2026.1",
+   "relacao": "ALTERA",
+   "destino": "4.11",
+   "valor_novo": "1 dia util"
+  },
+  {
+   "origem": "4.12",
+   "relacao": "REMETE_A",
+   "destino": "2.3"
+  },
+  {
+   "origem": "MRS-2026.1",
+   "relacao": "ALTERA",
+   "destino": "4.12",
+   "valor_novo": "8 dias uteis"
+  },
+  {
+   "origem": "MRS-2026.1",
+   "relacao": "ALTERA",
+   "destino": "2.1",
+   "valor_novo": "48 horas do conhecimento do evento"
+  },
+  {
+   "origem": "MRS-2026.1",
+   "relacao": "ALTERA",
+   "destino": "2.2",
+   "valor_novo": "1 dia util do aviso"
+  },
+  {
+   "origem": "MRS-2026.1",
+   "relacao": "ALTERA",
+   "destino": "2.3",
+   "valor_novo": "30 dias corridos"
+  },
+  {
+   "origem": "MRS-2026.1",
+   "relacao": "ALTERA",
+   "destino": "2.4",
+   "valor_novo": "15 dias uteis da abertura"
+  },
+  {
+   "origem": "MRS-2026.1",
+   "relacao": "ALTERA",
+   "destino": "2.5",
+   "valor_novo": "10 dias uteis"
+  },
+  {
+   "origem": "MRS-2026.1",
+   "relacao": "ALTERA",
+   "destino": "2.6",
+   "valor_novo": "ate 45 dias corridos"
+  },
+  {
+   "origem": "MRS-2026.1",
+   "relacao": "ALTERA",
+   "destino": "2.7",
+   "valor_novo": "30 dias corridos da comunicacao"
+  },
+  {
+   "origem": "MRS-2026.1",
+   "relacao": "ALTERA",
+   "destino": "2.8",
+   "valor_novo": "15 dias uteis"
+  },
+  {
+   "origem": "CIR-001",
+   "relacao": "ALTERA",
+   "destino": "4.1",
+   "valor_novo": "2 dias uteis"
+  },
+  {
+   "origem": "CIR-002",
+   "relacao": "ALTERA",
+   "destino": "2.3",
+   "valor_novo": "25 dias corridos"
+  },
+  {
+   "origem": "CIR-003",
+   "relacao": "ALTERA",
+   "destino": "4.3",
+   "valor_novo": "4 dias uteis"
+  },
+  {
+   "origem": "CIR-004",
+   "relacao": "REVOGA",
+   "destino": "5.2"
+  },
+  {
+   "origem": "CIR-005",
+   "relacao": "ALTERA",
+   "destino": "4.8",
+   "valor_novo": "1 dia util"
+  },
+  {
+   "origem": "CIR-006",
+   "relacao": "ALTERA",
+   "destino": "4.5",
+   "valor_novo": "4 dias uteis"
+  },
+  {
+   "origem": "CIR-007",
+   "relacao": "REVOGA",
+   "destino": "CIR-002"
+  },
+  {
+   "origem": "CIR-008",
+   "relacao": "ALTERA",
+   "destino": "4.3",
+   "valor_novo": "3 dias uteis"
+  },
+  {
+   "origem": "CIR-009",
+   "relacao": "ALTERA",
+   "destino": "2.5",
+   "valor_novo": "7 dias uteis"
+  },
+  {
+   "origem": "CIR-010",
+   "relacao": "REVOGA",
+   "destino": "5.7"
+  },
+  {
+   "origem": "CIR-011",
+   "relacao": "ALTERA",
+   "destino": "4.12",
+   "valor_novo": "6 dias uteis"
+  },
+  {
+   "origem": "CIR-012",
+   "relacao": "ALTERA",
+   "destino": "3",
+   "valor_novo": "R$ 20.000 a R$ 80.000"
+  },
+  {
+   "origem": "CIR-013",
+   "relacao": "ALTERA",
+   "destino": "4.6",
+   "valor_novo": "4 dias uteis"
+  },
+  {
+   "origem": "CIR-014",
+   "relacao": "REVOGA",
+   "destino": "CIR-006"
+  },
+  {
+   "origem": "CIR-015",
+   "relacao": "ALTERA",
+   "destino": "4.1",
+   "valor_novo": "4 dias uteis"
+  },
+  {
+   "origem": "CIR-016",
+   "relacao": "ALTERA",
+   "destino": "2.1",
+   "valor_novo": "72 horas do conhecimento do evento"
+  },
+  {
+   "origem": "CIR-017",
+   "relacao": "ALTERA",
+   "destino": "4.12",
+   "valor_novo": "5 dias uteis"
+  },
+  {
+   "origem": "CIR-018",
+   "relacao": "REVOGA",
+   "destino": "5.5"
+  },
+  {
+   "origem": "CIR-019",
+   "relacao": "ALTERA",
+   "destino": "4.9",
+   "valor_novo": "5 dias uteis"
+  },
+  {
+   "origem": "CIR-020",
+   "relacao": "REVOGA",
+   "destino": "CIR-016"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "descricao": "Ontologia do acervo normativo da AutoProtege. Documento ficticio, uso didatico.",
+ "data_referencia": "2026-10-01",
+ "conceitos": {
+  "Circular": {
+   "sinonimos": [
+    "norma",
+    "comunicado",
+    "normativo"
+   ],
+   "atributos": [
+    "numero",
+    "data",
+    "assunto"
+   ],
+   "identificacao": "pelo numero, no formato CIR-000"
+  },
+  "Procedimento": {
+   "sinonimos": [
+    "natureza de sinistro",
+    "rito"
+   ],
+   "atributos": [
+    "codigo",
+    "nome",
+    "prazo_vistoria_manual"
+   ],
+   "identificacao": "pelo codigo do manual, no formato 4.N"
+  },
+  "PrazoGeral": {
+   "sinonimos": [
+    "prazo do manual",
+    "prazo ordinario"
+   ],
+   "atributos": [
+    "codigo",
+    "item",
+    "prazo_manual"
+   ],
+   "identificacao": "pelo codigo do manual, no formato 2.N"
+  },
+  "SecaoInterna": {
+   "sinonimos": [
+    "circular interna",
+    "item da secao 5"
+   ],
+   "atributos": [
+    "codigo",
+    "titulo"
+   ],
+   "identificacao": "pelo codigo do manual, no formato 5.N"
+  }
+ },
+ "relacoes": {
+  "ALTERA": {
+   "assinatura": "Circular -> Procedimento | PrazoGeral",
+   "atributos": [
+    "valor_novo"
+   ],
+   "significado": "a circular substitui o valor do alvo pelo valor_novo"
+  },
+  "REVOGA": {
+   "assinatura": "Circular -> Circular | SecaoInterna",
+   "significado": "o alvo deixa de valer; volta a regra anterior a ele"
+  },
+  "REMETE_A": {
+   "assinatura": "Procedimento -> Procedimento | PrazoGeral",
+   "significado": "referencia cruzada do manual, sem efeito de vigencia"
+  }
+ },
+ "regra_de_vigencia": "O manual e a norma de origem: o no Circular MRS-2026.1, de 2026-01-01, estabelece os valores originais por arestas ALTERA. Na data de referencia vale o valor_novo da ALTERA de data mais recente, com data ate a de referencia, cuja circular de origem nao seja destino de nenhuma REVOGA.",
+ "consulta_de_vigencia": "Padrao de consulta para o valor vigente de um alvo: MATCH (c:Circular)-[a:ALTERA]->(p:Procedimento) WHERE p.codigo = '4.3' AND c.data <= date('2026-10-01') AND NOT EXISTS { MATCH (:Circular)-[:REVOGA]->(c) } RETURN a.valor_novo ORDER BY c.data DESC LIMIT 1. Quando a pergunta usa o nome e nao o codigo, filtre com lower(p.nome) CONTAINS 'nome em minusculas e sem acento'."
+}

@@ -1,0 +1,219 @@
+[
+ {
+  "id": "V01",
+  "conjunto": "vigencia",
+  "texto": "Qual o prazo vigente em 01/10/2026 para agendar a vistoria em colisao simples sem terceiros?",
+  "valor_esperado": "4 dias uteis",
+  "valores_errados": [
+   "2 dias uteis",
+   "3 dias uteis"
+  ],
+  "tipo": "vigencia_proc"
+ },
+ {
+  "id": "V02",
+  "conjunto": "vigencia",
+  "texto": "Qual o prazo vigente em 01/10/2026 para agendar a vistoria em roubo ou furto total do veiculo?",
+  "valor_esperado": "3 dias uteis",
+  "valores_errados": [
+   "4 dias uteis",
+   "5 dias uteis"
+  ],
+  "tipo": "vigencia_proc"
+ },
+ {
+  "id": "V03",
+  "conjunto": "vigencia",
+  "texto": "Qual o prazo vigente em 01/10/2026 para agendar a vistoria em incendio, explosao e queda de raio?",
+  "valor_esperado": "5 dias uteis",
+  "valores_errados": [
+   "4 dias uteis"
+  ],
+  "tipo": "vigencia_proc"
+ },
+ {
+  "id": "V04",
+  "conjunto": "vigencia",
+  "texto": "Qual o prazo vigente em 01/10/2026 para agendar a vistoria em alagamento e submersao?",
+  "valor_esperado": "4 dias uteis",
+  "valores_errados": [
+   "5 dias uteis"
+  ],
+  "tipo": "vigencia_proc"
+ },
+ {
+  "id": "V05",
+  "conjunto": "vigencia",
+  "texto": "Qual o prazo vigente em 01/10/2026 para agendar a vistoria em quebra de vidros, farois e lanternas?",
+  "valor_esperado": "1 dia util",
+  "valores_errados": [
+   "2 dias uteis"
+  ],
+  "tipo": "vigencia_proc"
+ },
+ {
+  "id": "V06",
+  "conjunto": "vigencia",
+  "texto": "Qual o prazo vigente em 01/10/2026 para agendar a vistoria em responsabilidade civil por danos a terceiros?",
+  "valor_esperado": "5 dias uteis",
+  "valores_errados": [
+   "6 dias uteis"
+  ],
+  "tipo": "vigencia_proc"
+ },
+ {
+  "id": "V07",
+  "conjunto": "vigencia",
+  "texto": "Qual o prazo vigente em 01/10/2026 para agendar a vistoria em perda total do veiculo?",
+  "valor_esperado": "5 dias uteis",
+  "valores_errados": [
+   "6 dias uteis",
+   "8 dias uteis"
+  ],
+  "tipo": "vigencia_proc"
+ },
+ {
+  "id": "V08",
+  "conjunto": "vigencia",
+  "texto": "Qual o prazo vigente em 01/10/2026 para aviso de sinistro pelo segurado?",
+  "valor_esperado": "48 horas",
+  "valores_errados": [
+   "72 horas"
+  ],
+  "tipo": "vigencia_prazo"
+ },
+ {
+  "id": "V09",
+  "conjunto": "vigencia",
+  "texto": "Qual o prazo vigente em 01/10/2026 para pagamento da indenizacao apos conclusao?",
+  "valor_esperado": "30 dias corridos",
+  "valores_errados": [
+   "25 dias corridos"
+  ],
+  "tipo": "vigencia_prazo"
+ },
+ {
+  "id": "V10",
+  "conjunto": "vigencia",
+  "texto": "Qual o prazo vigente em 01/10/2026 para resposta do segurado a solicitacao?",
+  "valor_esperado": "7 dias uteis",
+  "valores_errados": [
+   "10 dias uteis"
+  ],
+  "tipo": "vigencia_prazo"
+ },
+ {
+  "id": "V11",
+  "conjunto": "vigencia",
+  "texto": "Uma indenizacao apurada em R$ 70.000 precisa da aprovacao de quem, em 01/10/2026?",
+  "valor_esperado": "Coordenador de Sinistros",
+  "valores_errados": [
+   "Gerente de Sinistros"
+  ],
+  "tipo": "vigencia_alcada"
+ },
+ {
+  "id": "V12",
+  "conjunto": "vigencia",
+  "texto": "Qual circular revogou a circular interna 5.2 do manual?",
+  "valor_esperado": "CIR-004",
+  "valores_errados": [],
+  "tipo": "revogacao"
+ },
+ {
+  "id": "V13",
+  "conjunto": "vigencia",
+  "texto": "Qual circular revogou a circular CIR-002?",
+  "valor_esperado": "CIR-007",
+  "valores_errados": [],
+  "tipo": "revogacao"
+ },
+ {
+  "id": "V14",
+  "conjunto": "vigencia",
+  "texto": "Qual circular revogou a circular CIR-016?",
+  "valor_esperado": "CIR-020",
+  "valores_errados": [],
+  "tipo": "revogacao"
+ },
+ {
+  "id": "V15",
+  "conjunto": "vigencia",
+  "texto": "Qual circular tirou de vigor a alteracao que a CIR-006 fez?",
+  "valor_esperado": "CIR-014",
+  "valores_errados": [],
+  "tipo": "revogacao"
+ },
+ {
+  "id": "V16",
+  "conjunto": "vigencia",
+  "texto": "Que item do manual a circular CIR-015 altera?",
+  "valor_esperado": "4.1",
+  "valores_errados": [],
+  "tipo": "impacto"
+ },
+ {
+  "id": "P01",
+  "conjunto": "passagem",
+  "texto": "Que valor a circular CIR-003 estabelece para o prazo de vistoria do item 4.3?",
+  "valor_esperado": "4 dias uteis",
+  "valores_errados": [],
+  "tipo": "passagem"
+ },
+ {
+  "id": "P02",
+  "conjunto": "passagem",
+  "texto": "Que valor a circular CIR-009 fixa para a resposta do segurado a solicitacao?",
+  "valor_esperado": "7 dias uteis",
+  "valores_errados": [],
+  "tipo": "passagem"
+ },
+ {
+  "id": "P03",
+  "conjunto": "passagem",
+  "texto": "Qual circular trata do prazo de vistoria em quebra de vidros, farois e lanternas?",
+  "valor_esperado": "CIR-005",
+  "valores_errados": [],
+  "tipo": "passagem"
+ },
+ {
+  "id": "P04",
+  "conjunto": "passagem",
+  "texto": "Qual circular alterou a faixa de alcada do Coordenador de Sinistros?",
+  "valor_esperado": "CIR-012",
+  "valores_errados": [],
+  "tipo": "passagem"
+ },
+ {
+  "id": "P05",
+  "conjunto": "passagem",
+  "texto": "Em que mes e ano foi publicada a circular CIR-011?",
+  "valor_esperado": "junho de 2026",
+  "valores_errados": [],
+  "tipo": "passagem"
+ },
+ {
+  "id": "P06",
+  "conjunto": "passagem",
+  "texto": "Qual o prazo que o manual preve para pagamento da indenizacao apos conclusao?",
+  "valor_esperado": "30 dias corridos",
+  "valores_errados": [],
+  "tipo": "passagem"
+ },
+ {
+  "id": "P07",
+  "conjunto": "passagem",
+  "texto": "Que documento especifico o manual exige em roubo ou furto total do veiculo?",
+  "valor_esperado": "comprovante de bloqueio do rastreador",
+  "valores_errados": [],
+  "tipo": "passagem"
+ },
+ {
+  "id": "P08",
+  "conjunto": "passagem",
+  "texto": "O que a circular CIR-016 estabeleceu para o aviso de sinistro pelo segurado?",
+  "valor_esperado": "72 horas",
+  "valores_errados": [],
+  "tipo": "passagem"
+ }
+]
