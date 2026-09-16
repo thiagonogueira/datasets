@@ -61,10 +61,10 @@
    "consultar_rastreio",
    "responder"
   ],
-  "resposta": "**Resposta à Reclamação R00008**\n\nPrezado cliente,\n\nAgradecemos por entrar em contato conosco. Consultamos o rastreio do seu Patinete infantil dobrável e confirmamos que o produto encontra-se em trânsito. Conforme informações da transportadora, a entrega está prevista para os próximos 3 dias úteis, dentro do prazo estabelecido.\n\nCompreendemos a importância da entrega para a data do aniversário. Recomendamos acompanhar o rastreio regularmente para obter atualizações sobre a movimentação do pedido.\n\nQualquer dúvida adicional, estamos à disposição.\n\nAtenciosamente,\nEquipe de Atendimento",
-  "segundos": 4,
-  "chamadas": 2,
-  "tokens": 2015,
+  "resposta": "**Número do Chamado:** R00008\n\n**Assunto:** Acompanhamento de Entrega - Patinete Infantil\n\n---\n\nPrezado Cliente,\n\nObrigado por entrar em contato conosco.\n\nConsultamos o rastreio do seu pedido e informamos que o pacote encontra-se **em trânsito** para o endereço de entrega. O prazo de entrega ainda **não venceu**, portanto tudo segue conforme o previsto.\n\nSua encomenda chegará dentro do prazo estabelecido. Você pode acompanhar o status em tempo real através do código de rastreamento fornecido.\n\nQualquer dúvida adicional, estamos à disposição.\n\nAtenciosamente,\n**Redator**",
+  "segundos": 12,
+  "chamadas": 3,
+  "tokens": 22651,
   "montagem": "B"
  },
  {
@@ -79,10 +79,10 @@
    "emitir_reembolso",
    "responder"
   ],
-  "resposta": "**Resposta à Reclamação R00065**\n\nPrezado cliente,\n\nRecebemos sua reclamação sobre o cancelamento da compra da Escada de alumínio 5 degraus (R$ 194,51) pela Vitrine Norte.\n\nInformamos que tomamos as seguintes medidas: bloqueamos o repasse financeiro ao vendedor, consultamos seu histórico na plataforma, abriram investigação sobre a conduta relatada e solicitamos aprovação do supervisor para prosseguimento.\n\nQuanto ao seu pagamento, foi emitido reembolso que será processado em breve. Continuaremos investigando a situação para garantir conformidade com nossas políticas de compra segura.\n\nAcompanharemos o caso com urgência.\n\nAtenciosamente,\nRedator",
-  "segundos": 4,
-  "chamadas": 2,
-  "tokens": 2202,
+  "resposta": "**Resposta ao Cliente - Chamado R00065**\n\nPrezado Cliente,\n\nRecebemos sua reclamação sobre o cancelamento suspeito do pedido da Escada de alumínio 5 degraus (R$ 194,51) realizado em 14/06/2026.\n\nInformamos que iniciamos investigação contra o vendedor Vitrine Norte conforme procedimento de fraude. As seguintes ações foram executadas: bloqueio do repasse ao vendedor, consulta do histórico completo, abertura de investigação formal, aprovação do supervisor e emissão de reembolso.\n\nSeu reembolso foi processado. Acompanharemos o caso até sua conclusão.\n\nAtenciosamente,\nRedator",
+  "segundos": 19,
+  "chamadas": 3,
+  "tokens": 80997,
   "montagem": "B"
  },
  {
@@ -93,15 +93,12 @@
    "pedir_evidencia",
    "suspender_anuncio",
    "consultar_historico_vendedor",
-   "registrar_ocorrencia_vendedor",
-   "aprovar_supervisor",
-   "emitir_reembolso",
    "responder"
   ],
-  "resposta": "**Resposta ao Cliente - Reclamação R00101**\n\nPrezado Cliente,\n\nAnalisamos sua reclamação sobre a Cadeira gamer ErgoMax. Após avaliação das evidências enviadas, confirmamos que o produto entregue é uma imitação, não um defeito de fabricação. A embalagem diverge do anúncio, falta o selo de garantia do fabricante e o número de série não consta no cadastro da marca.\n\n**Decisões tomadas:**\n- Suspensão do anúncio do vendedor\n- Registro de ocorrência contra a Loja do Edu\n- Emissão de reembolso integral de R$ 880,26\n\nO vendedor possui histórico de fraude. Seu reembolso foi aprovado e será processado em breve. Agradecemos por denunciar esta irregularidade.\n\nAtenciosamente,\nRedator",
-  "segundos": 5,
-  "chamadas": 2,
-  "tokens": 2372,
+  "resposta": "**Resposta ao Cliente:**\n\nPrezado cliente,\n\nAgradecemos por enviar as evidências solicitadas. Após análise do seu caso e consulta ao histórico do vendedor, identificamos duas ocorrências anteriores de fraude do mesmo vendedor.\n\nConforme nossas regras de procedimento, seu chamado foi transferido para o procedimento de Fraude do Vendedor. O anúncio foi suspenso e nossa equipe especializada investigará o caso com prioridade.\n\nVocê receberá atualizações sobre o andamento da investigação em breve.\n\nObrigado pela confiança.",
+  "segundos": 19,
+  "chamadas": 3,
+  "tokens": 40215,
   "montagem": "B"
  },
  {
