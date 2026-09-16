@@ -1,0 +1,21 @@
+{
+ "R00008": {
+  "clube": false,
+  "preco": 145.59,
+  "rastreio": "em_transito_no_prazo"
+ },
+ "R00065": {
+  "clube": false,
+  "preco": 194.51,
+  "historico_vendedor": 0,
+  "historico_texto": "Vendedor Vitrine Norte, ativo na plataforma. Nenhuma ocorrência de fraude registrada contra este vendedor até esta data. Repasse pendente ao vendedor, referente aos pedidos ainda em aberto: R$ 1.450,63."
+ },
+ "R00101": {
+  "clube": true,
+  "preco": 880.26,
+  "evidencia": "veio",
+  "evidencia_texto": "O cliente enviou seis fotos. A embalagem não corresponde à que consta no anúncio e não traz o selo de garantia do fabricante. O número de série impresso na etiqueta não existe no cadastro da marca. O acabamento e as especificações divergem do produto original. A área de autenticidade classificou as imagens como imitação do produto, e não como defeito de fabricação.",
+  "historico_vendedor": 2,
+  "historico_texto": "Vendedor Loja do Edu, ativo na plataforma. Duas ocorrências anteriores de fraude registradas contra este vendedor: chamado R00076, em abril de 2026, e chamado R00066, em junho de 2026. Repasse pendente ao vendedor, referente aos pedidos ainda em aberto: R$ 1.982,39."
+ }
+}

@@ -1,0 +1,171 @@
+[
+ {
+  "id": "R00008",
+  "tipo": "entrega",
+  "executado": [
+   "triar",
+   "consultar_pedido",
+   "consultar_rastreio",
+   "consultar_historico_vendedor",
+   "responder"
+  ],
+  "resposta": "Prezado cliente,\n\nObrigado por entrar em contato conosco. Consultamos o status do seu pedido e identificamos que o Patinete infantil dobrável está em trânsito e dentro do prazo de entrega prometido.\n\nInformações do seu pedido:\n- Número do pedido: R00008\n- Produto: Patinete infantil dobrável\n- Valor: R$ 145,59\n- Status: Em trânsito\n- Previsão de entrega: 3 dias úteis\n\nCompreendemos que você adquiriu o produto com antecedência para o aniversário. O pedido está sendo transportado normalmente e deve chegar dentro do prazo estimado. Você pode acompanhar o rastreamento em tempo real pelo aplicativo ou pelo site da plataforma, utilizando o código de rastreamento disponível na página do seu pedido.\n\nCaso o prazo de entrega seja ultrapassado ou você identifique qualquer problema adicional, abra um novo chamado e nossa equipe investigará a situação com a transportadora responsável.\n\nQualquer dúvida, estamos à disposição.\n\nAtenciosamente,\nEquipe de Atendimento Quantum Commerce",
+  "segundos": 16,
+  "chamadas": 1,
+  "tokens": 128667,
+  "montagem": "A"
+ },
+ {
+  "id": "R00065",
+  "tipo": "Fraude do vendedor",
+  "executado": [
+   "triar",
+   "consultar_pedido",
+   "consultar_historico_vendedor",
+   "abrir_investigacao",
+   "emitir_reembolso",
+   "notificar_vendedor",
+   "registrar_ocorrencia_vendedor",
+   "responder"
+  ],
+  "resposta": "Prezado cliente,\n\nRecebemos sua reclamação sobre o cancelamento do pedido R00065 da escada de alumínio 5 degraus e a suspeita de conduta fraudulenta por parte do vendedor Vitrine Norte.\n\nApós análise do seu caso, identificamos um padrão de comportamento suspeito: cancelamento alegando falta de estoque seguido de relistagem do mesmo produto no mesmo dia com preço superior. Essa conduta viola as políticas da plataforma.\n\nTomamos as seguintes ações:\n\n1. **Reembolso integral**: Processamos o reembolso de R$ 194,51 referente ao seu pedido. O valor retornará ao seu meio de pagamento original em até 5 dias úteis, conforme a instituição financeira.\n\n2. **Investigação formal**: Abrimos investigação contra o vendedor Vitrine Norte para apuração da conduta suspeita.\n\n3. **Registro de ocorrência**: Registramos a ocorrência no histórico do vendedor para fins de monitoramento futuro.\n\n4. **Notificação ao vendedor**: O vendedor foi notificado formalmente sobre a investigação.\n\nSua compra estava protegida pela plataforma desde o momento do pagamento. O reembolso é integral e não exige devolução do produto, pois o cancelamento foi originado por conduta inadequada do vendedor.\n\nContinuaremos acompanhando este caso e tomaremos as medidas cabíveis conforme o resultado da investigação. Você será informado sobre qualquer desenvolvimento relevante.\n\nAgradecemos por denunciar essa situação. Sua vigilância ajuda a manter a plataforma segura para todos os usuários.\n\nAtenciosamente,\nEquipe de Atendimento - Quantum Commerce",
+  "segundos": 17,
+  "chamadas": 1,
+  "tokens": 257720,
+  "montagem": "A"
+ },
+ {
+  "id": "R00101",
+  "tipo": "Fraude do vendedor",
+  "executado": [
+   "triar",
+   "consultar_pedido",
+   "consultar_historico_vendedor",
+   "bloquear_repasse",
+   "abrir_investigacao",
+   "aprovar_supervisor",
+   "emitir_reembolso",
+   "responder"
+  ],
+  "resposta": "Prezado cliente,\n\nAnalisamos sua reclamação sobre a Cadeira gamer ErgoMax (pedido R00101) e identificamos que o vendedor Loja do Edu apresenta histórico de duas ocorrências anteriores de fraude registradas em nossa plataforma (chamados R00076 em abril de 2026 e R00066 em junho de 2026).\n\nCom base nessa informação e nos indícios de falsificação relatados por você (embalagem diferente, ausência de selo de garantia do fabricante e acabamento fora do padrão esperado), confirmamos que se trata de caso de fraude do vendedor.\n\nAs seguintes ações foram executadas:\n\n1. O repasse ao vendedor foi bloqueado imediatamente.\n2. Uma investigação formal foi aberta contra o vendedor.\n3. Seu reembolso integral de R$ 880,26 foi aprovado e emitido.\n\nO valor será creditado na sua conta pelo mesmo meio de pagamento utilizado na compra original. O prazo para o crédito aparecer depende da sua instituição financeira, mas a plataforma já processou o reembolso em seu sistema.\n\nVocê não precisa devolver o produto, pois produtos falsificados não retornam.\n\nAgradecemos por denunciar essa situação. Sua ação ajuda a manter a integridade da plataforma e a proteger outros compradores.\n\nQualquer dúvida, entre em contato conosco pelos canais oficiais de atendimento.\n\nAtenciosamente,\nEquipe de Atendimento Quantum Commerce",
+  "segundos": 14,
+  "chamadas": 1,
+  "tokens": 257488,
+  "montagem": "A"
+ },
+ {
+  "id": "R00008",
+  "tipo": "Entrega",
+  "executado": [
+   "triar",
+   "consultar_rastreio",
+   "responder"
+  ],
+  "resposta": "**Resposta à Reclamação R00008**\n\nPrezado cliente,\n\nAgradecemos por entrar em contato conosco. Consultamos o rastreio do seu Patinete infantil dobrável e confirmamos que o produto encontra-se em trânsito. Conforme informações da transportadora, a entrega está prevista para os próximos 3 dias úteis, dentro do prazo estabelecido.\n\nCompreendemos a importância da entrega para a data do aniversário. Recomendamos acompanhar o rastreio regularmente para obter atualizações sobre a movimentação do pedido.\n\nQualquer dúvida adicional, estamos à disposição.\n\nAtenciosamente,\nEquipe de Atendimento",
+  "segundos": 4,
+  "chamadas": 2,
+  "tokens": 2015,
+  "montagem": "B"
+ },
+ {
+  "id": "R00065",
+  "tipo": "Fraude do vendedor",
+  "executado": [
+   "triar",
+   "bloquear_repasse",
+   "consultar_historico_vendedor",
+   "abrir_investigacao",
+   "aprovar_supervisor",
+   "emitir_reembolso",
+   "responder"
+  ],
+  "resposta": "**Resposta à Reclamação R00065**\n\nPrezado cliente,\n\nRecebemos sua reclamação sobre o cancelamento da compra da Escada de alumínio 5 degraus (R$ 194,51) pela Vitrine Norte.\n\nInformamos que tomamos as seguintes medidas: bloqueamos o repasse financeiro ao vendedor, consultamos seu histórico na plataforma, abriram investigação sobre a conduta relatada e solicitamos aprovação do supervisor para prosseguimento.\n\nQuanto ao seu pagamento, foi emitido reembolso que será processado em breve. Continuaremos investigando a situação para garantir conformidade com nossas políticas de compra segura.\n\nAcompanharemos o caso com urgência.\n\nAtenciosamente,\nRedator",
+  "segundos": 4,
+  "chamadas": 2,
+  "tokens": 2202,
+  "montagem": "B"
+ },
+ {
+  "id": "R00101",
+  "tipo": "Falsificado",
+  "executado": [
+   "triar",
+   "pedir_evidencia",
+   "suspender_anuncio",
+   "consultar_historico_vendedor",
+   "registrar_ocorrencia_vendedor",
+   "aprovar_supervisor",
+   "emitir_reembolso",
+   "responder"
+  ],
+  "resposta": "**Resposta ao Cliente - Reclamação R00101**\n\nPrezado Cliente,\n\nAnalisamos sua reclamação sobre a Cadeira gamer ErgoMax. Após avaliação das evidências enviadas, confirmamos que o produto entregue é uma imitação, não um defeito de fabricação. A embalagem diverge do anúncio, falta o selo de garantia do fabricante e o número de série não consta no cadastro da marca.\n\n**Decisões tomadas:**\n- Suspensão do anúncio do vendedor\n- Registro de ocorrência contra a Loja do Edu\n- Emissão de reembolso integral de R$ 880,26\n\nO vendedor possui histórico de fraude. Seu reembolso foi aprovado e será processado em breve. Agradecemos por denunciar esta irregularidade.\n\nAtenciosamente,\nRedator",
+  "segundos": 5,
+  "chamadas": 2,
+  "tokens": 2372,
+  "montagem": "B"
+ },
+ {
+  "id": "R00008",
+  "tipo": "Entrega",
+  "rota": [
+   "Entrega"
+  ],
+  "executado": [
+   "triar",
+   "consultar_rastreio",
+   "responder"
+  ],
+  "resposta": "Prezado cliente,\n\nConsultamos o rastreio do seu pedido (ID: R00008) e informamos que seu pacote está em trânsito. A entrega está prevista para os próximos 3 dias, dentro do prazo estabelecido.\n\nNão há necessidade de ação neste momento. Acompanhe o rastreio para obter atualizações sobre a localização do seu pacote.\n\nQualquer dúvida, estamos à disposição.\n\nAtenciosamente,\nRedator",
+  "segundos": 11,
+  "chamadas": 3,
+  "tokens": 24124,
+  "montagem": "C"
+ },
+ {
+  "id": "R00065",
+  "tipo": "Fraude do vendedor",
+  "rota": [
+   "Fraude do vendedor"
+  ],
+  "executado": [
+   "triar",
+   "bloquear_repasse",
+   "consultar_historico_vendedor",
+   "abrir_investigacao",
+   "aprovar_supervisor",
+   "emitir_reembolso",
+   "responder"
+  ],
+  "resposta": "**RESPOSTA AO CLIENTE - CHAMADO R00065**\n\nPrezado Cliente,\n\nInformamos que sua reclamação sobre fraude foi analisada. As seguintes ações foram executadas:\n\n- Bloqueio do repasse ao vendedor Vitrine Norte\n- Consulta do histórico do vendedor\n- Abertura de investigação formal\n- Aprovação do supervisor\n- Emissão de reembolso\n\nO valor de R$ 194,51 referente à compra da Escada de alumínio 5 degraus será devolvido à sua conta. O processo segue conforme procedimento padrão de fraude do vendedor.\n\nQualquer dúvida, entre em contato conosco.\n\nAtenciosamente,\nRedator",
+  "segundos": 22,
+  "chamadas": 3,
+  "tokens": 82188,
+  "montagem": "C"
+ },
+ {
+  "id": "R00101",
+  "tipo": "Fraude do vendedor",
+  "rota": [
+   "Falsificado",
+   "Fraude do vendedor"
+  ],
+  "executado": [
+   "triar",
+   "pedir_evidencia",
+   "suspender_anuncio",
+   "consultar_historico_vendedor",
+   "devolver_ao_orquestrador",
+   "bloquear_repasse",
+   "consultar_historico_vendedor",
+   "abrir_investigacao",
+   "aprovar_supervisor",
+   "emitir_reembolso",
+   "responder"
+  ],
+  "resposta": "**RESPOSTA AO CLIENTE - CHAMADO R00101**\n\nPrezado Cliente,\n\nApós análise completa do seu chamado R00101 referente à Cadeira gamer ErgoMax, confirmamos que o produto apresenta evidências de imitação. \n\nIdentificamos que o vendedor Loja do Edu possui histórico de fraude com ocorrências anteriores. Conforme nossos procedimentos, executamos as seguintes ações: solicitação de evidências, suspensão do anúncio, investigação do vendedor, bloqueio de repasse e aprovação supervisória.\n\n**Decisão:** Seu reembolso foi autorizado no valor de R$ 880,26.\n\nVocê receberá o crédito em breve. Agradecemos pela confiança.\n\nAtenciosamente,\n**Redator**",
+  "segundos": 50,
+  "chamadas": 5,
+  "tokens": 151822,
+  "montagem": "C"
+ }
+]

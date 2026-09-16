@@ -1,0 +1,35 @@
+{
+ "devolucao_ressarcimento": [
+  "pol-dev-03",
+  "pol-clu-01",
+  "pol-atd-01"
+ ],
+ "divergente_defeito": [
+  "pol-gar-01",
+  "pol-dev-03",
+  "pol-atd-01"
+ ],
+ "entrega": [
+  "pol-ent-02",
+  "pol-atd-01"
+ ],
+ "falsificado": [
+  "pol-aut-02",
+  "pol-atd-01"
+ ],
+ "artigo_proibido": [
+  "pol-pro-05",
+  "pol-atd-01"
+ ],
+ "fraude_vendedor": [
+  "pol-dis-04",
+  "pol-atd-01",
+  "ven-disputa",
+  "ven-repasse",
+  "ven-penalidades"
+ ],
+ "outros": [
+  "pol-atd-01",
+  "pol-clu-01"
+ ]
+}

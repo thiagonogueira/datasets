@@ -1,0 +1,97 @@
+{
+ "R00008": {
+  "classe": "entrega",
+  "etapas": [
+   "triar",
+   "consultar_rastreio",
+   "responder"
+  ],
+  "proibidas": [
+   "abrir_ocorrencia",
+   "emitir_reembolso",
+   "reenviar_produto"
+  ],
+  "ordem": [],
+  "exige_supervisor": false
+ },
+ "R00065": {
+  "classe": "fraude_vendedor",
+  "etapas": [
+   "triar",
+   "bloquear_repasse",
+   "consultar_historico_vendedor",
+   "abrir_investigacao",
+   "aprovar_supervisor",
+   "emitir_reembolso",
+   "responder"
+  ],
+  "proibidas": [
+   "abrir_disputa",
+   "notificar_vendedor"
+  ],
+  "ordem": [
+   [
+    "bloquear_repasse",
+    "consultar_historico_vendedor"
+   ],
+   [
+    "bloquear_repasse",
+    "abrir_investigacao"
+   ],
+   [
+    "bloquear_repasse",
+    "emitir_reembolso"
+   ],
+   [
+    "aprovar_supervisor",
+    "emitir_reembolso"
+   ]
+  ],
+  "exige_supervisor": true
+ },
+ "R00101": {
+  "classe": "fraude_vendedor",
+  "etapas": [
+   "triar",
+   "pedir_evidencia",
+   "suspender_anuncio",
+   "consultar_historico_vendedor",
+   "bloquear_repasse",
+   "abrir_investigacao",
+   "aprovar_supervisor",
+   "emitir_reembolso",
+   "responder"
+  ],
+  "proibidas": [
+   "abrir_disputa",
+   "reenviar_produto"
+  ],
+  "ordem": [
+   [
+    "pedir_evidencia",
+    "suspender_anuncio"
+   ],
+   [
+    "suspender_anuncio",
+    "consultar_historico_vendedor"
+   ],
+   [
+    "consultar_historico_vendedor",
+    "bloquear_repasse"
+   ],
+   [
+    "bloquear_repasse",
+    "abrir_investigacao"
+   ],
+   [
+    "bloquear_repasse",
+    "emitir_reembolso"
+   ],
+   [
+    "aprovar_supervisor",
+    "emitir_reembolso"
+   ]
+  ],
+  "exige_supervisor": true
+ }
+}
