@@ -1,0 +1,202 @@
+[
+  {
+    "texto": "Você é um dos sorteados! Foi selecionado para receber R$5.000 em dinheiro ou um pacote de viagem com passagens incluídas. Fale com um atendente agora para resgatar.",
+    "classe": "spam"
+  },
+  {
+    "texto": "PRIVADO! Seu extrato de 2023 da linha mostra 800 pontos não resgatados. Ligue agora e informe o código de identificação 40533. Oferta expira em 31/10.",
+    "classe": "spam"
+  },
+  {
+    "texto": "5 conteúdos digitais grátis! Ligue agora e receba um conteúdo novo toda semana por apenas R$15 por mês. Para cancelar, envie SAIR.",
+    "classe": "spam"
+  },
+  {
+    "texto": "Já tem o celular há 10 meses? Atualize para o novo modelo com câmera de graça. Economize com ligações e mensagens de fim de semana grátis. Responda SIM para receber uma ligação.",
+    "classe": "spam"
+  },
+  {
+    "texto": "Você ganhou R$5.000 em dinheiro ou um prêmio de R$10.000! Para resgatar, ligue agora para o número informado.",
+    "classe": "spam"
+  },
+  {
+    "texto": "Ganhe o novo smartphone ou tocador de música, prêmio de R$2.000 garantido! Responda GANHEI agora mesmo.",
+    "classe": "spam"
+  },
+  {
+    "texto": "Ligações internacionais a partir de R$0,10 por minuto pela nossa operadora. Consulte condições no site. Para sair da lista, responda SAIR.",
+    "classe": "spam"
+  },
+  {
+    "texto": "Ligue para nosso atendimento entre 10h e 21h, pois você GANHOU um prêmio garantido de R$5.000 em dinheiro!",
+    "classe": "spam"
+  },
+  {
+    "texto": "Toc toc! Responda quem é para participar do sorteio semanal de um vale-compras de R$1.250 na loja de sua escolha.",
+    "classe": "spam"
+  },
+  {
+    "texto": "Baixe quantos toques quiser, sem limite, milhares de opções. Você pode até enviar para os amigos. Envie um código e pague apenas R$15.",
+    "classe": "spam"
+  },
+  {
+    "texto": "Quer um celular novo com câmera de vídeo? Minutos ilimitados, chamadas de vídeo incluídas e downloads liberados toda semana, de graça e com entrega amanhã. Ligue agora ou responda AGORA.",
+    "classe": "spam"
+  },
+  {
+    "texto": "Já tem o celular há 11 meses ou mais? Você tem direito a atualizar para os modelos mais novos com câmera, de graça! Ligue para a Central de Atualização, é grátis.",
+    "classe": "spam"
+  },
+  {
+    "texto": "Mensagem grátis! Baixe agora o novo toque que todo mundo está usando. Seis sons diferentes por apenas R$15 por semana. Só para maiores de 16 anos.",
+    "classe": "spam"
+  },
+  {
+    "texto": "Teve o crédito recusado? Com ou sem garantia, não consegue crédito? Ligue grátis agora ou responda AJUDA que a gente resolve.",
+    "classe": "spam"
+  },
+  {
+    "texto": "GANHADOR!! Como cliente valioso da nossa rede, você foi selecionado para receber um prêmio de R$4.500! Para resgatar, ligue e informe o código KL341. Válido só por 12 horas.",
+    "classe": "spam"
+  },
+  {
+    "texto": "Dobre seus minutos e mensagens ou pague metade no plano. Aparelhos com Bluetooth de graça. Ligue para atualizar seu plano ou responda SAIR para cancelar.",
+    "classe": "spam"
+  },
+  {
+    "texto": "Parabéns! Dois celulares com câmera de vídeo são seus. Ligue agora, converse por vídeo com os amigos, jogue online e baixe música, sem taxa de linha.",
+    "classe": "spam"
+  },
+  {
+    "texto": "Temos novos contatos cadastrados recentemente na sua região. Responda AGORA para começar a conversar.",
+    "classe": "spam"
+  },
+  {
+    "texto": "Primeira semana de inscrição grátis! Concorra a um prêmio em dinheiro toda semana. Envie um código para participar. Consulte o regulamento no site.",
+    "classe": "spam"
+  },
+  {
+    "texto": "PESSOAL! Estamos tentando falar com você. O sorteio do fim de semana mostrou que você ganhou um prêmio garantido de R$5.000. Ligue e informe o código K52. Válido só por 12 horas.",
+    "classe": "spam"
+  },
+  {
+    "texto": "Seu saldo em dinheiro é de R$2.500 atualmente. Para resgatar agora, envie a palavra RESGATE para o número informado.",
+    "classe": "spam"
+  },
+  {
+    "texto": "Enquete rápida: o time da casa venceu o jogo de ontem? Responda CERTO ou ERRADO para participar.",
+    "classe": "spam"
+  },
+  {
+    "texto": "Inscrição grátis no sorteio semanal para ganhar ingressos para a final do campeonato ou R$1.500 em dinheiro. Envie um código para participar. Só para maiores de 18 anos.",
+    "classe": "spam"
+  },
+  {
+    "texto": "Você tem o que é preciso para participar do rali? Participe com a nossa marca parceira! Envie um código para se inscrever e ver os detalhes no site.",
+    "classe": "spam"
+  },
+  {
+    "texto": "Seu extrato mostra 800 pontos não resgatados na sua conta. Ligue agora e informe o código de identificação 42478. Oferta expira em breve.",
+    "classe": "spam"
+  },
+  {
+    "texto": "Kkkk ok, não vou mais precisar que você faça meu cabelo.",
+    "classe": "normal"
+  },
+  {
+    "texto": "Tunde, como você está. Só passando para desejar um ótimo dia. Abiola.",
+    "classe": "normal"
+  },
+  {
+    "texto": "Que ótimo. Meu vizinho vem pegar pasta de dente toda manhã.",
+    "classe": "normal"
+  },
+  {
+    "texto": "Kkk, ai, mas eu queria ter ficado fora um pouco mais.",
+    "classe": "normal"
+  },
+  {
+    "texto": "Você ainda está por aí? Posso passar aí mais tarde.",
+    "classe": "normal"
+  },
+  {
+    "texto": "Vi um musical muito bom ontem à noite.",
+    "classe": "normal"
+  },
+  {
+    "texto": "Gente, R$700 ou R$900 por 5 noites, ótima localização com café da manhã incluso.",
+    "classe": "normal"
+  },
+  {
+    "texto": "Está ensolarado aqui. O clima está agradável.",
+    "classe": "normal"
+  },
+  {
+    "texto": "Te encontro na frente da loja, você vai ver como minha cabeça funciona.",
+    "classe": "normal"
+  },
+  {
+    "texto": "Não consigo atender o telefone agora. Manda uma mensagem.",
+    "classe": "normal"
+  },
+  {
+    "texto": "Ok, tudo certo. É logo depois da rua tal, atrás do campo. Me liga quando estiver por perto, te vejo na terça.",
+    "classe": "normal"
+  },
+  {
+    "texto": "Hoje vou para a faculdade, então não vou conseguir ir à aula.",
+    "classe": "normal"
+  },
+  {
+    "texto": "Ah, você também não sabe. Outro dia fiz uma coisa simples e esperta com pera, perfeita para o Natal.",
+    "classe": "normal"
+  },
+  {
+    "texto": "Isso tudo é meio estranho e maluco para mim.",
+    "classe": "normal"
+  },
+  {
+    "texto": "Haha eu ouvi isso, me manda mensagem quando você estiver por aí.",
+    "classe": "normal"
+  },
+  {
+    "texto": "Você não vai ficar chateada quando eu usar o dinheiro dela para te levar para jantar um bife.",
+    "classe": "normal"
+  },
+  {
+    "texto": "Não tenho certeza, eu só estava vendo o que estava acontecendo por aqui.",
+    "classe": "normal"
+  },
+  {
+    "texto": "Beleza, posso passar aí à noite se minha aula terminar mais cedo.",
+    "classe": "normal"
+  },
+  {
+    "texto": "Ok, só estava brincando com você.",
+    "classe": "normal"
+  },
+  {
+    "texto": "Não, acho que ele não estuda lá, mas mora aqui perto.",
+    "classe": "normal"
+  },
+  {
+    "texto": "Se você perguntar para ela, ou se ela falar alguma coisa, me avisa.",
+    "classe": "normal"
+  },
+  {
+    "texto": "Guarda um lugar para mim no seu coração, porque a mente esquece mas o coração sempre lembra. Feliz Dia dos Namorados.",
+    "classe": "normal"
+  },
+  {
+    "texto": "Manda uma mensagem quando puder, só para saber se está tudo bem.",
+    "classe": "normal"
+  },
+  {
+    "texto": "Combinado então, te encontro lá na terça-feira à tarde.",
+    "classe": "normal"
+  },
+  {
+    "texto": "Vi que você não respondeu ainda, é para confirmar a reunião de amanhã?",
+    "classe": "normal"
+  }
+]
