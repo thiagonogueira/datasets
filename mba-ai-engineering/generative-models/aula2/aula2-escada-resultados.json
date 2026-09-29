@@ -1,0 +1,512 @@
+{
+ "modelos": [
+  {
+   "chave": "qwen1.7",
+   "nome": "Qwen3-1.7B",
+   "acesso": "local, GPU do Colab",
+   "preco_entrada_usd_por_milhao": null,
+   "preco_saida_usd_por_milhao": null,
+   "tokens_por_segundo_gpu_estimado": 20
+  },
+  {
+   "chave": "qwen4",
+   "nome": "Qwen3-4B",
+   "acesso": "local, GPU do Colab",
+   "preco_entrada_usd_por_milhao": null,
+   "preco_saida_usd_por_milhao": null,
+   "tokens_por_segundo_gpu_estimado": 10
+  },
+  {
+   "chave": "haiku",
+   "nome": "Claude Haiku 4.5",
+   "acesso": "API",
+   "preco_entrada_usd_por_milhao": 1.0,
+   "preco_saida_usd_por_milhao": 5.0,
+   "tokens_por_segundo_gpu_estimado": null
+  },
+  {
+   "chave": "sonnet",
+   "nome": "Claude Sonnet 5",
+   "acesso": "API",
+   "preco_entrada_usd_por_milhao": 2.0,
+   "preco_saida_usd_por_milhao": 10.0,
+   "tokens_por_segundo_gpu_estimado": null
+  }
+ ],
+ "casos": [
+  {
+   "id": "C1",
+   "titulo": "Cálculo com dois dados de cláusulas diferentes",
+   "degrau": "leitura e um cálculo"
+  },
+  {
+   "id": "C2",
+   "titulo": "Contradição por cálculo entre cláusulas distantes",
+   "degrau": "leitura e um cálculo"
+  },
+  {
+   "id": "C3",
+   "titulo": "Aditivo com mudança de valor no meio da vigência",
+   "degrau": "leitura e um cálculo"
+  },
+  {
+   "id": "C4",
+   "titulo": "Aditivo com regra própria de multa no período prorrogado",
+   "degrau": "leitura e um cálculo"
+  },
+  {
+   "id": "C5",
+   "titulo": "Dois aditivos com três trechos de valor e reajuste percentual",
+   "degrau": "aditivos e cadeia de cálculo"
+  },
+  {
+   "id": "C6",
+   "titulo": "Conflito latente entre aditivo e cláusula não alterada",
+   "degrau": "aditivos e cadeia de cálculo"
+  },
+  {
+   "id": "C7",
+   "titulo": "Cadeia de seis trechos com desconto, mensalidade proporcional e multa",
+   "degrau": "aditivos e cadeia de cálculo"
+  },
+  {
+   "id": "C8",
+   "titulo": "Reajuste composto com troca de índice e acréscimo fixo",
+   "degrau": "aditivos e cadeia de cálculo"
+  }
+ ],
+ "execucoes": [
+  {
+   "modelo": "haiku",
+   "caso": "C1",
+   "execucao": 1,
+   "acertou": true,
+   "tokens_entrada": 1050,
+   "tokens_saida": 195,
+   "segundos": 2.19
+  },
+  {
+   "modelo": "haiku",
+   "caso": "C2",
+   "execucao": 1,
+   "acertou": true,
+   "tokens_entrada": 1082,
+   "tokens_saida": 398,
+   "segundos": 3.81
+  },
+  {
+   "modelo": "haiku",
+   "caso": "C3",
+   "execucao": 1,
+   "acertou": true,
+   "tokens_entrada": 1319,
+   "tokens_saida": 338,
+   "segundos": 2.87
+  },
+  {
+   "modelo": "haiku",
+   "caso": "C4",
+   "execucao": 1,
+   "acertou": true,
+   "tokens_entrada": 1329,
+   "tokens_saida": 405,
+   "segundos": 3.89
+  },
+  {
+   "modelo": "haiku",
+   "caso": "C5",
+   "execucao": 1,
+   "acertou": true,
+   "tokens_entrada": 1570,
+   "tokens_saida": 449,
+   "segundos": 3.48
+  },
+  {
+   "modelo": "haiku",
+   "caso": "C6",
+   "execucao": 1,
+   "acertou": true,
+   "tokens_entrada": 1505,
+   "tokens_saida": 462,
+   "segundos": 4.86
+  },
+  {
+   "modelo": "haiku",
+   "caso": "C7",
+   "execucao": 1,
+   "acertou": false,
+   "tokens_entrada": 1935,
+   "tokens_saida": 675,
+   "segundos": 5.78
+  },
+  {
+   "modelo": "haiku",
+   "caso": "C7",
+   "execucao": 2,
+   "acertou": true,
+   "tokens_entrada": 1935,
+   "tokens_saida": 747,
+   "segundos": 5.99
+  },
+  {
+   "modelo": "haiku",
+   "caso": "C7",
+   "execucao": 3,
+   "acertou": false,
+   "tokens_entrada": 1935,
+   "tokens_saida": 887,
+   "segundos": 6.9
+  },
+  {
+   "modelo": "haiku",
+   "caso": "C7",
+   "execucao": 4,
+   "acertou": true,
+   "tokens_entrada": 1935,
+   "tokens_saida": 940,
+   "segundos": 7.35
+  },
+  {
+   "modelo": "haiku",
+   "caso": "C7",
+   "execucao": 5,
+   "acertou": false,
+   "tokens_entrada": 1935,
+   "tokens_saida": 975,
+   "segundos": 7.08
+  },
+  {
+   "modelo": "haiku",
+   "caso": "C8",
+   "execucao": 1,
+   "acertou": false,
+   "tokens_entrada": 1706,
+   "tokens_saida": 653,
+   "segundos": 5.21
+  },
+  {
+   "modelo": "haiku",
+   "caso": "C8",
+   "execucao": 2,
+   "acertou": false,
+   "tokens_entrada": 1706,
+   "tokens_saida": 799,
+   "segundos": 5.87
+  },
+  {
+   "modelo": "haiku",
+   "caso": "C8",
+   "execucao": 3,
+   "acertou": false,
+   "tokens_entrada": 1706,
+   "tokens_saida": 911,
+   "segundos": 6.66
+  },
+  {
+   "modelo": "haiku",
+   "caso": "C8",
+   "execucao": 4,
+   "acertou": false,
+   "tokens_entrada": 1706,
+   "tokens_saida": 878,
+   "segundos": 6.88
+  },
+  {
+   "modelo": "haiku",
+   "caso": "C8",
+   "execucao": 5,
+   "acertou": false,
+   "tokens_entrada": 1706,
+   "tokens_saida": 981,
+   "segundos": 7.45
+  },
+  {
+   "modelo": "qwen1.7",
+   "caso": "C1",
+   "execucao": 1,
+   "acertou": true,
+   "tokens_entrada": 964,
+   "tokens_saida": 169,
+   "segundos": 39.34
+  },
+  {
+   "modelo": "qwen1.7",
+   "caso": "C2",
+   "execucao": 1,
+   "acertou": false,
+   "tokens_entrada": 995,
+   "tokens_saida": 214,
+   "segundos": 45.24
+  },
+  {
+   "modelo": "qwen1.7",
+   "caso": "C3",
+   "execucao": 1,
+   "acertou": false,
+   "tokens_entrada": 1223,
+   "tokens_saida": 376,
+   "segundos": 71.02
+  },
+  {
+   "modelo": "qwen1.7",
+   "caso": "C4",
+   "execucao": 1,
+   "acertou": false,
+   "tokens_entrada": 1234,
+   "tokens_saida": 229,
+   "segundos": 52.92
+  },
+  {
+   "modelo": "qwen1.7",
+   "caso": "C5",
+   "execucao": 1,
+   "acertou": false,
+   "tokens_entrada": 1468,
+   "tokens_saida": 455,
+   "segundos": 91.05
+  },
+  {
+   "modelo": "qwen1.7",
+   "caso": "C6",
+   "execucao": 1,
+   "acertou": false,
+   "tokens_entrada": 1412,
+   "tokens_saida": 346,
+   "segundos": 72.48
+  },
+  {
+   "modelo": "qwen1.7",
+   "caso": "C7",
+   "execucao": 1,
+   "acertou": false,
+   "tokens_entrada": 1825,
+   "tokens_saida": 648,
+   "segundos": 132.56
+  },
+  {
+   "modelo": "qwen1.7",
+   "caso": "C8",
+   "execucao": 1,
+   "acertou": false,
+   "tokens_entrada": 1616,
+   "tokens_saida": 900,
+   "segundos": 152.75
+  },
+  {
+   "modelo": "qwen4",
+   "caso": "C1",
+   "execucao": 1,
+   "acertou": true,
+   "tokens_entrada": 964,
+   "tokens_saida": 149,
+   "segundos": 94.85
+  },
+  {
+   "modelo": "qwen4",
+   "caso": "C2",
+   "execucao": 1,
+   "acertou": false,
+   "tokens_entrada": 995,
+   "tokens_saida": 99,
+   "segundos": 70.72
+  },
+  {
+   "modelo": "qwen4",
+   "caso": "C3",
+   "execucao": 1,
+   "acertou": false,
+   "tokens_entrada": 1223,
+   "tokens_saida": 263,
+   "segundos": 131.53
+  },
+  {
+   "modelo": "qwen4",
+   "caso": "C4",
+   "execucao": 1,
+   "acertou": true,
+   "tokens_entrada": 1234,
+   "tokens_saida": 126,
+   "segundos": 95.78
+  },
+  {
+   "modelo": "qwen4",
+   "caso": "C5",
+   "execucao": 1,
+   "acertou": false,
+   "tokens_entrada": 1468,
+   "tokens_saida": 307,
+   "segundos": 161.36
+  },
+  {
+   "modelo": "qwen4",
+   "caso": "C6",
+   "execucao": 1,
+   "acertou": false,
+   "tokens_entrada": 1412,
+   "tokens_saida": 175,
+   "segundos": 121.82
+  },
+  {
+   "modelo": "qwen4",
+   "caso": "C7",
+   "execucao": 1,
+   "acertou": false,
+   "tokens_entrada": 1825,
+   "tokens_saida": 704,
+   "segundos": 301.58
+  },
+  {
+   "modelo": "qwen4",
+   "caso": "C8",
+   "execucao": 1,
+   "acertou": false,
+   "tokens_entrada": 1616,
+   "tokens_saida": 195,
+   "segundos": 143.98
+  },
+  {
+   "modelo": "sonnet",
+   "caso": "C1",
+   "execucao": 1,
+   "acertou": true,
+   "tokens_entrada": 1440,
+   "tokens_saida": 240,
+   "segundos": 2.92
+  },
+  {
+   "modelo": "sonnet",
+   "caso": "C2",
+   "execucao": 1,
+   "acertou": true,
+   "tokens_entrada": 1482,
+   "tokens_saida": 369,
+   "segundos": 4.13
+  },
+  {
+   "modelo": "sonnet",
+   "caso": "C3",
+   "execucao": 1,
+   "acertou": true,
+   "tokens_entrada": 1798,
+   "tokens_saida": 419,
+   "segundos": 5.23
+  },
+  {
+   "modelo": "sonnet",
+   "caso": "C4",
+   "execucao": 1,
+   "acertou": true,
+   "tokens_entrada": 1813,
+   "tokens_saida": 487,
+   "segundos": 5.49
+  },
+  {
+   "modelo": "sonnet",
+   "caso": "C5",
+   "execucao": 1,
+   "acertou": true,
+   "tokens_entrada": 2102,
+   "tokens_saida": 923,
+   "segundos": 8.01
+  },
+  {
+   "modelo": "sonnet",
+   "caso": "C6",
+   "execucao": 1,
+   "acertou": true,
+   "tokens_entrada": 2043,
+   "tokens_saida": 532,
+   "segundos": 7.25
+  },
+  {
+   "modelo": "sonnet",
+   "caso": "C7",
+   "execucao": 1,
+   "acertou": true,
+   "tokens_entrada": 2577,
+   "tokens_saida": 3017,
+   "segundos": 24.02
+  },
+  {
+   "modelo": "sonnet",
+   "caso": "C7",
+   "execucao": 2,
+   "acertou": true,
+   "tokens_entrada": 2577,
+   "tokens_saida": 2133,
+   "segundos": 16.56
+  },
+  {
+   "modelo": "sonnet",
+   "caso": "C7",
+   "execucao": 3,
+   "acertou": true,
+   "tokens_entrada": 2577,
+   "tokens_saida": 2795,
+   "segundos": 23.08
+  },
+  {
+   "modelo": "sonnet",
+   "caso": "C7",
+   "execucao": 4,
+   "acertou": true,
+   "tokens_entrada": 2577,
+   "tokens_saida": 2380,
+   "segundos": 17.99
+  },
+  {
+   "modelo": "sonnet",
+   "caso": "C7",
+   "execucao": 5,
+   "acertou": true,
+   "tokens_entrada": 2577,
+   "tokens_saida": 3005,
+   "segundos": 22.9
+  },
+  {
+   "modelo": "sonnet",
+   "caso": "C8",
+   "execucao": 1,
+   "acertou": true,
+   "tokens_entrada": 2292,
+   "tokens_saida": 1706,
+   "segundos": 15.35
+  },
+  {
+   "modelo": "sonnet",
+   "caso": "C8",
+   "execucao": 2,
+   "acertou": true,
+   "tokens_entrada": 2292,
+   "tokens_saida": 1628,
+   "segundos": 14.76
+  },
+  {
+   "modelo": "sonnet",
+   "caso": "C8",
+   "execucao": 3,
+   "acertou": true,
+   "tokens_entrada": 2292,
+   "tokens_saida": 1505,
+   "segundos": 14.3
+  },
+  {
+   "modelo": "sonnet",
+   "caso": "C8",
+   "execucao": 4,
+   "acertou": true,
+   "tokens_entrada": 2292,
+   "tokens_saida": 1940,
+   "segundos": 17.82
+  },
+  {
+   "modelo": "sonnet",
+   "caso": "C8",
+   "execucao": 5,
+   "acertou": true,
+   "tokens_entrada": 2292,
+   "tokens_saida": 1440,
+   "segundos": 15.08
+  }
+ ]
+}
