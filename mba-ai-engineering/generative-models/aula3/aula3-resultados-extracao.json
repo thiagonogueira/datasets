@@ -1,0 +1,51 @@
+{
+ "descricao": "Tarefas aceitas no teste final da preparação da aula: 12 documentos por tipo, da família de redação D, ausente do treino e da validação.",
+ "documentos_por_tipo": 12,
+ "sistemas": [
+  {
+   "sistema": "Qwen3-1.7B sem ajuste",
+   "condicao": "modelo base com pesos em 4 bits, sem ajuste",
+   "aceitas": {
+    "servicos": 7,
+    "societario": 7,
+    "matricula": 0
+   }
+  },
+  {
+   "sistema": "Qwen3-1.7B ajustado",
+   "condicao": "QLoRA com pesos em NF4, 240 exemplos dos três tipos, duas épocas, execução em GPU A100",
+   "aceitas": {
+    "servicos": 12,
+    "societario": 10,
+    "matricula": 11
+   }
+  },
+  {
+   "sistema": "Qwen3-8B ajustado",
+   "condicao": "LoRA com pesos em bf16, mesmos exemplos e épocas, execução em GPU A100",
+   "aceitas": {
+    "servicos": 12,
+    "societario": 12,
+    "matricula": 11
+   }
+  },
+  {
+   "sistema": "Claude Haiku 4.5",
+   "condicao": "sem ajuste, por API, com o mesmo prompt de extração e sem exemplos",
+   "aceitas": {
+    "servicos": 12,
+    "societario": 12,
+    "matricula": 10
+   }
+  },
+  {
+   "sistema": "Claude Sonnet 5",
+   "condicao": "sem ajuste, por API, com o mesmo prompt de extração e sem exemplos. O Sonnet 5 também redigiu os documentos",
+   "aceitas": {
+    "servicos": 12,
+    "societario": 12,
+    "matricula": 9
+   }
+  }
+ ]
+}
