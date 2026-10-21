@@ -1,0 +1,130 @@
+[
+ {
+  "id": "V01",
+  "texto": "CONTRATO DE PRESTAÇÃO DE SERVIÇOS\n\nCONTRATANTE: Marina Lopes Siqueira, CPF 813.998.698-79, residente em Ribeirão Preto/SP.\nCONTRATADA: Vetor Serviços Empresariais Ltda., CNPJ 73.091.141/0001-70.\n\nCLÁUSULA 1ª. OBJETO. A CONTRATADA prestará ao CONTRATANTE serviços de manutenção predial, conforme escopo descrito no Anexo I.\nCLÁUSULA 2ª. VIGÊNCIA. O presente contrato vigorará por 24 meses, com início em 27/11/2026.\nCLÁUSULA 3ª. REMUNERAÇÃO. O CONTRATANTE pagará à CONTRATADA o valor mensal de R$ 9.800,00.\nCLÁUSULA 4ª. FORMA DE PAGAMENTO. O pagamento será efetuado por transferência bancária até o dia 10 de cada mês, mediante nota fiscal emitida até o dia 25.\nCLÁUSULA 5ª. REAJUSTE. O valor mensal será reajustado a cada 12 meses pela variação acumulada do IPCA.\nCLÁUSULA 6ª. DESPESAS. Despesas de deslocamento fora do município de Ribeirão Preto/SP serão reembolsadas mediante comprovante, até o limite de R$ 1.550,00 por mês.\nCLÁUSULA 7ª. RESCISÃO. Qualquer das partes poderá rescindir este contrato mediante aviso prévio de 45 dias, por escrito.\nCLÁUSULA 8ª. MULTA POR ATRASO. O atraso no pagamento sujeita o CONTRATANTE a multa de 2% sobre o valor da parcela em atraso, acrescida de juros de 1% ao mês.\nCLÁUSULA 9ª. MULTA RESCISÓRIA. A rescisão imotivada antes do término da vigência obriga a parte que rescindir ao pagamento de multa equivalente a 2 mensalidades.\nCLÁUSULA 10ª. SIGILO. A CONTRATADA manterá sigilo sobre as informações do CONTRATANTE por 5 anos após o término do contrato.\nCLÁUSULA 11ª. FORO. Fica eleito o foro da comarca de Ribeirão Preto/SP para dirimir controvérsias.",
+  "referencia": {
+   "nome": "Marina Lopes Siqueira",
+   "cpf": "81399869879",
+   "cnpj": "73091141000170",
+   "inicio": "2026-11-27",
+   "prazo_meses": 24,
+   "valor_mensal": 9800.0,
+   "dia_pagamento": 10,
+   "limite_despesas": 1550.0,
+   "aviso_previo_dias": 45,
+   "multa_rescisoria_mensalidades": 2
+  }
+ },
+ {
+  "id": "V02",
+  "texto": "CONTRATO DE PRESTAÇÃO DE SERVIÇOS\n\nCONTRATANTE: Renata Souza Albuquerque, CPF 151.884.472-94, residente em Ribeirão Preto/SP.\nCONTRATADA: Prisma Engenharia S.A., CNPJ 05.576.169/0001-87.\n\nCLÁUSULA 1ª. OBJETO. A CONTRATADA prestará ao CONTRATANTE serviços de auditoria de processos, conforme escopo descrito no Anexo I.\nCLÁUSULA 2ª. VIGÊNCIA. O presente contrato vigorará por 24 meses, com início em 28/02/2026.\nCLÁUSULA 3ª. REMUNERAÇÃO. O CONTRATANTE pagará à CONTRATADA o valor mensal de R$ 14.750,00.\nCLÁUSULA 4ª. FORMA DE PAGAMENTO. O pagamento será efetuado por transferência bancária até o dia 20 de cada mês, mediante nota fiscal emitida até o dia 25.\nCLÁUSULA 5ª. REAJUSTE. O valor mensal será reajustado a cada 12 meses pela variação acumulada do IPCA.\nCLÁUSULA 6ª. DESPESAS. Despesas de deslocamento fora do município de Ribeirão Preto/SP serão reembolsadas mediante comprovante, até o limite de R$ 1.550,00 por mês.\nCLÁUSULA 7ª. RESCISÃO. Qualquer das partes poderá rescindir este contrato mediante aviso prévio de 90 dias, por escrito.\nCLÁUSULA 8ª. MULTA POR ATRASO. O atraso no pagamento sujeita o CONTRATANTE a multa de 2% sobre o valor da parcela em atraso, acrescida de juros de 1% ao mês.\nCLÁUSULA 9ª. MULTA RESCISÓRIA. A rescisão imotivada antes do término da vigência obriga a parte que rescindir ao pagamento de multa equivalente a 2 mensalidades.\nCLÁUSULA 10ª. SIGILO. A CONTRATADA manterá sigilo sobre as informações do CONTRATANTE por 5 anos após o término do contrato.\nCLÁUSULA 11ª. FORO. Fica eleito o foro da comarca de Ribeirão Preto/SP para dirimir controvérsias.",
+  "referencia": {
+   "nome": "Renata Souza Albuquerque",
+   "cpf": "15188447294",
+   "cnpj": "05576169000187",
+   "inicio": "2026-02-28",
+   "prazo_meses": 24,
+   "valor_mensal": 14750.0,
+   "dia_pagamento": 20,
+   "limite_despesas": 1550.0,
+   "aviso_previo_dias": 90,
+   "multa_rescisoria_mensalidades": 2
+  }
+ },
+ {
+  "id": "V03",
+  "texto": "CONTRATO DE PRESTAÇÃO DE SERVIÇOS\n\nCONTRATANTE: Carlos Eduardo Teixeira, CPF 880.932.081-96, residente em Sorocaba/SP.\nCONTRATADA: Norte Soluções em Gestão Ltda., CNPJ 72.731.778/0001-48.\n\nCLÁUSULA 1ª. OBJETO. A CONTRATADA prestará ao CONTRATANTE serviços de suporte de tecnologia da informação, conforme escopo descrito no Anexo I.\nCLÁUSULA 2ª. VIGÊNCIA. O presente contrato vigorará por 18 meses, com início em 13/11/2026.\nCLÁUSULA 3ª. REMUNERAÇÃO. O CONTRATANTE pagará à CONTRATADA o valor mensal de R$ 15.800,00.\nCLÁUSULA 4ª. FORMA DE PAGAMENTO. O pagamento será efetuado por transferência bancária até o dia 20 de cada mês, mediante nota fiscal emitida até o dia 25.\nCLÁUSULA 5ª. REAJUSTE. O valor mensal será reajustado a cada 12 meses pela variação acumulada do IPCA.\nCLÁUSULA 6ª. DESPESAS. Despesas de deslocamento fora do município de Sorocaba/SP serão reembolsadas mediante comprovante, até o limite de R$ 1.550,00 por mês.\nCLÁUSULA 7ª. RESCISÃO. Qualquer das partes poderá rescindir este contrato mediante aviso prévio de 60 dias, por escrito.\nCLÁUSULA 8ª. MULTA POR ATRASO. O atraso no pagamento sujeita o CONTRATANTE a multa de 2% sobre o valor da parcela em atraso, acrescida de juros de 1% ao mês.\nCLÁUSULA 9ª. MULTA RESCISÓRIA. A rescisão imotivada antes do término da vigência obriga a parte que rescindir ao pagamento de multa equivalente a 1 mensalidade.\nCLÁUSULA 10ª. SIGILO. A CONTRATADA manterá sigilo sobre as informações do CONTRATANTE por 5 anos após o término do contrato.\nCLÁUSULA 11ª. FORO. Fica eleito o foro da comarca de Sorocaba/SP para dirimir controvérsias.",
+  "referencia": {
+   "nome": "Carlos Eduardo Teixeira",
+   "cpf": "88093208196",
+   "cnpj": "72731778000148",
+   "inicio": "2026-11-13",
+   "prazo_meses": 18,
+   "valor_mensal": 15800.0,
+   "dia_pagamento": 20,
+   "limite_despesas": 1550.0,
+   "aviso_previo_dias": 60,
+   "multa_rescisoria_mensalidades": 1
+  }
+ },
+ {
+  "id": "V04",
+  "texto": "CONTRATO DE PRESTAÇÃO DE SERVIÇOS\n\nCONTRATANTE: Patrícia Moura Nogueira, CPF 029.787.534-77, residente em Campinas/SP.\nCONTRATADA: Prisma Engenharia S.A., CNPJ 87.680.457/0001-17.\n\nCLÁUSULA 1ª. OBJETO. A CONTRATADA prestará ao CONTRATANTE serviços de manutenção predial, conforme escopo descrito no Anexo I.\nCLÁUSULA 2ª. VIGÊNCIA. O presente contrato vigorará por 36 meses, com início em 23/12/2026.\nCLÁUSULA 3ª. REMUNERAÇÃO. O CONTRATANTE pagará à CONTRATADA o valor mensal de R$ 8.400,00.\nCLÁUSULA 4ª. FORMA DE PAGAMENTO. O pagamento será efetuado por transferência bancária até o dia 20 de cada mês, mediante nota fiscal emitida até o dia 25.\nCLÁUSULA 5ª. REAJUSTE. O valor mensal será reajustado a cada 12 meses pela variação acumulada do IPCA.\nCLÁUSULA 6ª. DESPESAS. Despesas de deslocamento fora do município de Campinas/SP serão reembolsadas mediante comprovante, até o limite de R$ 850,00 por mês.\nCLÁUSULA 7ª. RESCISÃO. Qualquer das partes poderá rescindir este contrato mediante aviso prévio de 60 dias, por escrito.\nCLÁUSULA 8ª. MULTA POR ATRASO. O atraso no pagamento sujeita o CONTRATANTE a multa de 2% sobre o valor da parcela em atraso, acrescida de juros de 1% ao mês.\nCLÁUSULA 9ª. MULTA RESCISÓRIA. A rescisão imotivada antes do término da vigência obriga a parte que rescindir ao pagamento de multa equivalente a 3 mensalidades.\nCLÁUSULA 10ª. SIGILO. A CONTRATADA manterá sigilo sobre as informações do CONTRATANTE por 5 anos após o término do contrato.\nCLÁUSULA 11ª. FORO. Fica eleito o foro da comarca de Campinas/SP para dirimir controvérsias.",
+  "referencia": {
+   "nome": "Patrícia Moura Nogueira",
+   "cpf": "02978753477",
+   "cnpj": "87680457000117",
+   "inicio": "2026-12-23",
+   "prazo_meses": 36,
+   "valor_mensal": 8400.0,
+   "dia_pagamento": 20,
+   "limite_despesas": 850.0,
+   "aviso_previo_dias": 60,
+   "multa_rescisoria_mensalidades": 3
+  }
+ },
+ {
+  "id": "V05",
+  "texto": "CONTRATO DE PRESTAÇÃO DE SERVIÇOS\n\nCONTRATANTE: Fernando Batista Rocha, CPF 751.362.701-07, residente em Santos/SP.\nCONTRATADA: Norte Soluções em Gestão Ltda., CNPJ 98.193.319/0001-08.\n\nCLÁUSULA 1ª. OBJETO. A CONTRATADA prestará ao CONTRATANTE serviços de consultoria financeira, conforme escopo descrito no Anexo I.\nCLÁUSULA 2ª. VIGÊNCIA. O presente contrato vigorará por 18 meses, com início em 09/11/2026.\nCLÁUSULA 3ª. REMUNERAÇÃO. O CONTRATANTE pagará à CONTRATADA o valor mensal de R$ 5.750,00.\nCLÁUSULA 4ª. FORMA DE PAGAMENTO. O pagamento será efetuado por transferência bancária até o dia 5 de cada mês, mediante nota fiscal emitida até o dia 25.\nCLÁUSULA 5ª. REAJUSTE. O valor mensal será reajustado a cada 12 meses pela variação acumulada do IPCA.\nCLÁUSULA 6ª. DESPESAS. Despesas de deslocamento fora do município de Santos/SP serão reembolsadas mediante comprovante, até o limite de R$ 1.300,00 por mês.\nCLÁUSULA 7ª. RESCISÃO. Qualquer das partes poderá rescindir este contrato mediante aviso prévio de 90 dias, por escrito.\nCLÁUSULA 8ª. MULTA POR ATRASO. O atraso no pagamento sujeita o CONTRATANTE a multa de 2% sobre o valor da parcela em atraso, acrescida de juros de 1% ao mês.\nCLÁUSULA 9ª. MULTA RESCISÓRIA. A rescisão imotivada antes do término da vigência obriga a parte que rescindir ao pagamento de multa equivalente a 3 mensalidades.\nCLÁUSULA 10ª. SIGILO. A CONTRATADA manterá sigilo sobre as informações do CONTRATANTE por 5 anos após o término do contrato.\nCLÁUSULA 11ª. FORO. Fica eleito o foro da comarca de Santos/SP para dirimir controvérsias.",
+  "referencia": {
+   "nome": "Fernando Batista Rocha",
+   "cpf": "75136270107",
+   "cnpj": "98193319000108",
+   "inicio": "2026-11-09",
+   "prazo_meses": 18,
+   "valor_mensal": 5750.0,
+   "dia_pagamento": 5,
+   "limite_despesas": 1300.0,
+   "aviso_previo_dias": 90,
+   "multa_rescisoria_mensalidades": 3
+  }
+ },
+ {
+  "id": "V06",
+  "texto": "CONTRATO DE PRESTAÇÃO DE SERVIÇOS\n\nCONTRATANTE: Juliana Ferraz Monteiro, CPF 837.929.841-62, residente em São Paulo/SP.\nCONTRATADA: Norte Soluções em Gestão Ltda., CNPJ 29.486.628/0001-36.\n\nCLÁUSULA 1ª. OBJETO. A CONTRATADA prestará ao CONTRATANTE serviços de assessoria tributária, conforme escopo descrito no Anexo I.\nCLÁUSULA 2ª. VIGÊNCIA. O presente contrato vigorará por 24 meses, com início em 01/02/2026.\nCLÁUSULA 3ª. REMUNERAÇÃO. O CONTRATANTE pagará à CONTRATADA o valor mensal de R$ 3.650,00.\nCLÁUSULA 4ª. FORMA DE PAGAMENTO. O pagamento será efetuado por transferência bancária até o dia 5 de cada mês, mediante nota fiscal emitida até o dia 25.\nCLÁUSULA 5ª. REAJUSTE. O valor mensal será reajustado a cada 12 meses pela variação acumulada do IPCA.\nCLÁUSULA 6ª. DESPESAS. Despesas de deslocamento fora do município de São Paulo/SP serão reembolsadas mediante comprovante, até o limite de R$ 1.400,00 por mês.\nCLÁUSULA 7ª. RESCISÃO. Qualquer das partes poderá rescindir este contrato mediante aviso prévio de 45 dias, por escrito.\nCLÁUSULA 8ª. MULTA POR ATRASO. O atraso no pagamento sujeita o CONTRATANTE a multa de 2% sobre o valor da parcela em atraso, acrescida de juros de 1% ao mês.\nCLÁUSULA 9ª. MULTA RESCISÓRIA. A rescisão imotivada antes do término da vigência obriga a parte que rescindir ao pagamento de multa equivalente a 1 mensalidade.\nCLÁUSULA 10ª. SIGILO. A CONTRATADA manterá sigilo sobre as informações do CONTRATANTE por 5 anos após o término do contrato.\nCLÁUSULA 11ª. FORO. Fica eleito o foro da comarca de São Paulo/SP para dirimir controvérsias.",
+  "referencia": {
+   "nome": "Juliana Ferraz Monteiro",
+   "cpf": "83792984162",
+   "cnpj": "29486628000136",
+   "inicio": "2026-02-01",
+   "prazo_meses": 24,
+   "valor_mensal": 3650.0,
+   "dia_pagamento": 5,
+   "limite_despesas": 1400.0,
+   "aviso_previo_dias": 45,
+   "multa_rescisoria_mensalidades": 1
+  }
+ },
+ {
+  "id": "V07",
+  "texto": "CONTRATO DE PRESTAÇÃO DE SERVIÇOS\n\nCONTRATANTE: Ricardo Almeida Pacheco, CPF 547.517.799-22, residente em Sorocaba/SP.\nCONTRATADA: Vetor Serviços Empresariais Ltda., CNPJ 98.369.579/0001-31.\n\nCLÁUSULA 1ª. OBJETO. A CONTRATADA prestará ao CONTRATANTE serviços de suporte de tecnologia da informação, conforme escopo descrito no Anexo I.\nCLÁUSULA 2ª. VIGÊNCIA. O presente contrato vigorará por 6 meses, com início em 18/07/2026.\nCLÁUSULA 3ª. REMUNERAÇÃO. O CONTRATANTE pagará à CONTRATADA o valor mensal de R$ 6.800,00.\nCLÁUSULA 4ª. FORMA DE PAGAMENTO. O pagamento será efetuado por transferência bancária até o dia 10 de cada mês, mediante nota fiscal emitida até o dia 25.\nCLÁUSULA 5ª. REAJUSTE. O valor mensal será reajustado a cada 12 meses pela variação acumulada do IPCA.\nCLÁUSULA 6ª. DESPESAS. Despesas de deslocamento fora do município de Sorocaba/SP serão reembolsadas mediante comprovante, até o limite de R$ 400,00 por mês.\nCLÁUSULA 7ª. RESCISÃO. Qualquer das partes poderá rescindir este contrato mediante aviso prévio de 90 dias, por escrito.\nCLÁUSULA 8ª. MULTA POR ATRASO. O atraso no pagamento sujeita o CONTRATANTE a multa de 2% sobre o valor da parcela em atraso, acrescida de juros de 1% ao mês.\nCLÁUSULA 9ª. MULTA RESCISÓRIA. A rescisão imotivada antes do término da vigência obriga a parte que rescindir ao pagamento de multa equivalente a 1 mensalidade.\nCLÁUSULA 10ª. SIGILO. A CONTRATADA manterá sigilo sobre as informações do CONTRATANTE por 5 anos após o término do contrato.\nCLÁUSULA 11ª. FORO. Fica eleito o foro da comarca de Sorocaba/SP para dirimir controvérsias.",
+  "referencia": {
+   "nome": "Ricardo Almeida Pacheco",
+   "cpf": "54751779922",
+   "cnpj": "98369579000131",
+   "inicio": "2026-07-18",
+   "prazo_meses": 6,
+   "valor_mensal": 6800.0,
+   "dia_pagamento": 10,
+   "limite_despesas": 400.0,
+   "aviso_previo_dias": 90,
+   "multa_rescisoria_mensalidades": 1
+  }
+ },
+ {
+  "id": "V08",
+  "texto": "CONTRATO DE PRESTAÇÃO DE SERVIÇOS\n\nCONTRATANTE: Beatriz Campos Vilela, CPF 702.838.222-64, residente em São Paulo/SP.\nCONTRATADA: Norte Soluções em Gestão Ltda., CNPJ 68.616.425/0001-24.\n\nCLÁUSULA 1ª. OBJETO. A CONTRATADA prestará ao CONTRATANTE serviços de assessoria tributária, conforme escopo descrito no Anexo I.\nCLÁUSULA 2ª. VIGÊNCIA. O presente contrato vigorará por 24 meses, com início em 15/08/2026.\nCLÁUSULA 3ª. REMUNERAÇÃO. O CONTRATANTE pagará à CONTRATADA o valor mensal de R$ 9.150,00.\nCLÁUSULA 4ª. FORMA DE PAGAMENTO. O pagamento será efetuado por transferência bancária até o dia 20 de cada mês, mediante nota fiscal emitida até o dia 25.\nCLÁUSULA 5ª. REAJUSTE. O valor mensal será reajustado a cada 12 meses pela variação acumulada do IPCA.\nCLÁUSULA 6ª. DESPESAS. Despesas de deslocamento fora do município de São Paulo/SP serão reembolsadas mediante comprovante, até o limite de R$ 850,00 por mês.\nCLÁUSULA 7ª. RESCISÃO. Qualquer das partes poderá rescindir este contrato mediante aviso prévio de 45 dias, por escrito.\nCLÁUSULA 8ª. MULTA POR ATRASO. O atraso no pagamento sujeita o CONTRATANTE a multa de 2% sobre o valor da parcela em atraso, acrescida de juros de 1% ao mês.\nCLÁUSULA 9ª. MULTA RESCISÓRIA. A rescisão imotivada antes do término da vigência obriga a parte que rescindir ao pagamento de multa equivalente a 3 mensalidades.\nCLÁUSULA 10ª. SIGILO. A CONTRATADA manterá sigilo sobre as informações do CONTRATANTE por 5 anos após o término do contrato.\nCLÁUSULA 11ª. FORO. Fica eleito o foro da comarca de São Paulo/SP para dirimir controvérsias.",
+  "referencia": {
+   "nome": "Beatriz Campos Vilela",
+   "cpf": "70283822264",
+   "cnpj": "68616425000124",
+   "inicio": "2026-08-15",
+   "prazo_meses": 24,
+   "valor_mensal": 9150.0,
+   "dia_pagamento": 20,
+   "limite_despesas": 850.0,
+   "aviso_previo_dias": 45,
+   "multa_rescisoria_mensalidades": 3
+  }
+ }
+]
