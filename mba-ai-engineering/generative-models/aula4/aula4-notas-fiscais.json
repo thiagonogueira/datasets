@@ -1,0 +1,152 @@
+[
+ {
+  "id": "N01",
+  "texto": "PREFEITURA DO MUNICÍPIO DE RIBEIRÃO PRETO\nNOTA FISCAL DE SERVIÇOS ELETRÔNICA (NFS-e)\nNúmero da nota: 10985   Data de emissão: 15/12/2026   Código de verificação: 4DYDG66J\nPRESTADOR: Lume Tecnologia da Informação Ltda., CNPJ 40.886.722/0001-08\nTOMADOR: Marina Lopes Siqueira, CPF 081.786.638-69\nDISCRIMINAÇÃO DOS SERVIÇOS: Projeto de instalações elétricas\nValor dos serviços: R$ 14.378,27   Alíquota do ISS: 5,0%   Valor do ISS: R$ 718,91   Valor líquido: R$ 13.659,36",
+  "referencia": {
+   "numero_nota": 10985,
+   "data_emissao": "2026-12-15",
+   "codigo_verificacao": "4DYDG66J",
+   "cnpj_prestador": "40886722000108",
+   "cpf_tomador": "08178663869",
+   "valor_servicos": 14378.27,
+   "aliquota_iss": 5.0,
+   "valor_iss": 718.91,
+   "valor_liquido": 13659.36
+  }
+ },
+ {
+  "id": "N02",
+  "texto": "PREFEITURA DO MUNICÍPIO DE SOROCABA\nNOTA FISCAL DE SERVIÇOS ELETRÔNICA (NFS-e)\nNúmero da nota: 69169   Data de emissão: 27/10/2026   Código de verificação: TF92ZASQ\nPRESTADOR: Norte Soluções em Gestão Ltda., CNPJ 82.027.904/0001-03\nTOMADOR: Renata Souza Albuquerque, CPF 779.336.364-92\nDISCRIMINAÇÃO DOS SERVIÇOS: Suporte técnico em informática\nValor dos serviços: R$ 4.376,20   Alíquota do ISS: 2,0%   Valor do ISS: R$ 87,52   Valor líquido: R$ 4.288,68",
+  "referencia": {
+   "numero_nota": 69169,
+   "data_emissao": "2026-10-27",
+   "codigo_verificacao": "TF92ZASQ",
+   "cnpj_prestador": "82027904000103",
+   "cpf_tomador": "77933636492",
+   "valor_servicos": 4376.2,
+   "aliquota_iss": 2.0,
+   "valor_iss": 87.52,
+   "valor_liquido": 4288.68
+  }
+ },
+ {
+  "id": "N03",
+  "texto": "PREFEITURA DO MUNICÍPIO DE RIBEIRÃO PRETO\nNOTA FISCAL DE SERVIÇOS ELETRÔNICA (NFS-e)\nNúmero da nota: 99224   Data de emissão: 22/07/2026   Código de verificação: E9AACF46\nPRESTADOR: Norte Soluções em Gestão Ltda., CNPJ 76.056.288/0001-28\nTOMADOR: Carlos Eduardo Teixeira, CPF 361.825.211-49\nDISCRIMINAÇÃO DOS SERVIÇOS: Projeto de instalações elétricas\nValor dos serviços: R$ 7.441,79   Alíquota do ISS: 3,0%   Valor do ISS: R$ 223,25   Valor líquido: R$ 7.218,54",
+  "referencia": {
+   "numero_nota": 99224,
+   "data_emissao": "2026-07-22",
+   "codigo_verificacao": "E9AACF46",
+   "cnpj_prestador": "76056288000128",
+   "cpf_tomador": "36182521149",
+   "valor_servicos": 7441.79,
+   "aliquota_iss": 3.0,
+   "valor_iss": 223.25,
+   "valor_liquido": 7218.54
+  }
+ },
+ {
+  "id": "N04",
+  "texto": "PREFEITURA DO MUNICÍPIO DE SOROCABA\nNOTA FISCAL DE SERVIÇOS ELETRÔNICA (NFS-e)\nNúmero da nota: 73745   Data de emissão: 11/12/2026   Código de verificação: 4838L8TB\nPRESTADOR: Prisma Engenharia S.A., CNPJ 47.610.141/0001-85\nTOMADOR: Patrícia Moura Nogueira, CPF 103.320.835-94\nDISCRIMINAÇÃO DOS SERVIÇOS: Manutenção preventiva de ar-condicionado\nValor dos serviços: R$ 3.227,64   Alíquota do ISS: 2,5%   Valor do ISS: R$ 80,69   Valor líquido: R$ 3.146,95",
+  "referencia": {
+   "numero_nota": 73745,
+   "data_emissao": "2026-12-11",
+   "codigo_verificacao": "4838L8TB",
+   "cnpj_prestador": "47610141000185",
+   "cpf_tomador": "10332083594",
+   "valor_servicos": 3227.64,
+   "aliquota_iss": 2.5,
+   "valor_iss": 80.69,
+   "valor_liquido": 3146.95
+  }
+ },
+ {
+  "id": "N05",
+  "texto": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO\nNOTA FISCAL DE SERVIÇOS ELETRÔNICA (NFS-e)\nNúmero da nota: 66545   Data de emissão: 10/11/2026   Código de verificação: 43QCW7K4\nPRESTADOR: Vetor Serviços Empresariais Ltda., CNPJ 51.051.067/0001-77\nTOMADOR: Fernando Batista Rocha, CPF 075.786.290-02\nDISCRIMINAÇÃO DOS SERVIÇOS: Manutenção preventiva de ar-condicionado\nValor dos serviços: R$ 22.220,04   Alíquota do ISS: 2,5%   Valor do ISS: R$ 555,50   Valor líquido: R$ 21.664,54",
+  "referencia": {
+   "numero_nota": 66545,
+   "data_emissao": "2026-11-10",
+   "codigo_verificacao": "43QCW7K4",
+   "cnpj_prestador": "51051067000177",
+   "cpf_tomador": "07578629002",
+   "valor_servicos": 22220.04,
+   "aliquota_iss": 2.5,
+   "valor_iss": 555.5,
+   "valor_liquido": 21664.54
+  }
+ },
+ {
+  "id": "N06",
+  "texto": "PREFEITURA DO MUNICÍPIO DE SOROCABA\nNOTA FISCAL DE SERVIÇOS ELETRÔNICA (NFS-e)\nNúmero da nota: 53437   Data de emissão: 12/03/2026   Código de verificação: KNT2NL2P\nPRESTADOR: Prisma Engenharia S.A., CNPJ 67.645.141/0001-85\nTOMADOR: Juliana Ferraz Monteiro, CPF 452.410.372-66\nDISCRIMINAÇÃO DOS SERVIÇOS: Manutenção preventiva de ar-condicionado\nValor dos serviços: R$ 4.744,17   Alíquota do ISS: 2,5%   Valor do ISS: R$ 118,60   Valor líquido: R$ 4.625,57",
+  "referencia": {
+   "numero_nota": 53437,
+   "data_emissao": "2026-03-12",
+   "codigo_verificacao": "KNT2NL2P",
+   "cnpj_prestador": "67645141000185",
+   "cpf_tomador": "45241037266",
+   "valor_servicos": 4744.17,
+   "aliquota_iss": 2.5,
+   "valor_iss": 118.6,
+   "valor_liquido": 4625.57
+  }
+ },
+ {
+  "id": "N07",
+  "texto": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO\nNOTA FISCAL DE SERVIÇOS ELETRÔNICA (NFS-e)\nNúmero da nota: 82961   Data de emissão: 16/09/2026   Código de verificação: BXKL5FAE\nPRESTADOR: Sul Manutenção Predial Ltda., CNPJ 18.235.873/0001-69\nTOMADOR: Ricardo Almeida Pacheco, CPF 847.786.978-08\nDISCRIMINAÇÃO DOS SERVIÇOS: Projeto de instalações elétricas\nValor dos serviços: R$ 19.767,27   Alíquota do ISS: 2,0%   Valor do ISS: R$ 395,35   Valor líquido: R$ 19.371,92",
+  "referencia": {
+   "numero_nota": 82961,
+   "data_emissao": "2026-09-16",
+   "codigo_verificacao": "BXKL5FAE",
+   "cnpj_prestador": "18235873000169",
+   "cpf_tomador": "84778697808",
+   "valor_servicos": 19767.27,
+   "aliquota_iss": 2.0,
+   "valor_iss": 395.35,
+   "valor_liquido": 19371.92
+  }
+ },
+ {
+  "id": "N08",
+  "texto": "PREFEITURA DO MUNICÍPIO DE CAMPINAS\nNOTA FISCAL DE SERVIÇOS ELETRÔNICA (NFS-e)\nNúmero da nota: 79697   Data de emissão: 17/09/2026   Código de verificação: ZVX6CWD7\nPRESTADOR: Vetor Serviços Empresariais Ltda., CNPJ 06.688.131/0001-13\nTOMADOR: Beatriz Campos Vilela, CPF 109.112.701-44\nDISCRIMINAÇÃO DOS SERVIÇOS: Assessoria tributária mensal\nValor dos serviços: R$ 8.434,99   Alíquota do ISS: 2,0%   Valor do ISS: R$ 168,70   Valor líquido: R$ 8.266,29",
+  "referencia": {
+   "numero_nota": 79697,
+   "data_emissao": "2026-09-17",
+   "codigo_verificacao": "ZVX6CWD7",
+   "cnpj_prestador": "06688131000113",
+   "cpf_tomador": "10911270144",
+   "valor_servicos": 8434.99,
+   "aliquota_iss": 2.0,
+   "valor_iss": 168.7,
+   "valor_liquido": 8266.29
+  }
+ },
+ {
+  "id": "N09",
+  "texto": "PREFEITURA DO MUNICÍPIO DE SANTOS\nNOTA FISCAL DE SERVIÇOS ELETRÔNICA (NFS-e)\nNúmero da nota: 60243   Data de emissão: 19/01/2026   Código de verificação: 7JE9AW35\nPRESTADOR: Sul Manutenção Predial Ltda., CNPJ 28.930.057/0001-74\nTOMADOR: Gustavo Henrique Prado, CPF 663.230.135-33\nDISCRIMINAÇÃO DOS SERVIÇOS: Auditoria de processos internos\nValor dos serviços: R$ 10.489,54   Alíquota do ISS: 2,0%   Valor do ISS: R$ 209,79   Valor líquido: R$ 10.279,75",
+  "referencia": {
+   "numero_nota": 60243,
+   "data_emissao": "2026-01-19",
+   "codigo_verificacao": "7JE9AW35",
+   "cnpj_prestador": "28930057000174",
+   "cpf_tomador": "66323013533",
+   "valor_servicos": 10489.54,
+   "aliquota_iss": 2.0,
+   "valor_iss": 209.79,
+   "valor_liquido": 10279.75
+  }
+ },
+ {
+  "id": "N10",
+  "texto": "PREFEITURA DO MUNICÍPIO DE CAMPINAS\nNOTA FISCAL DE SERVIÇOS ELETRÔNICA (NFS-e)\nNúmero da nota: 25870   Data de emissão: 21/07/2026   Código de verificação: NM9CSYJW\nPRESTADOR: Vetor Serviços Empresariais Ltda., CNPJ 11.038.238/0001-28\nTOMADOR: Larissa Mendes Araújo, CPF 629.995.002-79\nDISCRIMINAÇÃO DOS SERVIÇOS: Auditoria de processos internos\nValor dos serviços: R$ 7.515,83   Alíquota do ISS: 3,0%   Valor do ISS: R$ 225,47   Valor líquido: R$ 7.290,36",
+  "referencia": {
+   "numero_nota": 25870,
+   "data_emissao": "2026-07-21",
+   "codigo_verificacao": "NM9CSYJW",
+   "cnpj_prestador": "11038238000128",
+   "cpf_tomador": "62999500279",
+   "valor_servicos": 7515.83,
+   "aliquota_iss": 3.0,
+   "valor_iss": 225.47,
+   "valor_liquido": 7290.36
+  }
+ }
+]
