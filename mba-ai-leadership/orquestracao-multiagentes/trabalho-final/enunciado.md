@@ -78,6 +78,8 @@ Execute cada um dos seis chamados uma vez em cada automação publicada, totaliz
 
 Para cada execução, registre na planilha a saída produzida, os tokens de entrada, o custo estimado e o tempo total de execução apresentados pelo CrewAI Studio. Informe também a moeda utilizada no registro do custo.
 
+Antes de avaliar, registre para cada chamado o procedimento e as ações esperadas segundo a versão 1 das regras.
+
 Avalie os resultados segundo três critérios:
 
 | Critério | O que verificar |
